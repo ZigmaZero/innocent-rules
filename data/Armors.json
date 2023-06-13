@@ -2637,12 +2637,12 @@
     {
         "id": 101,
         "atypeId": 5,
-        "description": "Dedicated to a specific Race.\n\\C[24]犬人exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Dog exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "野生の絆",
-        "note": "<BoostEX:SKI, 68, 50>\n<BoostEX:SKI, 69, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n犬人These are held by \n　\n彼女らは、ただ純粋に仲間を想う\n互いに心を許し、その絆は断たれない\n　\nSpecial Effects:\n・「ともだちをよぶ」の威力50％上昇\n・「だいちのきば」の威力50％上昇>",
+        "name": "Bond of the Wild",
+        "note": "<BoostEX:SKI, 68, 50>\n<BoostEX:SKI, 69, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Dogs\n　\nThey think of their friends with purity.\nForgive, and the bond shan't be broken.\n　\nSpecial Effects:\n・[Call a Friend] power +50%\n・[Canopy of Wisdom] power +50%>",
         "params": [
             0,
             0,
@@ -2658,7 +2658,7 @@
     {
         "id": 102,
         "atypeId": 6,
-        "description": "Dedicated to a specific Race.\n\\C[24]廃棄人形exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Discarded Doll exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2678,8 +2678,8 @@
             }
         ],
         "iconIndex": 143,
-        "name": "違法パーツ",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n廃棄人形These are held by \n　\n彼女らは自己制限機能が壊れているため\n通常ではあり得ない能力を発揮できる\n　\nSpecial Effects:\n・最大HP20％上昇\n・毎ターンHP10％回復\n・被回復効果10％低下>",
+        "name": "Illegal Parts",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Discarded Dolls.\n　\nTheir self-limitation broken apart, they\nare now capable of more unusual abilities.\n　\nSpecial Effects:\n・Max HP +20%\n・Recover 10% HP every Turn\n・Healing effectiveness -10%>",
         "params": [
             0,
             0,
@@ -2695,12 +2695,12 @@
     {
         "id": 103,
         "atypeId": 7,
-        "description": "Dedicated to a specific Race.\n\\C[24]迷子exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Lost Child exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 146,
-        "name": "綺麗なきらきら",
-        "note": "<addStateBeforeBattle:108>\n<StateTurn108:2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n迷子These are held by \n　\n彼女らはただ、安息の地を求める\nそこがきらきらであれば、なおよい\n　\nSpecial Effects:\n・戦闘開始時に「怨恨」付与\n・「怨恨」持続ターン2増加>",
+        "name": "Beautiful Twinkle",
+        "note": "<addStateBeforeBattle:108>\n<StateTurn108:2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Lost Children.\n　\nAfter all, they just wanted a haven.\nIf it glitters? Even better.\n　\nSpecial Effects:\n・Apply [Grudge] at the start of battle\n・[Grudge] duration +2>",
         "params": [
             0,
             0,
@@ -2716,7 +2716,7 @@
     {
         "id": 104,
         "atypeId": 8,
-        "description": "Dedicated to a specific Race.\n\\C[24]殺人少女exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Murder Maiden exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2731,8 +2731,8 @@
             }
         ],
         "iconIndex": 142,
-        "name": "純粋な殺意",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n殺人少女These are held by \n　\n彼女らは殺すために生きている\n他のすべては、それに至る過程である\n　\nSpecial Effects:\n・通常攻撃ヒット数1増加\n・最大SP100％低下>",
+        "name": "Murderous Intent",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Murder Maidens.\n　\nThey live only to kill.\nEverything else is just the process.\n　\nSpecial Effects:\n・Normal Attack +1 Hits\n・Max SP -100%>",
         "params": [
             0,
             0,
@@ -2748,12 +2748,12 @@
     {
         "id": 105,
         "atypeId": 9,
-        "description": "Dedicated to a specific Race.\n\\C[24]悪鬼exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Evil Spirit exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 144,
-        "name": "雄の意地",
-        "note": "<BoostEX:PH, 25>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n悪鬼These are held by \n　\n彼らは現代において常に危機的状況にあり\n故にこそ、生き抜くための力を持つ\n　\nSpecial Effects:\n・物理攻撃の威力25％上昇>",
+        "name": "Masculine Will",
+        "note": "<BoostEX:PH, 25>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Evil Spirits.\n　\nIn our time, they are in constant crisis.\nTherefore, they obtained the strength to survive.\n　\nSpecial Effects:\n・Physical attacks +25% power>",
         "params": [
             0,
             0,
@@ -2769,12 +2769,12 @@
     {
         "id": 106,
         "atypeId": 10,
-        "description": "Dedicated to a specific Race.\n\\C[24]乳牛exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Cow Girl exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 142,
-        "name": "ベテランセット",
-        "note": "<addStateBeforeBattle:116>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n乳牛These are held by \n　\n彼女らにとって労働とは生活そのもので\nその膂力も、日々の作業で鍛えられる\n　\nSpecial Effects:\n・戦闘開始時に「剛力」付与>",
+        "name": "Veteran Set",
+        "note": "<addStateBeforeBattle:116>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n乳牛These are held by \n　\nFor them, work is life itself.\nTheir strength is also forged from life daily.\n　\nSpecial Effects:\n・Apply [Herculean Strength] at the start of battle>",
         "params": [
             0,
             0,
@@ -2790,7 +2790,7 @@
     {
         "id": 107,
         "atypeId": 11,
-        "description": "Dedicated to a specific Race.\n\\C[24]正体不明exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]UFO exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2805,8 +2805,8 @@
             }
         ],
         "iconIndex": 134,
-        "name": "終わりない渇き",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n正体不明These are held by \n　\n彼女らについては何も分からないが\nマナに飢えていることだけは確か\n　\nSpecial Effects:\n・最大HP50％上昇\n・毎ターンHP25％減少>",
+        "name": "Endless Thirst",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by UFOs.\n　\nI don't know anything about them, but\nthey are also hungry for Mana.\n　\nSpecial Effects:\n・Max HP +50%\n・Remove 25% HP every Turn>",
         "params": [
             0,
             0,
@@ -2822,7 +2822,7 @@
     {
         "id": 108,
         "atypeId": 12,
-        "description": "Dedicated to a specific Race.\n\\C[24]大鮫exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Big Shark exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2832,8 +2832,8 @@
             }
         ],
         "iconIndex": 128,
-        "name": "蒼い鱗",
-        "note": "<BoostEX:SKI, 114, 200>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n大鮫These are held by \n　\n彼女らは紛れもなく海の頂点であり\nその場において、負けることなどあり得ない\n　\nSpecial Effects:\n・攻撃に水属性付与\n・「硬い鱗」の威力200％上昇>",
+        "name": "Blue Scales",
+        "note": "<BoostEX:SKI, 114, 200>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Big Sharks.\n　\nUndeniably, they are the apex of the sea.\nThey will never lose in their home turf.\n　\nSpecial Effects:\n・Attacks gain the Water attribute\n・[Hard Scales] power +200%>",
         "params": [
             0,
             0,
@@ -2849,7 +2849,7 @@
     {
         "id": 109,
         "atypeId": 13,
-        "description": "Dedicated to a specific Race.\n\\C[24]ドラゴンexclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Dragon exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2864,8 +2864,8 @@
             }
         ],
         "iconIndex": 134,
-        "name": "竜の枷",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nドラゴンThese are held by \n　\n彼女らを制御し得るものなど存在しないが\nそれを試した愚かな歴史は存在する\n　\nSpecial Effects:\n・攻撃に炎属性付与\n・スキル「王者の戦闘」封印>",
+        "name": "Dragon Shackles",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Dragons.\n　\nThere's none that can control them,\nbut the same cannot be said for people who try.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute\n・Seal Skill [Emperor's Battle]>",
         "params": [
             0,
             0,
@@ -2881,7 +2881,7 @@
     {
         "id": 110,
         "atypeId": 14,
-        "description": "Dedicated to a specific Race.\n\\C[24]オイルexclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Oil exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2891,8 +2891,8 @@
             }
         ],
         "iconIndex": 129,
-        "name": "特製オイル",
-        "note": "<BoostEX:EL, 2, 30>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nオイルThese are held by \n　\n彼女らは、いつの間にか姿を消す\nあらゆる炎を恐れぬために\n　\nSpecial Effects:\n・最大SP30％上昇\n・炎属性攻撃の威力30％上昇>",
+        "name": "Special Oil",
+        "note": "<BoostEX:EL, 2, 30>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Oils.\n　\nThey will disappear before you know it,\nto never be afraid of any fire.\n　\nSpecial Effects:\n・Max SP +30%\n・Fire attacks +30% power>",
         "params": [
             0,
             0,
@@ -2908,12 +2908,12 @@
     {
         "id": 111,
         "atypeId": 15,
-        "description": "Dedicated to a specific Race.\n\\C[24]魔法使いexclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Magician exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 133,
-        "name": "魔法の熟達",
-        "note": "<BoostEX:MG, 25>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n魔法使いThese are held by \n　\n彼女らの魔法は常に正確である\nその知識をもとに、人々は基礎を学んだ\n　\nSpecial Effects:\n・魔法攻撃の威力25％上昇>",
+        "name": "Magic Proficiency",
+        "note": "<BoostEX:MG, 25>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Magicians.\n　\nTheir magic is always true to the source.\nThrough them, humanity learned its basics.\n　\nSpecial Effects:\n・Magic attacks +25% power>",
         "params": [
             0,
             0,
@@ -2929,7 +2929,7 @@
     {
         "id": 112,
         "atypeId": 16,
-        "description": "Dedicated to a specific Race.\n\\C[24]炎霊exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Flame Spirit exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -2944,8 +2944,8 @@
             }
         ],
         "iconIndex": 148,
-        "name": "踊り子の情熱",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n炎霊These are held by \n　\n彼女らの性質は、宿す属性により異なる\n炎の場合は情熱に溢れ、快活である\n　\nSpecial Effects:\n・毎ターンTP25増加\n・毎ターンSP10％減少>",
+        "name": "Dancer's Passion",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Fire Spirits.\n　\nTheir natures differ depending on their attributes.\nFire Spirits, for one, are passionate and cheerful.\n　\nSpecial Effects:\n・Recover 25 TP every Turn\n・Remove 10% SP every Turn>",
         "params": [
             0,
             0,
@@ -2961,12 +2961,12 @@
     {
         "id": 113,
         "atypeId": 17,
-        "description": "Dedicated to a specific Race.\n\\C[24]夜魔exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Nightmare exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 142,
-        "name": "巧みな手",
-        "note": "<DD魔法力:prev * \\V[425]>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n夜魔These are held by \n　\n彼女らは皆、マナの流れに敏感で\nその扱いも熟知している\n　\nSpecial Effects:\n・マナの恩恵により魔攻力上昇>",
+        "name": "Skillful Hand",
+        "note": "<DD魔法力:prev * \\V[425]>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Nightmares.\n　\nThey're sensitive to the flow of mana,\nand know how to utilize it.\n　\nSpecial Effects:\n・MAG increases equal to Mana Benefit.>",
         "params": [
             0,
             0,
@@ -2982,12 +2982,12 @@
     {
         "id": 114,
         "atypeId": 18,
-        "description": "Dedicated to a specific Race.\n\\C[24]和夜魔exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Aggregate exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 147,
-        "name": "魔性の存在",
-        "note": "<BoostEX:SKI, 146, 40>\n<CS_上限HP:0,156>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n和夜魔These are held by \n　\n彼女らは夜魔として優れた力を持つ\nその妖艶さは、持って生まれたものである\n　\nSpecial Effects:\n・「雅火」の威力40％上昇\n・毎ターン味方全体のTP3増加>",
+        "name": "Mystical Being",
+        "note": "<BoostEX:SKI, 146, 40>\n<CS_上限HP:0,156>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Aggregates.\n　\nAs night demons, they have superior power.\nThat bewitching nature is something they're born with.\n　\nSpecial Effects:\n・[Miyabi] power +40%\n・All allies recover 3 TP every Turn>",
         "params": [
             0,
             0,
@@ -3003,12 +3003,12 @@
     {
         "id": 115,
         "atypeId": 19,
-        "description": "Dedicated to a specific Race.\n\\C[24]雪女exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Snow Woman exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 138,
-        "name": "冬の深雪",
-        "note": "<StateTurn126:-2>\n<StateTurn127:-2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n雪女These are held by \n　\n彼女らに絆と呼べるものはない\n冬とはいずれ、孤独に移ろう\n　\nSpecial Effects:\n・「魔気」累加ターン2減少>",
+        "name": "Deep Winter Snow",
+        "note": "<StateTurn126:-2>\n<StateTurn127:-2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Snow Women.\n　\nThey do not have anything that can be called a bond.\nIn winter, let's slip into loneliness once more.\n　\nSpecial Effects:\n・「Demonic Energy」Duration -2>",
         "params": [
             0,
             0,
@@ -3024,7 +3024,7 @@
     {
         "id": 116,
         "atypeId": 20,
-        "description": "Dedicated to a specific Race.\n\\C[24]犬蛸exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Dogtopus exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3034,8 +3034,8 @@
             }
         ],
         "iconIndex": 130,
-        "name": "娘の冠",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n犬蛸These are held by \n　\n彼女らは今や腐り果てた底にいるが\nその気品まで腐ることはない\n　\nSpecial Effects:\n・スキル「アクアクラウン」習得>",
+        "name": "Daughter's Crown",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Dogtopi.\n　\nThough their body rots to the very core,\ntheir dignity never wavers.\n　\nSpecial Effects:\n・Learn Skill [Aqua Crown]>",
         "params": [
             0,
             0,
@@ -3051,7 +3051,7 @@
     {
         "id": 117,
         "atypeId": 21,
-        "description": "Dedicated to a specific Race.\n\\C[24]キマイラexclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Chimera exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3067,7 +3067,7 @@
         ],
         "iconIndex": 134,
         "name": "dG9rdWJldHN1",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nキマイラThese are held by \n　\n彼女らについて理解できることは何もない\n身に着けるものも例外ではない\n　\nSpecial Effects:\n・消費SP50％減少\n・毎ターンTP50減少>",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Chimeras.\n　\nThere is nothing we can understand about them,\nand what they wear is no exception.\n　\nSpecial Effects:\n・SP Cost -50%\n・Remove 50 TP every Turn>",
         "params": [
             0,
             0,
@@ -3083,12 +3083,12 @@
     {
         "id": 118,
         "atypeId": 22,
-        "description": "Dedicated to a specific Race.\n\\C[24]スライムexclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Slime exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 145,
-        "name": "澄み渡る水",
-        "note": "<反撃拡張:全体回復>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nスライムThese are held by \n　\n彼女らの性質は環境により変化する\n清流にあれば身も心も澄むという\n　\nSpecial Effects:\n・回復力30：被攻撃時味方全体のHP回復>",
+        "name": "Clear Water",
+        "note": "<反撃拡張:全体回復>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Slimes.\n　\nTheir nature changes with the environment.\nIf the stream is clear, so if the body and mind.\n　\nSpecial Effects:\n・Power 30: Recover all allies' HP when attacked>",
         "params": [
             0,
             0,
@@ -3104,12 +3104,12 @@
     {
         "id": 119,
         "atypeId": 23,
-        "description": "Dedicated to a specific Race.\n\\C[24]機械人形exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Machine Doll exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 143,
-        "name": "追加武装パーツ",
-        "note": "<OrderId:349>\n<SE_身代わりステート:94>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n機械人形These are held by \n　\n彼女らは主を守るためにあり\nそうしたときに、真の力を発揮する\n　\nSpecial Effects:\n・防御反応発動時に防御力と魔防力25％上昇>",
+        "name": "Ex-Arm Parts",
+        "note": "<OrderId:349>\n<SE_身代わりステート:94>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Machine Dolls.\n　\nTheir purpose is to protect their master.\nAt that moment, their true power unleashes.\n　\nSpecial Effects:\n・When Guarding, DEF and MDF +25%>",
         "params": [
             0,
             0,
@@ -3125,7 +3125,7 @@
     {
         "id": 120,
         "atypeId": 24,
-        "description": "Dedicated to a specific Race.\n\\C[24]影exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Shadow exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3135,8 +3135,8 @@
             }
         ],
         "iconIndex": 139,
-        "name": "完全なる闇",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n影These are held by \n　\n彼女らは闇に紛れる影であるからこそ\nそれを落とす光を望む\n　\nSpecial Effects:\n・闇属性攻撃無効化>",
+        "name": "Complete Darkness",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n影These are held by \n　\nBecause Shadows disappear into the dark,\nthey require the light that casts them.\n　\nSpecial Effects:\n・Nullify Dark attribute attacks>",
         "params": [
             0,
             0,
@@ -3152,12 +3152,12 @@
     {
         "id": 121,
         "atypeId": 25,
-        "description": "Dedicated to a specific Race.\n\\C[24]魔犬exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Demon Dog exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 131,
-        "name": "恐ろしい顔",
-        "note": "<BoostEX:SKI, 189, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n魔犬These are held by \n　\n彼女らは、いつしか三つ首と呼ばれ始めた\nそしてその呼び名を気に入っている\n　\nSpecial Effects:\n・「トリプルヘッド」の威力50％上昇>",
+        "name": "Scary Face",
+        "note": "<BoostEX:SKI, 189, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Demon Dogs.\n　\nBefore they knew it, they began to be called Mitsukubi.\nThey liked the name, so it stuck.\n　\nSpecial Effects:\n・[Triple Head] power +50%>",
         "params": [
             0,
             0,
@@ -3173,7 +3173,7 @@
     {
         "id": 122,
         "atypeId": 26,
-        "description": "Dedicated to a specific Race.\n\\C[24]小型蛮族exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Little Barbarian exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3188,8 +3188,8 @@
             }
         ],
         "iconIndex": 142,
-        "name": "蛮族の技巧",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n小型蛮族These are held by \n　\n彼女らの技巧は特筆すべきもので\n他の種族の文明にも影響を与えた\n　\nSpecial Effects:\n・素早さ50％上昇\n・消費SP25％減少>",
+        "name": "Craftsmanship",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Little Barbarians.\n　\nTheir techniques are remarkable and\nhave influenced the civilizations of other races.\n　\nSpecial Effects:\n・AGI +50%\n・SP Cost -25%>",
         "params": [
             0,
             0,
@@ -3205,12 +3205,12 @@
     {
         "id": 123,
         "atypeId": 27,
-        "description": "Dedicated to a specific Race.\n\\C[24]妖花exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Youka exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 134,
-        "name": "ダーナの癒し",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n妖花These are held by \n　\n彼女らはただ、成長を求め\nそうして得た力を大地へと還す\n　\nSpecial Effects:\n・癒しの手の回復力が50に変化\n・癒しの手の対象が味方全体に変化>",
+        "name": "Healing of Dana",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Youka.\n　\nThey simply seek growth,\nand return the gained power to the earth.\n　\nSpecial Effects:\n・[Healing Hands] power becomes 50\n・[Healing Hands] target becomes All Allies>",
         "params": [
             0,
             0,
@@ -3226,7 +3226,7 @@
     {
         "id": 124,
         "atypeId": 28,
-        "description": "Dedicated to a specific Race.\n\\C[24]妖茸exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Mushroom exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3236,8 +3236,8 @@
             }
         ],
         "iconIndex": 134,
-        "name": "茸の美徳",
-        "note": "<BoostEX:EL, 6, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n妖茸These are held by \n　\n彼女らの美徳とは、決して動かぬこと\n茸らしくあればあるほど気高いのだ\n　\nSpecial Effects:\n・地属性攻撃の威力50％上昇\n・スタン無効化>",
+        "name": "Fungal Virtues",
+        "note": "<BoostEX:EL, 6, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Mushrooms.\n　\nTheir virtue is to never move.\nThe more mushroom-like, the more noble.\n　\nSpecial Effects:\n・Earth attacks +50% power\n・Disable Stun>",
         "params": [
             0,
             0,
@@ -3253,7 +3253,7 @@
     {
         "id": 125,
         "atypeId": 29,
-        "description": "Dedicated to a specific Race.\n\\C[24]鳥人exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Birdman exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3263,8 +3263,8 @@
             }
         ],
         "iconIndex": 148,
-        "name": "雷の羽根",
-        "note": "<BoostEX:EL, 3, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n鳥人These are held by \n　\n彼女らにとって稲妻とは祝福であり\n繁栄の調べでもあるという\n　\nSpecial Effects:\n・攻撃に雷属性付与\n・雷属性攻撃の威力50％上昇>",
+        "name": "Thunderous Pinion",
+        "note": "<BoostEX:EL, 3, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Birdmen.\n　\nFor them, lightning is a blessing.\nIt is said to also be a study of prosperity.\n　\nSpecial Effects:\n・Attacks gain the Thunder attribute\n・Thunder attacks +50% power>",
         "params": [
             0,
             0,
@@ -3280,12 +3280,12 @@
     {
         "id": 126,
         "atypeId": 30,
-        "description": "Dedicated to a specific Race.\n\\C[24]女王蟻exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Queen Ant exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 145,
-        "name": "女王の品格",
-        "note": "<addStateBeforeBattle:84>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n女王蟻These are held by \n　\n彼女らは生まれながらに女王の定めを背負い\nその責務を果たすことを求められる\n　\nSpecial Effects:\n・戦闘中味方全体の攻撃力と魔攻力5％上昇>",
+        "name": "Queen's Dignity",
+        "note": "<addStateBeforeBattle:84>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Queen Ants.\n　\nThey were born to be queens.\nThey are required to fulfill their duties.\n　\nSpecial Effects:\n・All Allies ATK and MAG +5%>",
         "params": [
             0,
             0,
@@ -3301,7 +3301,7 @@
     {
         "id": 127,
         "atypeId": 31,
-        "description": "Dedicated to a specific Race.\n\\C[24]宿敵exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Archenemy exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3311,8 +3311,8 @@
             }
         ],
         "iconIndex": 139,
-        "name": "根源的恐怖",
-        "note": "<addStateBeforeBattle:52>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n宿敵These are held by \n　\n彼女らは、どういうわけか恐れられる\nその理由は恐れる側にも分からない\n　\nSpecial Effects:\n・毎ターンHP15％回復\n・戦闘開始時に「潜伏」付与>",
+        "name": "Primal Fear",
+        "note": "<addStateBeforeBattle:52>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Archenemies.\n　\nFor some reason, they are feared.\nNot even those in fear knows why.\n　\nSpecial Effects:\n・Recovers 15% HP every Turn\n・Apply [Concealment] at the start of battle.>",
         "params": [
             0,
             0,
@@ -3328,7 +3328,7 @@
     {
         "id": 128,
         "atypeId": 32,
-        "description": "Dedicated to a specific Race.\n\\C[24]蛇女exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Serpent Woman exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3338,8 +3338,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "凍える気配",
-        "note": "<BoostEX:EL, 4, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n蛇女These are held by \n　\n彼女らは、あまりいい印象を持たれないが\n実際のところ、厄介な性質をしている\n　\nSpecial Effects:\n・攻撃に氷属性付与\n・氷属性攻撃の威力50％上昇>",
+        "name": "Signs of Freezing",
+        "note": "<BoostEX:EL, 4, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Serpent Women.\n　\nThey don't make a very good impression,\nbut in fact they have a nasty disposition.\n　\nSpecial Effects:\n・Attacks gain the Ice attribute\n・Ice attacks +50% power>",
         "params": [
             0,
             0,
@@ -3355,7 +3355,7 @@
     {
         "id": 129,
         "atypeId": 33,
-        "description": "Dedicated to a specific Race.\n\\C[24]忍梟exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Ninja Owl exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3370,8 +3370,8 @@
             }
         ],
         "iconIndex": 148,
-        "name": "発展術式",
-        "note": "<addStateBeforeBattle:155>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n忍梟These are held by \n　\n彼女らは己のためには生きず\nその生涯で、支えるべき何者かを探す\n　\nSpecial Effects:\n・戦闘開始時に「暗器展開」付与\n・武器スキル「忍軟膏」習得>",
+        "name": "State-of-the-Art",
+        "note": "<addStateBeforeBattle:155>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Ninja Owls.\n　\nThey do not live for themselves.\nIn their life, they shall support another in time.\n　\nSpecial Effects:\n・Apply [Dark Device Deployed] at the start of combat.\n・Learn Skill [Shinobi Ointment]>",
         "params": [
             0,
             0,
@@ -3387,7 +3387,7 @@
     {
         "id": 130,
         "atypeId": 34,
-        "description": "Dedicated to a specific Race.\n\\C[24]幽霊exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Ghost exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [
             {
@@ -3402,8 +3402,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "悪戯心",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n幽霊These are held by \n　\n彼女らにとっての娯楽は悪戯である\n他者にとって、悪戯では済まないこともある\n　\nSpecial Effects:\n・魔攻力25％上昇\n・毎ターンSP5％回復>",
+        "name": "Mischievous Spirit",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Ghosts.\n　\nFor them, entertainment is a prank.\nFor others, it can be a bit more than that.\n　\nSpecial Effects:\n・MAT +25%\n・Recover 5% SP each Turn>",
         "params": [
             0,
             0,
@@ -3430,7 +3430,7 @@
         ],
         "iconIndex": 139,
         "name": "ド派手な死体",
-        "note": "<SPRevision:E,3,2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nグーラThese are held by \n　\n彼女らは屍でありながら健康を気にする\nそうでなければ美しくあれないために\n　\nSpecial Effects:\n・雷属性行動先制発動\n・毎ターンTP5増加>",
+        "note": "<SPRevision:E,3,2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Guula.\n　\nThey are corpses, but also hygienic,\nfor otherwise they could no longer be pretty.\n　\nSpecial Effects:\n・Preemptive Thunder attribute actions\n・Recover 5 TP every Turn>",
         "params": [
             0,
             0,
@@ -3446,12 +3446,12 @@
     {
         "id": 132,
         "atypeId": 36,
-        "description": "Dedicated to a specific Race.\n\\C[24]紡ぎ虫exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Spinner exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 142,
-        "name": "紡ぎ手の没頭",
-        "note": "<反撃拡張:回復>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\n紡ぎ虫These are held by \n　\n彼女らのすべては人の世話にあり\nその人にとって、彼女らこそがすべてとなる\n　\nSpecial Effects:\n・回復力50：被攻撃時HP回復>",
+        "name": "Preoccupation",
+        "note": "<反撃拡張:回復>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Spinners.\n　\nAll of them are in the care of humans.\nTo that human, they are everything.\n　\nSpecial Effects:\n・Power 50: Recovers HP when attacked>",
         "params": [
             0,
             0,
