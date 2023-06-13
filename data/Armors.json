@@ -30,11 +30,11 @@
     {
         "id": 2,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP200上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave:  \\C[0]Max HP +200",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "体力の刻印Ⅰ",
+        "name": "Symbol of Might Ⅰ",
         "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
         "params": [
             200,
@@ -51,11 +51,11 @@
     {
         "id": 3,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP300上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +300",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "体力の刻印Ⅱ",
+        "name": "Symbol of Might Ⅱ",
         "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
         "params": [
             300,
@@ -72,7 +72,7 @@
     {
         "id": 4,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -82,7 +82,7 @@
             }
         ],
         "iconIndex": 348,
-        "name": "体力の刻印Ⅲ",
+        "name": "Symbol of Might Ⅲ",
         "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
         "params": [
             0,
@@ -126,11 +126,11 @@
     {
         "id": 6,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大SP20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "気力の刻印Ⅰ",
+        "name": "Symbol of Spirit Ⅰ",
         "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
         "params": [
             0,
@@ -147,11 +147,11 @@
     {
         "id": 7,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大SP30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "気力の刻印Ⅱ",
+        "name": "Symbol of Spirit Ⅱ",
         "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
         "params": [
             0,
@@ -168,7 +168,7 @@
     {
         "id": 8,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大SP10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -178,7 +178,7 @@
             }
         ],
         "iconIndex": 348,
-        "name": "気力の刻印Ⅲ",
+        "name": "Symbol of Spirit Ⅲ",
         "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
         "params": [
             0,
@@ -222,7 +222,7 @@
     {
         "id": 10,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]ATK +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -243,7 +243,7 @@
     {
         "id": 11,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]ATK +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -264,7 +264,7 @@
     {
         "id": 12,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]ATK +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -318,7 +318,7 @@
     {
         "id": 14,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]防御力20上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -339,7 +339,7 @@
     {
         "id": 15,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]防御力30上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -360,7 +360,7 @@
     {
         "id": 16,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]防御力10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]防御力10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -414,7 +414,7 @@
     {
         "id": 18,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力20上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -435,7 +435,7 @@
     {
         "id": 19,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力30上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -456,7 +456,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -510,7 +510,7 @@
     {
         "id": 22,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔防力20上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -531,7 +531,7 @@
     {
         "id": 23,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔防力30上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -552,7 +552,7 @@
     {
         "id": 24,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔防力10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔防力10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -606,7 +606,7 @@
     {
         "id": 26,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ20上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -627,7 +627,7 @@
     {
         "id": 27,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ30上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -648,7 +648,7 @@
     {
         "id": 28,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -702,7 +702,7 @@
     {
         "id": 30,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気20上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気20上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -723,7 +723,7 @@
     {
         "id": 31,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気30上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気30上昇",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
@@ -744,7 +744,7 @@
     {
         "id": 32,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -798,7 +798,7 @@
     {
         "id": 34,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]会心率10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]会心率10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -825,7 +825,7 @@
     {
         "id": 35,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]会心率20％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]会心率20％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -852,7 +852,7 @@
     {
         "id": 36,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]回避率5％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]回避率5％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -879,7 +879,7 @@
     {
         "id": 37,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]回避率10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]回避率10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -906,7 +906,7 @@
     {
         "id": 38,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔法回避率5％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔法回避率5％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -933,7 +933,7 @@
     {
         "id": 39,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔法回避率10％上昇",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔法回避率10％上昇",
         "etypeId": 2,
         "traits": [
             {
@@ -960,7 +960,7 @@
     {
         "id": 40,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]被物理ダメージ5％軽減",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被物理ダメージ5％軽減",
         "etypeId": 2,
         "traits": [
             {
@@ -987,7 +987,7 @@
     {
         "id": 41,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]被物理ダメージ10％軽減",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被物理ダメージ10％軽減",
         "etypeId": 2,
         "traits": [
             {
@@ -1014,7 +1014,7 @@
     {
         "id": 42,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]被魔法ダメージ5％軽減",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被魔法ダメージ5％軽減",
         "etypeId": 2,
         "traits": [
             {
@@ -1041,7 +1041,7 @@
     {
         "id": 43,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]被魔法ダメージ10％軽減",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被魔法ダメージ10％軽減",
         "etypeId": 2,
         "traits": [
             {
@@ -1095,7 +1095,7 @@
     {
         "id": 45,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]毎ターンHP5％回復",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]毎ターンHP5％回復",
         "etypeId": 2,
         "traits": [
             {
@@ -1122,7 +1122,7 @@
     {
         "id": 46,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]毎ターンSP5％回復",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]毎ターンSP5％回復",
         "etypeId": 2,
         "traits": [
             {
@@ -1149,7 +1149,7 @@
     {
         "id": 47,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]毎ターンTP3増加",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]毎ターンTP3増加",
         "etypeId": 2,
         "traits": [
             {
@@ -1176,7 +1176,7 @@
     {
         "id": 48,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]消費SP20％減少",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]消費SP20％減少",
         "etypeId": 2,
         "traits": [
             {
@@ -1230,7 +1230,7 @@
     {
         "id": 50,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に炎属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に炎属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1257,7 +1257,7 @@
     {
         "id": 51,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に雷属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に雷属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1284,7 +1284,7 @@
     {
         "id": 52,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に氷属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に氷属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1311,7 +1311,7 @@
     {
         "id": 53,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に水属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に水属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1338,7 +1338,7 @@
     {
         "id": 54,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に地属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に地属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1365,7 +1365,7 @@
     {
         "id": 55,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に風属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に風属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1392,7 +1392,7 @@
     {
         "id": 56,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に光属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に光属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1419,7 +1419,7 @@
     {
         "id": 57,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃に闇属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に闇属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1527,7 +1527,7 @@
     {
         "id": 61,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]魔攻力20％上昇、攻撃に炎属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力20％上昇、攻撃に炎属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1559,7 +1559,7 @@
     {
         "id": 62,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]素早さ20％上昇、攻撃に雷属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ20％上昇、攻撃に雷属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1591,7 +1591,7 @@
     {
         "id": 63,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大HP20％上昇、攻撃に氷属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]最大HP20％上昇、攻撃に氷属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1623,7 +1623,7 @@
     {
         "id": 64,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]最大SP20％上昇、攻撃に水属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]最大SP20％上昇、攻撃に水属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1655,7 +1655,7 @@
     {
         "id": 65,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]攻撃力20％上昇、攻撃に地属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃力20％上昇、攻撃に地属性付与",
         "etypeId": 2,
         "traits": [
             {
@@ -1687,7 +1687,7 @@
     {
         "id": 66,
         "atypeId": 2,
-        "description": "武器に装着する刻印。\n\\C[24]刻印効果：\\C[0]心気20％上昇、攻撃に風属性付与",
+        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気20％上昇、攻撃に風属性付与",
         "etypeId": 2,
         "traits": [
             {
