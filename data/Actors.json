@@ -21,7 +21,7 @@
         "name": "Ino",
         "nickname": "",
         "note": "<equipSlotEx:1 2 2 2 3 4 4>\n<stand_picture:Menuface01>\n<StateTurn166:4>\n<StateTurn177:3>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[31]\n\\C[16]マナの輝き\\C[0] \\V[32]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[31]\n\\C[16]Mana Brilliance\\C[0] \\V[32]"
     },
     {
         "id": 2,
@@ -44,7 +44,7 @@
         "name": "Fiede",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface02>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[33]\n\\C[16]マナ獲得量\\C[0] \\V[34]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[33]\n\\C[16]Mana Gain\\C[0] \\V[34]"
     },
     {
         "id": 3,
@@ -225,7 +225,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "★プレイヤー",
+        "name": "★Player",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -251,7 +251,7 @@
         "name": "Merolin",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m01>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[401]\n\\C[16]マナ獲得量\\C[0] \\V[402]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[401]\n\\C[16]Mana Gain\\C[0] \\V[402]"
     },
     {
         "id": 12,
@@ -274,7 +274,7 @@
         "name": "Esro",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m02>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[403]\n\\C[16]マナ獲得量\\C[0] \\V[404]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[403]\n\\C[16]Mana Gain\\C[0] \\V[404]"
     },
     {
         "id": 13,
@@ -297,7 +297,7 @@
         "name": "Hakoco",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m03>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[405]\n\\C[16]マナ獲得量\\C[0] \\V[406]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[405]\n\\C[16]Mana Gain\\C[0] \\V[406]"
     },
     {
         "id": 14,
@@ -320,7 +320,7 @@
         "name": "Sally",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m04>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[407]\n\\C[16]マナ獲得量\\C[0] \\V[408]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[407]\n\\C[16]Mana Gain\\C[0] \\V[408]"
     },
     {
         "id": 15,
@@ -343,7 +343,7 @@
         "name": "Fis",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m05>\n<StateTurn166:2>\n<StateTurn177:1>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[409]\n\\C[16]マナ獲得量\\C[0] \\V[410]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[409]\n\\C[16]Mana Gain\\C[0] \\V[410]"
     },
     {
         "id": 16,
@@ -366,7 +366,7 @@
         "name": "Teena",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m06>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[411]\n\\C[16]マナ獲得量\\C[0] \\V[412]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[411]\n\\C[16]Mana Gain\\C[0] \\V[412]"
     },
     {
         "id": 17,
@@ -389,7 +389,7 @@
         "name": "Livre",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m07>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[413]\n\\C[16]マナ獲得量\\C[0] \\V[414]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[413]\n\\C[16]Mana Gain\\C[0] \\V[414]"
     },
     {
         "id": 18,
@@ -412,7 +412,7 @@
         "name": "Meffy",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m08>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[415]\n\\C[16]マナ獲得量\\C[0] \\V[416]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[415]\n\\C[16]Mana Gain\\C[0] \\V[416]"
     },
     {
         "id": 19,
@@ -435,7 +435,7 @@
         "name": "Belia",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m09>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[417]\n\\C[16]マナ獲得量\\C[0] \\V[418]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[417]\n\\C[16]Mana Gain\\C[0] \\V[418]"
     },
     {
         "id": 20,
@@ -458,7 +458,7 @@
         "name": "Eremy",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m10>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[419]\n\\C[16]マナ獲得量\\C[0] \\V[420]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[419]\n\\C[16]Mana Gain\\C[0] \\V[420]"
     },
     {
         "id": 21,
@@ -481,7 +481,7 @@
         "name": "Witch",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m11>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[421]\n\\C[16]マナ獲得量\\C[0] \\V[422]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[421]\n\\C[16]Mana Gain\\C[0] \\V[422]"
     },
     {
         "id": 22,
@@ -504,7 +504,7 @@
         "name": "Arte",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m12>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[423]\n\\C[16]マナ獲得量\\C[0] \\V[424]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[423]\n\\C[16]Mana Gain\\C[0] \\V[424]"
     },
     {
         "id": 23,
@@ -533,7 +533,7 @@
         "name": "Alva",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m13>\n<StateTurn177:-1>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[425]\n\\C[16]マナ獲得量\\C[0] \\V[426]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[425]\n\\C[16]Mana Gain\\C[0] \\V[426]"
     },
     {
         "id": 24,
@@ -562,7 +562,7 @@
         "name": "Yura",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m14>\n<StateTurn177:-2>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[427]\n\\C[16]マナ獲得量\\C[0] \\V[428]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[427]\n\\C[16]Mana Gain\\C[0] \\V[428]"
     },
     {
         "id": 25,
@@ -585,7 +585,7 @@
         "name": "Yukina",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m15>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[429]\n\\C[16]マナ獲得量\\C[0] \\V[430]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[429]\n\\C[16]Mana Gain\\C[0] \\V[430]"
     },
     {
         "id": 26,
@@ -608,7 +608,7 @@
         "name": "Polcy",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m16>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[431]\n\\C[16]マナ獲得量\\C[0] \\V[432]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[431]\n\\C[16]Mana Gain\\C[0] \\V[432]"
     },
     {
         "id": 27,
@@ -631,7 +631,7 @@
         "name": "Lulu",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m17>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[433]\n\\C[16]マナ獲得量\\C[0] \\V[434]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[433]\n\\C[16]Mana Gain\\C[0] \\V[434]"
     },
     {
         "id": 28,
@@ -654,7 +654,7 @@
         "name": "Merry",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m18>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[435]\n\\C[16]マナ獲得量\\C[0] \\V[436]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[435]\n\\C[16]Mana Gain\\C[0] \\V[436]"
     },
     {
         "id": 29,
@@ -677,7 +677,7 @@
         "name": "Esmi",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m19>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[437]\n\\C[16]マナ獲得量\\C[0] \\V[438]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[437]\n\\C[16]Mana Gain\\C[0] \\V[438]"
     },
     {
         "id": 30,
@@ -700,7 +700,7 @@
         "name": "Klitte",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m20>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[439]\n\\C[16]マナ獲得量\\C[0] \\V[440]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[439]\n\\C[16]Mana Gain\\C[0] \\V[440]"
     },
     {
         "id": 31,
@@ -723,7 +723,7 @@
         "name": "Bella",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m21>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[441]\n\\C[16]マナ獲得量\\C[0] \\V[442]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[441]\n\\C[16]Mana Gain\\C[0] \\V[442]"
     },
     {
         "id": 32,
@@ -746,7 +746,7 @@
         "name": "Luluka",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m22>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[443]\n\\C[16]マナ獲得量\\C[0] \\V[444]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[443]\n\\C[16]Mana Gain\\C[0] \\V[444]"
     },
     {
         "id": 33,
@@ -769,7 +769,7 @@
         "name": "Flocal",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m23>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[445]\n\\C[16]マナ獲得量\\C[0] \\V[446]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[445]\n\\C[16]Mana Gain\\C[0] \\V[446]"
     },
     {
         "id": 34,
@@ -792,7 +792,7 @@
         "name": "Kiria",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m24>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[447]\n\\C[16]マナ獲得量\\C[0] \\V[448]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[447]\n\\C[16]Mana Gain\\C[0] \\V[448]"
     },
     {
         "id": 35,
@@ -815,7 +815,7 @@
         "name": "Olnis",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m25>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[449]\n\\C[16]マナ獲得量\\C[0] \\V[450]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[449]\n\\C[16]Mana Gain\\C[0] \\V[450]"
     },
     {
         "id": 36,
@@ -838,7 +838,7 @@
         "name": "Rumika",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m26>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[451]\n\\C[16]マナ獲得量\\C[0] \\V[452]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[451]\n\\C[16]Mana Gain\\C[0] \\V[452]"
     },
     {
         "id": 37,
@@ -861,7 +861,7 @@
         "name": "Kuku",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m27>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[453]\n\\C[16]マナ獲得量\\C[0] \\V[454]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[453]\n\\C[16]Mana Gain\\C[0] \\V[454]"
     },
     {
         "id": 38,
@@ -884,7 +884,7 @@
         "name": "Anzu",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m28>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[455]\n\\C[16]マナ獲得量\\C[0] \\V[456]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[455]\n\\C[16]Mana Gain\\C[0] \\V[456]"
     },
     {
         "id": 39,
@@ -907,7 +907,7 @@
         "name": "Tobari",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m29>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[457]\n\\C[16]マナ獲得量\\C[0] \\V[458]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[457]\n\\C[16]Mana Gain\\C[0] \\V[458]"
     },
     {
         "id": 40,
@@ -930,7 +930,7 @@
         "name": "Meana",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m30>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[459]\n\\C[16]マナ獲得量\\C[0] \\V[460]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[459]\n\\C[16]Mana Gain\\C[0] \\V[460]"
     },
     {
         "id": 41,
@@ -953,7 +953,7 @@
         "name": "Guula",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m31>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[461]\n\\C[16]マナ獲得量\\C[0] \\V[462]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[461]\n\\C[16]Mana Gain\\C[0] \\V[462]"
     },
     {
         "id": 42,
@@ -976,7 +976,7 @@
         "name": "Silky",
         "nickname": "",
         "note": "<equipSlotEx:1 3 4 4 5 5 5 5>\n<stand_picture:Menuface_m32>",
-        "profile": "\\C[16]マナの恩恵\\C[0] \\V[463]\n\\C[16]マナ獲得量\\C[0] \\V[464]"
+        "profile": "\\C[16]Mana Benefit\\C[0] \\V[463]\n\\C[16]Mana Gain\\C[0] \\V[464]"
     },
     {
         "id": 43,
