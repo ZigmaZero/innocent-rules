@@ -5955,7 +5955,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼防具：エピック",
+        "name": "▼Armor: Epic",
         "note": "",
         "params": [
             0,
@@ -5972,7 +5972,7 @@
     {
         "id": 226,
         "atypeId": 1,
-        "description": "布のようにたなびくマナ。",
+        "description": "Mana flowing like cloth.",
         "etypeId": 3,
         "traits": [
             {
@@ -5987,8 +5987,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "マナマント",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n完全な存在、マナレイスの切れ端\n　\n彼らは完全でない肉体を脱ぎ捨て\n完全でない感情をも捨て去った\n　\n残された完全を、今や誰も理解できない\n　\nSpecial Effects:\n・物理攻撃反撃率4％上昇\n・魔法攻撃反射率4％上昇>",
+        "name": "Mana Mantle",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battles against powerful enemies.\nThe perfect presence, a bit of Mana Lace.\n　\nThey cast off their imperfect bodies\nand cast off their impure emotions\n　\nThe remaining perfection, can no longer be understood.\n　\nSpecial Effects:\n・Counter Rate on Physical DMG +4%\n・Counter Rate on Magical DMG +4%>",
         "params": [
             500,
             50,
@@ -6004,7 +6004,7 @@
     {
         "id": 227,
         "atypeId": 1,
-        "description": "奇妙な形状の被り物。",
+        "description": "Strangely shaped headgear.",
         "etypeId": 3,
         "traits": [
             {
@@ -6019,8 +6019,8 @@
             }
         ],
         "iconIndex": 131,
-        "name": "交信者の兜",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n交信者が被っていたもの\n　\n空の海には、繭があった\n　\n名もなき旅人は虹色の邂逅を望み\n己の信じる兜を被った\n　\nSpecial Effects:\n・混乱、睡眠無効化>",
+        "name": "Communicator's Helm",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battles against powerful enemies.\nWhat the Communicator wore.\n　\nA cocoon exists there, in the empty sea.\n　\nThe nameless wishes for the rainbow,\nwearing that helmet as his faith.\n　\nSpecial Effects:\n・Disable Sleep and Confusion>",
         "params": [
             0,
             0,
@@ -6235,7 +6235,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼防具：レジェンド",
+        "name": "▼Armor: Legend",
         "note": "",
         "params": [
             0,
@@ -6252,7 +6252,7 @@
     {
         "id": 236,
         "atypeId": 1,
-        "description": "二つの海にあった外套。",
+        "description": "A cloak in two vast emptinesses.",
         "etypeId": 3,
         "traits": [
             {
@@ -6267,8 +6267,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "天空と深海の外套",
-        "note": "<NameColor:2>\n<dPlnText:世界の記憶の断片\n誰もが知り、誰も知らぬもの\n　\n世界に海は二つある\n遥か下のものも、遥か上のものも\nそこにあることしか分からない\n　\nSpecial Effects:\n・最大HP、最大SP10％上昇>",
+        "name": "Of Sea and Sky",
+        "note": "<NameColor:2>\n<dPlnText:Fragment of the world's memories.\nWhat all learns, yet nobody knows\n　\nThere are two oceans in this world.\nOne far below, and one far above.\nAnd everything else is meaningless.\n　\nSpecial Effects:\n・Max HP and Max SP +10%>",
         "params": [
             0,
             0,
