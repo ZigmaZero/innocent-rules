@@ -907,7 +907,7 @@
             "obtainExp": "Gained %1 %2!",
             "obtainGold": "Obtained %1 \\G!",
             "obtainItem": "Obtained %1!",
-            "levelUp": "★%1 becomes %2 %3!",
+            "levelUp": "%1 becomes %2 %3!",
             "obtainSkill": "Learned %1!",
             "useItem": "%1 uses %2!",
             "criticalToEnemy": "Critical Hit!",
