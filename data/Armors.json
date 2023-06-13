@@ -30,12 +30,12 @@
     {
         "id": 2,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave:  \\C[0]Max HP +200",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave:  \\C[0]Max HP +200",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
         "name": "Symbol of Might Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             200,
             0,
@@ -51,12 +51,12 @@
     {
         "id": 3,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +300",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +300",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
         "name": "Symbol of Might Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             300,
             0,
@@ -72,7 +72,7 @@
     {
         "id": 4,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +10%",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -83,7 +83,7 @@
         ],
         "iconIndex": 348,
         "name": "Symbol of Might Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -126,12 +126,12 @@
     {
         "id": 6,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +20",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "Symbol of Spirit Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Vigor Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             20,
@@ -147,12 +147,12 @@
     {
         "id": 7,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +30",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "Symbol of Spirit Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Vigor Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             30,
@@ -168,7 +168,7 @@
     {
         "id": 8,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +10%",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -178,8 +178,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "Symbol of Spirit Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Vigor Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -222,12 +222,12 @@
     {
         "id": 10,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]ATK +20",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]ATK +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Braves Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -243,12 +243,12 @@
     {
         "id": 11,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]ATK +30",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]ATK +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Braves Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -264,7 +264,7 @@
     {
         "id": 12,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]ATK +10%",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]ATK +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -274,8 +274,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "攻撃の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Braves Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -318,12 +318,12 @@
     {
         "id": 14,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]防御力20上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]DEF +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Guardians Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -339,12 +339,12 @@
     {
         "id": 15,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]防御力30上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]DEF +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Guardians Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -360,7 +360,7 @@
     {
         "id": 16,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]防御力10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]DEF +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -370,8 +370,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "防御の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Guardians Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -414,12 +414,12 @@
     {
         "id": 18,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力20上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MAG +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Mystics Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -435,12 +435,12 @@
     {
         "id": 19,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力30上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MAG +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Mystics Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -456,7 +456,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MAG +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -466,8 +466,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "魔攻の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Mystics Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -510,12 +510,12 @@
     {
         "id": 22,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔防力20上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MDF +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Sages Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -531,12 +531,12 @@
     {
         "id": 23,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔防力30上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MDF +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Sages Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -552,7 +552,7 @@
     {
         "id": 24,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔防力10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MDF +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -562,8 +562,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "魔防の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Sages Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -606,12 +606,12 @@
     {
         "id": 26,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ20上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]AGI +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Instinct Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -627,12 +627,12 @@
     {
         "id": 27,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ30上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]AGI +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Instinct Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -648,7 +648,7 @@
     {
         "id": 28,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]AGI +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -658,8 +658,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "敏捷の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Instinct Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -702,12 +702,12 @@
     {
         "id": 30,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気20上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]SPR +20",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Hearts Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -723,12 +723,12 @@
     {
         "id": 31,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気30上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]SPR +30",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Hearts Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -744,7 +744,7 @@
     {
         "id": 32,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]SPR +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -754,8 +754,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "心気の刻印Ⅲ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Hearts Ⅲ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -798,7 +798,7 @@
     {
         "id": 34,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]会心率10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Critical Rate +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -808,8 +808,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "会心の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Lethality Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -825,7 +825,7 @@
     {
         "id": 35,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]会心率20％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Critical Rate +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -835,8 +835,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "会心の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Lethality Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -852,7 +852,7 @@
     {
         "id": 36,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]回避率5％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Evasion Rate +5%",
         "etypeId": 2,
         "traits": [
             {
@@ -862,8 +862,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "回避の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Avoidance Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -879,7 +879,7 @@
     {
         "id": 37,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]回避率10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Evasion Rate +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -889,8 +889,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "回避の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Avoidance Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -906,7 +906,7 @@
     {
         "id": 38,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔法回避率5％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Magical Evasion Rate +5%",
         "etypeId": 2,
         "traits": [
             {
@@ -916,8 +916,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "魔避の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Negation Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -933,7 +933,7 @@
     {
         "id": 39,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔法回避率10％上昇",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Magical Evasion Rate +10%",
         "etypeId": 2,
         "traits": [
             {
@@ -943,8 +943,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "魔避の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Negation Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -960,7 +960,7 @@
     {
         "id": 40,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被物理ダメージ5％軽減",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Physical DMG taken -5%",
         "etypeId": 2,
         "traits": [
             {
@@ -970,8 +970,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "鉄壁の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Ironwill Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -987,7 +987,7 @@
     {
         "id": 41,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被物理ダメージ10％軽減",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Physical DMG taken -10%",
         "etypeId": 2,
         "traits": [
             {
@@ -997,8 +997,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "鉄壁の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Ironwill Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1014,7 +1014,7 @@
     {
         "id": 42,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被魔法ダメージ5％軽減",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Magical DMG taken -5%",
         "etypeId": 2,
         "traits": [
             {
@@ -1024,8 +1024,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "結界の刻印Ⅰ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Solmana Ⅰ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1041,7 +1041,7 @@
     {
         "id": 43,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]被魔法ダメージ10％軽減",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Magical DMG taken -10%",
         "etypeId": 2,
         "traits": [
             {
@@ -1051,8 +1051,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "結界の刻印Ⅱ",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Solmana Ⅱ",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1095,7 +1095,7 @@
     {
         "id": 45,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]毎ターンHP5％回復",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Recover 5% HP every Turn",
         "etypeId": 2,
         "traits": [
             {
@@ -1105,8 +1105,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "再生の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Rebirth",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1122,7 +1122,7 @@
     {
         "id": 46,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]毎ターンSP5％回復",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Recover 5% SP every Turn",
         "etypeId": 2,
         "traits": [
             {
@@ -1132,8 +1132,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "元気の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Soothing",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1149,7 +1149,7 @@
     {
         "id": 47,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]毎ターンTP3増加",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Recover 3 TP every Turn",
         "etypeId": 2,
         "traits": [
             {
@@ -1159,8 +1159,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "昂揚の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Exaltance",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1176,7 +1176,7 @@
     {
         "id": 48,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]消費SP20％減少",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]SP Cost -20%",
         "etypeId": 2,
         "traits": [
             {
@@ -1186,8 +1186,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "節制の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Restraint",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1230,7 +1230,7 @@
     {
         "id": 50,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に炎属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Fire attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1240,8 +1240,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "炎の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Malflames",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1257,7 +1257,7 @@
     {
         "id": 51,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に雷属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Thunder attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1267,8 +1267,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "雷の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Stormclouds",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1284,7 +1284,7 @@
     {
         "id": 52,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に氷属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Ice attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1294,8 +1294,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "氷の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Frostfalls",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1311,7 +1311,7 @@
     {
         "id": 53,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に水属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Water attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1321,8 +1321,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "水の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Torrents",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1338,7 +1338,7 @@
     {
         "id": 54,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に地属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Earth attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1348,8 +1348,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "地の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Starquakes",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1365,7 +1365,7 @@
     {
         "id": 55,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に風属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Wind attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1375,8 +1375,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "風の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Whirlwinds",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1392,7 +1392,7 @@
     {
         "id": 56,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に光属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Light attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1402,8 +1402,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "光の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Luminous",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1419,7 +1419,7 @@
     {
         "id": 57,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃に闇属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Attacks gain the Dark attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1429,8 +1429,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "闇の刻印",
-        "note": "<dPlnText:武器の性能を高める刻印\n妖精が編み出し、谷の国で普及したもの\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Shadows",
+        "note": "<dPlnText:A Symbol that enhances weapons' performance.\nCreated by fairies, it spread throughout the land.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1510,7 +1510,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼ユニーク刻印",
+        "name": "▼Unique Engrave",
         "note": "",
         "params": [
             0,
@@ -1527,7 +1527,7 @@
     {
         "id": 61,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]魔攻力20％上昇、攻撃に炎属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]MAG +20%, attacks gain the Fire attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1542,8 +1542,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "不揃い角の刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n理の主の力を受け継いでいる\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Uneven Angles",
+        "note": "<NameColor:2>\n<dPlnText:A Symbol that enhances weapons' performance.\nInherits the Lord of Reason's legacy.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1559,7 +1559,7 @@
     {
         "id": 62,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]素早さ20％上昇、攻撃に雷属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]AGI +20%, attacks gain the Thunder attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1574,8 +1574,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "雷呪の覆いの刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n理の主の力を受け継いでいる\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Thunder Shroud",
+        "note": "<NameColor:2>\n<dPlnText:A Symbol that enhances weapons' performance.\nInherits the Lord of Reason's legacy.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1591,7 +1591,7 @@
     {
         "id": 63,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]最大HP20％上昇、攻撃に氷属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max HP +20%, attacks gain the Ice attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1606,8 +1606,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "狂い狩りの刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n理の主の力を受け継いでいる\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Mad Hunt",
+        "note": "<NameColor:2>\n<dPlnText:A Symbol that enhances weapons' performance.\nInherits the Lord of Reason's legacy.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1623,7 +1623,7 @@
     {
         "id": 64,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]最大SP20％上昇、攻撃に水属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]Max SP +20%, attacks gain the Water attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1638,8 +1638,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "澱み鎮めの刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n理の主の力を受け継いでいる\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Eternal Tranquil",
+        "note": "<NameColor:2>\n<dPlnText:A Symbol that enhances weapons' performance.\nInherits the Lord of Reason's legacy.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1655,7 +1655,7 @@
     {
         "id": 65,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]攻撃力20％上昇、攻撃に地属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]ATK +20%, attacks gain the Earth attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1670,8 +1670,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "殺戮の剣鬼の刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n理の主の力を受け継いでいる\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Hellish Slaughter",
+        "note": "<NameColor:2>\n<dPlnText:A Symbol that enhances weapons' performance.\nInherits the Lord of Reason's legacy.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
@@ -1687,7 +1687,7 @@
     {
         "id": 66,
         "atypeId": 2,
-        "description": "An inscription on a weapon.\n\\C[24]Engrave: \\C[0]心気20％上昇、攻撃に風属性付与",
+        "description": "A Symbol to be inscribed on a weapon.\n\\C[24]Engrave: \\C[0]SPR +20%, attacks gain the Wind attribute",
         "etypeId": 2,
         "traits": [
             {
@@ -1702,8 +1702,8 @@
             }
         ],
         "iconIndex": 348,
-        "name": "輪廻の賢者の刻印",
-        "note": "<NameColor:2>\n<dPlnText:武器の性能を高める刻印\n理の主の力を受け継いでいる\n　\n全く同一の力を持つ刻印は反発し合うという\nよって、同じ刻印を装着することはできない>",
+        "name": "Symbol of Karmic Ode",
+        "note": "<NameColor:2>\n<dPlnText:A Symbol that enhances weapons' performance.\nInherits the Lord of Reason's legacy.\n \nAs such Symbols with the exact same power repel,\nit is impossible to Engrave the same Symbol types.>",
         "params": [
             0,
             0,
