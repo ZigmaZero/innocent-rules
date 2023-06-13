@@ -12,7 +12,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - MapInfos: 0%
 - Skills: 0%
 - States: 0%
-- System: 0%
+- System: 5%
 - Tilesets: 0%
 - Troops: 0%
 - Weapons: 0%
