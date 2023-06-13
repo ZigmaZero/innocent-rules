@@ -3205,12 +3205,12 @@
     {
         "id": 123,
         "atypeId": 27,
-        "description": "Dedicated to a specific Race.\n\\C[24]Youka exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Fairy exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 134,
         "name": "Healing of Dana",
-        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Youka.\n　\nThey simply seek growth,\nand return the gained power to the earth.\n　\nSpecial Effects:\n・[Healing Hands] power becomes 50\n・[Healing Hands] target becomes All Allies>",
+        "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Fairies.\n　\nThey simply seek growth,\nand return the gained power to the earth.\n　\nSpecial Effects:\n・[Healing Hands] power becomes 50\n・[Healing Hands] target becomes All Allies>",
         "params": [
             0,
             0,
@@ -5570,7 +5570,7 @@
     {
         "id": 212,
         "atypeId": 1,
-        "description": "妖花が作り上げた特別な衣装。",
+        "description": "A special costume made by fairies.",
         "etypeId": 3,
         "traits": [
             {
@@ -5580,8 +5580,8 @@
             }
         ],
         "iconIndex": 154,
-        "name": "花のドレス",
-        "note": "<NameColor:23>\n<dPlnText:妖花たちからの贈り物\n感謝の気持ちが込められている\n　\n飾り付けられた色とりどりの花の香りが\n纏う者の心を癒し、疲れをとる\n　\nこれは女性向けに作られるものだが\n男性が着てはならない決まりはない\n　\nSpecial Effects:\n・困憊無効化>",
+        "name": "Flower Dress",
+        "note": "<NameColor:23>\n<dPlnText:A gift from the fairies.\nI am filled with much appreciation.\n　\nThe scent of colorful flowers decorated with flowers\nsoothes the wearer's mind and relieves fatigue.\n　\nThis is made for women, but\nthere is no rule that said men cannot wear it.\n　\nSpecial Effects:\n・Disable Fatigue>",
         "params": [
             0,
             20,
@@ -5597,7 +5597,7 @@
     {
         "id": 213,
         "atypeId": 1,
-        "description": "賢者が纏うとされるぼろ布。",
+        "description": "Rags said to be worn by sages.",
         "etypeId": 3,
         "traits": [
             {
@@ -5607,8 +5607,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "賢者の外套",
-        "note": "<NameColor:23>\n<dPlnText:賢者の外套と、そう呼ばれるぼろ布\nおよそ防具とは言えないもの\n　\n知識とは飾り立てるものではなく\nただ、ありのままでよいのだ\nそう思い込めば、やる気も出る\n　\nSpecial Effects:\n・TP増加率100％上昇>",
+        "name": "Sage's Mantle",
+        "note": "<NameColor:23>\n<dPlnText:The sage's cloak, and the rags it's called,\nbut totally not armor.\n　\nKnowledge is not a decoration.\nYou simply let it manifest freely.\nBy thinking that, you'll be more motivated.\n　\nSpecial Effects:\n・TP Gain Rate +100%>",
         "params": [
             0,
             0,
@@ -5624,7 +5624,7 @@
     {
         "id": 214,
         "atypeId": 1,
-        "description": "着古された夜魔の衣装。",
+        "description": "A worn-out Nightmare costume.",
         "etypeId": 3,
         "traits": [
             {
@@ -5634,8 +5634,8 @@
             }
         ],
         "iconIndex": 154,
-        "name": "夜魔の着古し",
-        "note": "<NameColor:23>\n<dPlnText:夜魔が纏う過激な衣装\n下着のようだが防具として機能する\n　\n長らく使われてきたのだろう\n夜魔の魔力が、香りと共に残留している\n　\nSpecial Effects:\n・毎ターンSP10％回復>",
+        "name": "Nightmare Outfit",
+        "note": "<NameColor:23>\n<dPlnText:A radical costume worn by night demons.\nLooks like underwear but functions as armor.\n　\nSeems to have been used for a long time.\nThe magical power remains along with the scent.\n　\nSpecial Effects:\n・Recover 10% SP every Turn>",
         "params": [
             0,
             0,
@@ -5651,7 +5651,7 @@
     {
         "id": 215,
         "atypeId": 1,
-        "description": "イカに似た三角形の被り物。",
+        "description": "Triangular headgear resembling a squid.",
         "etypeId": 3,
         "traits": [
             {
@@ -5666,8 +5666,8 @@
             }
         ],
         "iconIndex": 139,
-        "name": "イカ頭",
-        "note": "<NameColor:23>\n<dPlnText:ぬめぬめとした三角形の物体\n被るとイカになれる\n　\n恐らく装備品ではないのだが\nそれなりに頑丈で、更にはよくぬめり\n仕掛けられた攻撃や魔法が滑る\n　\nかなり臭い\n　\nSpecial Effects:\n・回避率10％上昇\n・魔法回避率10％上昇>",
+        "name": "Squid Head",
+        "note": "<NameColor:23>\n<dPlnText:A slimy triangular object.\nWear it to become a squid.\n　\nProbably not actual equipment,\nbut it's reasonably well-suited to be.\nPrepped up attacks slip off.\n　\nSmells pretty bad.\n　\nSpecial Effects:\n・Evasion Rate +10%\n・Magical Evasion Rate +10%>",
         "params": [
             0,
             0,
@@ -5683,7 +5683,7 @@
     {
         "id": 216,
         "atypeId": 1,
-        "description": "紡ぎ虫が作る上質な服。",
+        "description": "Quality clothes made by spinning worms.",
         "etypeId": 3,
         "traits": [
             {
@@ -5708,8 +5708,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "蛾の衣",
-        "note": "<NameColor:23>\n<dPlnText:触り心地のいい衣服\n防具としての性能が高い\n　\n柔らかな生地に包まれると多幸感に満ち\n己への攻撃など気にもならなくなるが\n己の攻撃も、柔になる\n　\nSpecial Effects:\n・被物理魔法ダメージ15％軽減\n・攻撃力、魔攻力25％低下>",
+        "name": "Mothproof Clothing",
+        "note": "<NameColor:23>\n<dPlnText:Clothing that feels good to the touch.\nHigh effectiveness as protective gear.\n　\nFull of the euphoria of soft fabric.\nThe fabric makes attacks harder to care about,\nbut your attacks become softer also.\n　\nSpecial Effects:\n・Physical and Magical DMG taken -15%\n・ATK and MAG -25%>",
         "params": [
             0,
             0,
@@ -5725,12 +5725,12 @@
     {
         "id": 217,
         "atypeId": 1,
-        "description": "風の力を帯びた帽子。",
+        "description": "A hat imbued with the winds.",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 133,
-        "name": "風の帽子",
-        "note": "<BoostEX:EL, 7, 20>\n<NameColor:23>\n<dPlnText:とても軽い帽子\n風を帯び、被らずにいると浮かび上がる\n　\nこれは輪廻の賢者の作品であり\n清風大陸の精霊たちが愛用している\n　\nSpecial Effects:\n・風属性攻撃の威力20％上昇>",
+        "name": "Windy Hat",
+        "note": "<BoostEX:EL, 7, 20>\n<NameColor:23>\n<dPlnText:A very light hat.\nIf you're not careful, it might fly right off.\n　\nThe work of the Sage of Reincarnation,\nand popular among the spirits of Seifu.\n　\nSpecial Effects:\n・Wind attacks +20% power>",
         "params": [
             0,
             0,
@@ -5746,7 +5746,7 @@
     {
         "id": 218,
         "atypeId": 1,
-        "description": "夜空に似た外套。",
+        "description": "A cloak that resembles the night sky.",
         "etypeId": 3,
         "traits": [
             {
@@ -5761,8 +5761,8 @@
             }
         ],
         "iconIndex": 138,
-        "name": "ナイトヴェール",
-        "note": "<NameColor:23>\n<dPlnText:夜空のように暗く、星が瞬く外套\n現実のものとは思えない防具\n　\n海を漂う繭の中には異なる世界があり\nそれを垣間見れば、新奇な天啓を得る\n　\nSpecial Effects:\n・被光、闇属性ダメージ20％軽減>",
+        "name": "Night Veil",
+        "note": "<NameColor:23>\n<dPlnText:An unreal cloak as dark as the night\nand shines with twinkling stars.\n　\nThere are different worlds drifting in the sea,\nand each glimpse is a new revelation.\n　\nSpecial Effects:\n・Light and Dark DMG taken -20%>",
         "params": [
             0,
             0,
@@ -5778,7 +5778,7 @@
     {
         "id": 219,
         "atypeId": 1,
-        "description": "誰かの記憶に残る防具",
+        "description": "Armor that is in someone's memory.",
         "etypeId": 3,
         "traits": [
             {
@@ -5793,8 +5793,8 @@
             }
         ],
         "iconIndex": 137,
-        "name": "伝承の鎧",
-        "note": "<NameColor:23>\n<dPlnText:記憶から紡がれた装備品\n堅実な性能をしている\n　\n優れたものは記憶に残る\n敵もまた、そうであるため\nこちらもその力を以て対抗すべきだ\n　\nSpecial Effects:\n・被物理魔法ダメージ5％軽減>",
+        "name": "Armor of Tradition",
+        "note": "<NameColor:23>\n<dPlnText:Equipments spun from memories.\nSolid performance.\n　\nGood things are memorable.\nOur enemies are also memorable,\nso we must counter them with our own strength.\n　\nSpecial Effects:\n・Physical and Magical DMG -5%>",
         "params": [
             0,
             0,
