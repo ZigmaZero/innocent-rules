@@ -4311,7 +4311,7 @@
     {
         "id": 122,
         "animationId": 187,
-        "description": "魔物が扱う魔法の武器。\n\\C[24]Weapon Skill: \\C[0]弾ける魔力",
+        "description": "A magical weapon wielded by monsters.\n\\C[24]Weapon Skill: \\C[0]Explosion",
         "etypeId": 1,
         "traits": [
             {
@@ -4331,8 +4331,8 @@
             }
         ],
         "iconIndex": 325,
-        "name": "魔力の枝",
-        "note": "<dPlnText:魔力を宿す小さな木の枝\n魔物であれば、誰でも扱える\n　\n他の種族でも魔物の武器を持つことはできる\nしかし皆、しっくりこないと口を揃える\n　\nNo special effects.>",
+        "name": "Magic Branch",
+        "note": "<dPlnText:A small tree branch that holds magical powers.\nBasically anyone can use this as long as they're a monster.\n　\nHeck, even other races can use monster weapons,\nbut everyone agreed it just didn't feel right.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -4349,7 +4349,7 @@
     {
         "id": 123,
         "animationId": 187,
-        "description": "蛮族に伝わる儀式の道具。\n\\C[24]Weapon Skill: \\C[0]弾ける魔力",
+        "description": "Ceremonial tool handed down to barbarians.\n\\C[24]Weapon Skill: \\C[0]Explosion",
         "etypeId": 1,
         "traits": [
             {
@@ -4369,8 +4369,8 @@
             }
         ],
         "iconIndex": 325,
-        "name": "まじない棒",
-        "note": "<dPlnText:とある儀式のための道具\n呪術師と呼ばれた蛮族が用いたという\n　\n蛮族の呪術師はもういない\n彼女らの残虐性は、同胞からも忌避された\n　\nNo special effects.>",
+        "name": "Magic Stick",
+        "note": "<dPlnText:Tools for a certain ritual.\nIt is said to have been used by shamans,\n　\nbut such monsters no longer exist.\nTheir cruelty was shunned even by their compatriots.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -4387,7 +4387,7 @@
     {
         "id": 124,
         "animationId": 187,
-        "description": "魔物だけが読める魔法の書物。\n\\C[24]Weapon Skill: \\C[0]拡散する魔力",
+        "description": "A magical book that only monsters can read.\n\\C[24]Weapon Skill: \\C[0]Spreading",
         "etypeId": 1,
         "traits": [
             {
@@ -4407,8 +4407,8 @@
             }
         ],
         "iconIndex": 345,
-        "name": "魔物の知識",
-        "note": "<dPlnText:魔法使いが最初に書き上げるもの\n魔法の初歩が記されている\n　\n本来、魔法使いとは魔物の種族を指す\n彼女らの生き様こそが指針となり\n肩書きとして定着した\n　\nNo special effects.>",
+        "name": "Monster Knowledge",
+        "note": "<dPlnText:The first thing a magician pens in their life.\nIt contains the fundamentals of all magic.\n　\nOriginally, the world referred to a race of monsters,\nand now their way of life has become a title\nand a guiding principle.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -4425,7 +4425,7 @@
     {
         "id": 125,
         "animationId": 187,
-        "description": "手に魔力を集中させる道具。\n\\C[24]Weapon Skill: \\C[0]魔法殴打",
+        "description": "A tool that concentrates magic to the hands.\n\\C[24]Weapon Skill: \\C[0]Magical Strike",
         "etypeId": 1,
         "traits": [
             {
@@ -4445,8 +4445,8 @@
             }
         ],
         "iconIndex": 330,
-        "name": "魔法の手",
-        "note": "<dPlnText:魔力を集め、留める手袋\nそうして敵を殴打する\n　\n人の観点では便利な道具だろうが\n魔法を操る魔物は魔力の扱いにも長け\n集めるだけならば、自力でできる\n　\nNo special effects.>",
+        "name": "Magic Hand",
+        "note": "<dPlnText:Gloves that collect and hold magic within,\nand then strike upon the enemy.\n　\nIt might seem convenient for a human, but\nmonsters who can manifest magical powers can\nalso just manipulate the magic themselves.\n　\nNo special effects.>",
         "params": [
             0,
             10,
@@ -4463,7 +4463,7 @@
     {
         "id": 126,
         "animationId": 187,
-        "description": "機械人形の装備品の試作。\n\\C[24]Weapon Skill: \\C[0]弾ける魔力",
+        "description": "Prototype equipment for mechanical dolls.\n\\C[24]Weapon Skill: \\C[0]Explosion",
         "etypeId": 1,
         "traits": [
             {
@@ -4483,8 +4483,8 @@
             }
         ],
         "iconIndex": 325,
-        "name": "機械人形の杖",
-        "note": "<dPlnText:機械人形の装備品\n人の身では振るえない重さ\n　\n機械人形のためにあるもので\n機械人形でない者が持つことは\n上層において規定違反となる\n　\nNo special effects.>",
+        "name": "Machine Doll Wand",
+        "note": "<dPlnText:Machine Doll accessories.\nIts weight cannot be moved by the human body.\n　\nIt's for mechanical dolls, so it's a violation if\nsomeone who isn't a mechanical doll\ngets hold of it.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -4978,7 +4978,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼魔物の武器：レア",
+        "name": "▼Monster: Rare",
         "note": "",
         "params": [
             0,
