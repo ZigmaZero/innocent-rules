@@ -5761,7 +5761,7 @@
     {
         "id": 162,
         "animationId": 240,
-        "description": "機械人形の武装の一つ。\n\\C[24]Weapon Skill: \\C[0]バーストショット",
+        "description": "One of the Machine Dolls' armaments.\n\\C[24]Weapon Skill: \\C[0]Burst Shot",
         "etypeId": 1,
         "traits": [
             {
@@ -5786,8 +5786,8 @@
             }
         ],
         "iconIndex": 340,
-        "name": "ビームライフル",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n変異した雷樹の根に絡まっていた\n　\nおよそケルタイルトには似つかわしくない武器\n何者かが落とし、引っ掛かってしまったのだろう\n　\nSpecial Effects:\n・通常攻撃選択時に素早さ100上昇>",
+        "name": "Beam Rifle",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nEntangled in the roots of a mutated thundertree.\n　\nThe weapon's form looks unfit to Certilt's.\nSomeone must have dropped it on the way.\n　\nSpecial Effects:\n・AGI +100 on Normal Attack>",
         "params": [
             0,
             0,
@@ -5804,7 +5804,7 @@
     {
         "id": 163,
         "animationId": 6,
-        "description": "鞭のようにしなる炎の夜魔の髪。\n\\C[24]Weapon Skill: \\C[0]魔力回帰",
+        "description": "Fiery hair of a Nightmare, bends like a whip.\n\\C[24]Weapon Skill: \\C[0]Magic Return",
         "etypeId": 1,
         "traits": [
             {
@@ -5829,8 +5829,8 @@
             }
         ],
         "iconIndex": 324,
-        "name": "カウンリューアの髪",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\nマグマ竜魚の力の源\n　\n膨大な炎を宿していたようだが\n今は燃え尽き、魔力だけが残っている\n　\nSpecial Effects:\n・魔攻力5％上昇>",
+        "name": "Kanlua Hair",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe source of the power of the bear dragonfish.\n　\nIt seems to have once hosted a great flame,\nbut it has since faded, leaving only magic.\n　\nSpecial Effects:\n・MAG +5%>",
         "params": [
             0,
             0,
@@ -5847,7 +5847,7 @@
     {
         "id": 164,
         "animationId": 6,
-        "description": "呪術師の儀式に使われる祭具。\n\\C[24]Weapon Skill: \\C[0]焔の呪術",
+        "description": "Ritual equipment used in witchcraft.\n\\C[24]Weapon Skill: \\C[0]Crimson Flame",
         "etypeId": 1,
         "traits": [
             {
@@ -5872,8 +5872,8 @@
             }
         ],
         "iconIndex": 325,
-        "name": "蛮族の呪術杖",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n呪われた祭具そのもの\n　\nいつからか、儀式は祭具に支配され\n呪術師たちは、それに従う駒であった\n　\nSpecial Effects:\n・混乱無効化>",
+        "name": "Barbarian Wand",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe very cursed ritual itself.\n　\nAfter some time, rituals are governed by implements,\nand sorcerers only follow them as pawns.\n　\nSpecial Effects:\n・Disable Confusion>",
         "params": [
             0,
             0,
@@ -5890,7 +5890,7 @@
     {
         "id": 165,
         "animationId": 194,
-        "description": "双子の機械人形の武器。\n\\C[24]Weapon Skill: \\C[0]ドリル射出",
+        "description": "Weapons of Twin Machine Dolls.\n\\C[24]Weapon Skill: \\C[0]Spiral Inject",
         "etypeId": 1,
         "traits": [
             {
@@ -5915,8 +5915,8 @@
             }
         ],
         "iconIndex": 331,
-        "name": "ドリルユニット",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n機械の双子に与えられた武器\n　\n掘削用の機械であり、かつては\n遺跡の拡張に用いられた\nそれが双子の任務であった\n　\nSpecial Effects:\n・会心率10％上昇>",
+        "name": "Drill Unit",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nWeapons given to mechanical twins.\n　\nAn excavating machine,\nonce used to expand the ruins.\nThat was once the twins' mission.\n　\nSpecial Effects:\n・Critical Rate +10%>",
         "params": [
             0,
             0,
