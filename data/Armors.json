@@ -9524,7 +9524,7 @@
     {
         "id": 351,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ヒーリング",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Healing",
         "etypeId": 5,
         "traits": [
             {
@@ -9534,8 +9534,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ヒーリング",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Healing",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9551,7 +9551,7 @@
     {
         "id": 352,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]キュア",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Cure",
         "etypeId": 5,
         "traits": [
             {
@@ -9561,8 +9561,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "キュア",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Cure",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9578,7 +9578,7 @@
     {
         "id": 353,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]キュアオール",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Cure All",
         "etypeId": 5,
         "traits": [
             {
@@ -9588,8 +9588,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "キュアオール",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Cure All",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9605,7 +9605,7 @@
     {
         "id": 354,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]リカバリー",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Recovery",
         "etypeId": 5,
         "traits": [
             {
@@ -9615,8 +9615,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "リカバリー",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Recovery",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9632,7 +9632,7 @@
     {
         "id": 355,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]リカバリーオール",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Recovery All",
         "etypeId": 5,
         "traits": [
             {
@@ -9642,8 +9642,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "リカバリーオール",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Recovery All",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9659,7 +9659,7 @@
     {
         "id": 356,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]レイズ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Raise",
         "etypeId": 5,
         "traits": [
             {
@@ -9669,8 +9669,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "レイズ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Raise",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9686,7 +9686,7 @@
     {
         "id": 357,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]キュアレイズ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Cure Raise",
         "etypeId": 5,
         "traits": [
             {
@@ -9696,8 +9696,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "キュアレイズ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Cure Raise",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9713,7 +9713,7 @@
     {
         "id": 358,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ライフオーラ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Life Aura",
         "etypeId": 5,
         "traits": [
             {
@@ -9723,8 +9723,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ライフオーラ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Life Aura",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9740,7 +9740,7 @@
     {
         "id": 359,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]エナジーオーラ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Energy Aura",
         "etypeId": 5,
         "traits": [
             {
@@ -9750,8 +9750,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "エナジーオーラ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Energy Aura",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9794,7 +9794,7 @@
     {
         "id": 361,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドブロック",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Block",
         "etypeId": 5,
         "traits": [
             {
@@ -9804,8 +9804,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドブロック",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Block",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9821,7 +9821,7 @@
     {
         "id": 362,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]スタンドアウト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Stand Out",
         "etypeId": 5,
         "traits": [
             {
@@ -9831,8 +9831,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "スタンドアウト",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Stand Out",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9848,7 +9848,7 @@
     {
         "id": 363,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ハイディング",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Hiding",
         "etypeId": 5,
         "traits": [
             {
@@ -9858,8 +9858,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ハイディング",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Hiding",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9875,7 +9875,7 @@
     {
         "id": 364,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]エーテルコール",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Aether Call",
         "etypeId": 5,
         "traits": [
             {
@@ -9885,8 +9885,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "エーテルコール",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Aether Call",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9902,7 +9902,7 @@
     {
         "id": 365,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]バイタルアップ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Vital Up",
         "etypeId": 5,
         "traits": [
             {
@@ -9912,8 +9912,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "バイタルアップ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Vital Up",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9929,7 +9929,7 @@
     {
         "id": 366,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]パワーアップ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Power Up",
         "etypeId": 5,
         "traits": [
             {
@@ -9939,8 +9939,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "パワーアップ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Power Up",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9956,7 +9956,7 @@
     {
         "id": 367,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]マジックアップ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Magic Up",
         "etypeId": 5,
         "traits": [
             {
@@ -9966,8 +9966,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "マジックアップ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Magic Up",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -9983,7 +9983,7 @@
     {
         "id": 368,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ガードアップ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Guard Up",
         "etypeId": 5,
         "traits": [
             {
@@ -9993,8 +9993,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ガードアップ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Guard Up",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10010,7 +10010,7 @@
     {
         "id": 369,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]パワーフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Power Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10020,8 +10020,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "パワーフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Power Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10037,7 +10037,7 @@
     {
         "id": 370,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]マジックフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Magic Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10047,8 +10047,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "マジックフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Magic Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10064,7 +10064,7 @@
     {
         "id": 371,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ガードフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Guard Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10074,8 +10074,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ガードフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Guard Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10091,7 +10091,7 @@
     {
         "id": 372,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]スピードフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Speed Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10101,8 +10101,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "スピードフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Speed Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10118,7 +10118,7 @@
     {
         "id": 373,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]マインドフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Mind Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10128,8 +10128,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "マインドフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Mind Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10145,7 +10145,7 @@
     {
         "id": 374,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]シャープフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Sharp Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10155,8 +10155,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "シャープフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Sharp Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10172,7 +10172,7 @@
     {
         "id": 375,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ステップフォース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Step Force",
         "etypeId": 5,
         "traits": [
             {
@@ -10182,8 +10182,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ステップフォース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Step Force",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10226,7 +10226,7 @@
     {
         "id": 377,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]パワーウィーク",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Power Weak",
         "etypeId": 5,
         "traits": [
             {
@@ -10236,8 +10236,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "パワーウィーク",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Power Weak",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10253,7 +10253,7 @@
     {
         "id": 378,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ガードウィーク",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Guard Weak",
         "etypeId": 5,
         "traits": [
             {
@@ -10263,8 +10263,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ガードウィーク",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Guard Weak",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10280,7 +10280,7 @@
     {
         "id": 379,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]スピードウィーク",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Speed Weak",
         "etypeId": 5,
         "traits": [
             {
@@ -10290,8 +10290,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "スピードウィーク",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Speed Weak",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10307,7 +10307,7 @@
     {
         "id": 380,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ナチュラライズ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Natura Rise",
         "etypeId": 5,
         "traits": [
             {
@@ -10317,8 +10317,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ナチュラライズ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Natura Rise",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10334,7 +10334,7 @@
     {
         "id": 381,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]イレース",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Erase",
         "etypeId": 5,
         "traits": [
             {
@@ -10344,8 +10344,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "イレース",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Erase",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10361,7 +10361,7 @@
     {
         "id": 382,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ストレイン",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Strain",
         "etypeId": 5,
         "traits": [
             {
@@ -10371,8 +10371,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ストレイン",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Strain",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10415,7 +10415,7 @@
     {
         "id": 384,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ファイア",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Fire",
         "etypeId": 5,
         "traits": [
             {
@@ -10425,8 +10425,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ファイア",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Fire",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10442,7 +10442,7 @@
     {
         "id": 385,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドファイア",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Fire",
         "etypeId": 5,
         "traits": [
             {
@@ -10452,8 +10452,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドファイア",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Fire",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10469,7 +10469,7 @@
     {
         "id": 386,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ボルト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Bolt",
         "etypeId": 5,
         "traits": [
             {
@@ -10479,8 +10479,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ボルト",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Bolt",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10496,7 +10496,7 @@
     {
         "id": 387,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドボルト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Bolt",
         "etypeId": 5,
         "traits": [
             {
@@ -10506,8 +10506,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドボルト",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wild Bolt",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10523,7 +10523,7 @@
     {
         "id": 388,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]アイス",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Ice",
         "etypeId": 5,
         "traits": [
             {
@@ -10533,8 +10533,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "アイス",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Ice",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10550,7 +10550,7 @@
     {
         "id": 389,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドアイス",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Ice",
         "etypeId": 5,
         "traits": [
             {
@@ -10560,8 +10560,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドアイス",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Ice",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10577,7 +10577,7 @@
     {
         "id": 390,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]バブル",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Bubble",
         "etypeId": 5,
         "traits": [
             {
@@ -10587,8 +10587,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "バブル",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Bubble",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10604,7 +10604,7 @@
     {
         "id": 391,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドバブル",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Bubble",
         "etypeId": 5,
         "traits": [
             {
@@ -10614,8 +10614,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドバブル",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Bubble",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10631,7 +10631,7 @@
     {
         "id": 392,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]グロウ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Grow",
         "etypeId": 5,
         "traits": [
             {
@@ -10641,8 +10641,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "グロウ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Grow",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10658,7 +10658,7 @@
     {
         "id": 393,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドグロウ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Grow",
         "etypeId": 5,
         "traits": [
             {
@@ -10668,8 +10668,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドグロウ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Grow",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10685,7 +10685,7 @@
     {
         "id": 394,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ウインド",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wind",
         "etypeId": 5,
         "traits": [
             {
@@ -10695,8 +10695,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ウインド",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wind",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10712,7 +10712,7 @@
     {
         "id": 395,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドウインド",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Wind",
         "etypeId": 5,
         "traits": [
             {
@@ -10722,8 +10722,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドウインド",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Wind",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10739,7 +10739,7 @@
     {
         "id": 396,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]セイント",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Saint",
         "etypeId": 5,
         "traits": [
             {
@@ -10749,8 +10749,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "セイント",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Saint",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10766,7 +10766,7 @@
     {
         "id": 397,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドセイント",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Saint",
         "etypeId": 5,
         "traits": [
             {
@@ -10776,8 +10776,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドセイント",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Saint",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10793,7 +10793,7 @@
     {
         "id": 398,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]シェイド",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Shade",
         "etypeId": 5,
         "traits": [
             {
@@ -10803,8 +10803,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "シェイド",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Shade",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10820,7 +10820,7 @@
     {
         "id": 399,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドシェイド",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Shade",
         "etypeId": 5,
         "traits": [
             {
@@ -10830,8 +10830,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドシェイド",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Shade",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -10847,7 +10847,7 @@
     {
         "id": 400,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]バーニングフレア",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Burning Flare",
         "etypeId": 5,
         "traits": [
             {
@@ -10857,7 +10857,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "バーニングフレア",
+        "name": "Burning Flare",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -10874,7 +10874,7 @@
     {
         "id": 401,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]サンダーブラスト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Thunder Blast",
         "etypeId": 5,
         "traits": [
             {
@@ -10884,7 +10884,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "サンダーブラスト",
+        "name": "Thunder Blast",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -10901,7 +10901,7 @@
     {
         "id": 402,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]アイスエイジワールド",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Ice Age",
         "etypeId": 5,
         "traits": [
             {
@@ -10911,7 +10911,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "アイスエイジワールド",
+        "name": "Ice Age",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -10928,7 +10928,7 @@
     {
         "id": 403,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]タイダルウェイブ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Tidal Wave",
         "etypeId": 5,
         "traits": [
             {
@@ -10938,7 +10938,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "タイダルウェイブ",
+        "name": "Tidal Wave",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -10955,7 +10955,7 @@
     {
         "id": 404,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]アースシャイニング",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Earth Shining",
         "etypeId": 5,
         "traits": [
             {
@@ -10965,7 +10965,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "アースシャイニング",
+        "name": "Earth Shining",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -10982,7 +10982,7 @@
     {
         "id": 405,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]エルダーストーム",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Elder Storm",
         "etypeId": 5,
         "traits": [
             {
@@ -10992,7 +10992,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "エルダーストーム",
+        "name": "Elder Storm",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -11009,7 +11009,7 @@
     {
         "id": 406,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ホーリーレイン",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Holy Rain",
         "etypeId": 5,
         "traits": [
             {
@@ -11019,7 +11019,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ホーリーレイン",
+        "name": "Holy Rain",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -11036,7 +11036,7 @@
     {
         "id": 407,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ダークネスフォール",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Darkness Fall",
         "etypeId": 5,
         "traits": [
             {
@@ -11046,7 +11046,7 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ダークネスフォール",
+        "name": "Darkness Fall",
         "note": "<OrderId:410>\n<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n属性の力の極致とも言える大魔法を\n神話の時代の英雄たちは、いとも容易く\n唱えてみせたという>",
         "params": [
             0,
@@ -11063,7 +11063,7 @@
     {
         "id": 408,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]バースト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Burst",
         "etypeId": 5,
         "traits": [
             {
@@ -11073,8 +11073,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "バースト",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Burst",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11090,7 +11090,7 @@
     {
         "id": 409,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ワイドバースト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Wide Burst",
         "etypeId": 5,
         "traits": [
             {
@@ -11100,8 +11100,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ワイドバースト",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Wide Burst",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11144,7 +11144,7 @@
     {
         "id": 411,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]オーラショック",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Aura Shock",
         "etypeId": 5,
         "traits": [
             {
@@ -11154,8 +11154,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "オーラショック",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Aura Shock",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11171,7 +11171,7 @@
     {
         "id": 412,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ドレイン",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Drain",
         "etypeId": 5,
         "traits": [
             {
@@ -11181,8 +11181,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ドレイン",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Drain",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11225,7 +11225,7 @@
     {
         "id": 414,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]パワーアタック",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Power Attack",
         "etypeId": 5,
         "traits": [
             {
@@ -11235,8 +11235,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "パワーアタック",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Power Attack",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11252,7 +11252,7 @@
     {
         "id": 415,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ファストアタック",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]First Attack",
         "etypeId": 5,
         "traits": [
             {
@@ -11262,8 +11262,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ファストアタック",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "First Attack",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11279,7 +11279,7 @@
     {
         "id": 416,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ピアッシング",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Piercing",
         "etypeId": 5,
         "traits": [
             {
@@ -11289,8 +11289,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ピアッシング",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Piercing",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11306,7 +11306,7 @@
     {
         "id": 417,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ブレイクダスト",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Break Dust",
         "etypeId": 5,
         "traits": [
             {
@@ -11316,8 +11316,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ブレイクダスト",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Break Dust",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11333,7 +11333,7 @@
     {
         "id": 418,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ガードラッシュ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Guard Rush",
         "etypeId": 5,
         "traits": [
             {
@@ -11343,8 +11343,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ガードラッシュ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Guard Rush",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11360,7 +11360,7 @@
     {
         "id": 419,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]マナグラスプ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Mana Grasp",
         "etypeId": 5,
         "traits": [
             {
@@ -11370,8 +11370,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "マナグラスプ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Mana Grasp",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11387,7 +11387,7 @@
     {
         "id": 420,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ダブルストライク",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Double Strike",
         "etypeId": 5,
         "traits": [
             {
@@ -11397,8 +11397,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ダブルストライク",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Double Strike",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11414,7 +11414,7 @@
     {
         "id": 421,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]マッドストラグル",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Mad Struggle",
         "etypeId": 5,
         "traits": [
             {
@@ -11424,8 +11424,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "マッドストラグル",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Mad Struggle",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11441,7 +11441,7 @@
     {
         "id": 422,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]ランページ",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Rampage",
         "etypeId": 5,
         "traits": [
             {
@@ -11451,8 +11451,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "ランページ",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Rampage",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11468,7 +11468,7 @@
     {
         "id": 423,
         "atypeId": 3,
-        "description": "魔物のための技結晶。\n\\C[24]スキル追加：\\C[0]マーダー",
+        "description": "Skill Crystal for monsters.\n\\C[24]Contain Skill: \\C[0]Murder",
         "etypeId": 5,
         "traits": [
             {
@@ -11478,8 +11478,8 @@
             }
         ],
         "iconIndex": 349,
-        "name": "マーダー",
-        "note": "<dPlnText:一時的に新たな技能を得る結晶\n人の身では扱えない特異な物質\n　\n魔物たちは、技の祖であるという説がある\n戦う術を、生まれながらに知っているのだ>",
+        "name": "Murder",
+        "note": "<dPlnText:A crystal that temporarily grants new skills.\nA unique substance that cannot be handled by human bodies.\nThere is a theory that demons originated the fighting arts.\nAfter all, they are born with that instinct..>",
         "params": [
             0,
             0,
@@ -11576,12 +11576,12 @@
     {
         "id": 427,
         "atypeId": 3,
-        "description": "フィーデが思い起こした記憶の結晶。",
+        "description": "Fiede's recollection, crystallized memories.",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 349,
-        "name": "宵闇の想起",
-        "note": "<BoostEX:EL, 9, 20>\n<NameColor:23>\n<dPlnText:特別な技結晶\n記憶を辿り、技能ではなく経験を得る\n　\n極めて稀ではあるが、魔物の記憶と経験が\n何も求めず結晶化することがある\n心に残る思い出であればこそ\n　\nSpecial Effects:\n・闇属性攻撃の威力20％上昇>",
+        "name": "Evening Dusk",
+        "note": "<BoostEX:EL, 9, 20>\n<NameColor:23>\n<dPlnText:Special Skill Crystal.\nTrace that memory, not for skills, but for experiences.\n　\nAlthough extremely rare, a demon may,\nwithout requiring anything, crystallize their most\nmemorable moments and experiences.\n　\nSpecial Effects:\n・Dark attacks +20% power>",
         "params": [
             0,
             0,
