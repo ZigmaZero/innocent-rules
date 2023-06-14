@@ -5340,7 +5340,7 @@
     {
         "id": 150,
         "animationId": 6,
-        "description": "A weapon once used by a maiden of tranquility.\n\\C[24]Weapon Skill: \\C[0]Rite of Stagnation",
+        "description": "A weapon once used by a maiden of stagnation.\n\\C[24]Weapon Skill: \\C[0]Rite of Stagnation",
         "etypeId": 1,
         "traits": [
             {
@@ -5361,7 +5361,7 @@
         ],
         "iconIndex": 344,
         "name": "Shrine Maiden's Ceremony",
-        "note": "<BoostEX:MG, 10>\n<NameColor:23>\n<dPlnText:Ordwald's treasure.\nConsists of a blade shaped by magic.\n　\nOnce, a shrine maiden casted the Rite\nto rest the pulse of stagnation.\n　\nSpecial Effects:\n・Magic attacks +10% power>",
+        "note": "<BoostEX:MG, 10>\n<NameColor:23>\n<dPlnText:Ordwald's treasure.\nConsists of a blade shaped by magic.\n　\nOnce, a shrine maiden casted the Rite in the sea of darkness\nto rest the pulse of stagnation.\n　\nSpecial Effects:\n・Magic attacks +10% power>",
         "params": [
             0,
             0,
@@ -6461,7 +6461,7 @@
     {
         "id": 182,
         "animationId": 215,
-        "description": "タルヴィラルの狩人たちが扱う武器。\n\\C[24]Weapon Skill: \\C[0]集中、バインディングツール",
+        "description": "A weapon wielded by the hunters of Tarvilal.\n\\C[24]Weapon Skill: \\C[0]Concentration, Binding Tool",
         "etypeId": 1,
         "traits": [
             {
@@ -6486,8 +6486,8 @@
             }
         ],
         "iconIndex": 327,
-        "name": "マルチバインダー",
-        "note": "<NameColor:2>\n<BoostEX:CR, 30>\n<dPlnText:狩人たちの拘束武器\n優れた技量を持つ者が扱う\n　\n狩人の武器とは隠すべきものだ\nこれを他者に贈るということは\nこの上ない信頼の証に他ならない\n　\nSpecial Effects:\n・会心ダメージ30％上昇>",
+        "name": "Multi-Binder",
+        "note": "<NameColor:2>\n<BoostEX:CR, 30>\n<dPlnText:Hunter's restraint weapons.\nHandled by those with superior skill.\n　\nA hunter's weapon shall be hidden to the self.\nTo give it to others is the proof that\nyou have absolute trust in them.\n　\nSpecial Effects:\n・Critical DMG +30%>",
         "params": [
             0,
             0,
@@ -6504,7 +6504,7 @@
     {
         "id": 183,
         "animationId": 215,
-        "description": "カウンリューアの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]炎の絶頂",
+        "description": "A weapon forged from the memories of Kanlua.\n\\C[24]Weapon Skill: \\C[0]Flaming Climax",
         "etypeId": 1,
         "traits": [
             {
@@ -6534,8 +6534,8 @@
             }
         ],
         "iconIndex": 325,
-        "name": "捩じくれた不揃い角",
-        "note": "<NameColor:2>\n<dPlnText:理の主の力を受け継ぐ武器\nその片鱗を振るうことができる\n　\n炎の夜魔の角が不揃いに歪んでいるのは\n己の魔力に耐えられなかった故であり\n彼女の力を示す象徴となった\n　\nSpecial Effects:\n・攻撃に炎属性付与\n・毎ターンTP10増加\n・毒無効化>",
+        "name": "Twisted Uneven Horns",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe Nightmare's horns are irregular and\ndistorted from the influence of its own magic,\nbecoming a symbol of her power.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute\n・Recover 10 TP every Turn\n・Disable Poison>",
         "params": [
             0,
             0,
@@ -6552,7 +6552,7 @@
     {
         "id": 184,
         "animationId": 201,
-        "description": "ヴァルコの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]雷害",
+        "description": "A weapon forged from the memories of Valco.\n\\C[24]Weapon Skill: \\C[0]Thunderstrike",
         "etypeId": 1,
         "traits": [
             {
@@ -6577,8 +6577,8 @@
             }
         ],
         "iconIndex": 331,
-        "name": "雷呪の贄",
-        "note": "<NameColor:2>\n<反撃拡張:雷呪の贄>\n<dPlnText:理の主の力を受け継ぐ武器\nその片鱗を振るうことができる\n　\n村人たちは、降り注ぐ雷の呪いを恐れ\n多くの生贄を捧げ、大樹に祈った\nそれこそが呪いであるとも知らずに\n　\nSpecial Effects:\n・攻撃に雷属性付与\n・被物理攻撃時「感電」発動\n・忘却無効化>",
+        "name": "Thunder Curse Sacrifice",
+        "note": "<NameColor:2>\n<反撃拡張:雷呪の贄>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe villagers offered sacrifices\nand prayed to the tree, fearing the curse of falling thunder,\nnot knowing that it was the curse itself.\n　\nSpecial Effects:\n・Attacks gain the Thunder attribute\n・Activates [Thundershock] on Physical DMG taken\n・Disable Oblivion>",
         "params": [
             0,
             0,
@@ -6595,7 +6595,7 @@
     {
         "id": 185,
         "animationId": 157,
-        "description": "ミュラッカの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]アイスインパクト",
+        "description": "A weapon forged from the memories of Muracca.\n\\C[24]Weapon Skill: \\C[0]Ice Impact",
         "etypeId": 1,
         "traits": [
             {
@@ -6630,8 +6630,8 @@
             }
         ],
         "iconIndex": 329,
-        "name": "狂い狩りの氷爪",
-        "note": "<NameColor:2>\n<dPlnText:理の主の力を受け継ぐ武器\nその片鱗を振るうことができる\n　\n狩人は、生きるために獲物を仕留めるが\n無為に生き永らえるための狩りなどしない\nよって彼女は、狂い狩りとなった\n　\nSpecial Effects:\n・攻撃に氷属性付与\n・会心率、回避率10％上昇\n・混乱無効化>",
+        "name": "Ice Claw of the Mad Hunt",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nA hunter kills prey to survive.\nBut she doesn't hunt just to stay alive,\nand therefore she succumbs to madness.\n　\nSpecial Effects:\n・Attacks gain the Ice Attribute.\n・Critical Rate and Evasion Rate +10%\n・Disable Confusion>",
         "params": [
             1000,
             0,
@@ -6648,7 +6648,7 @@
     {
         "id": 186,
         "animationId": 162,
-        "description": "キルマの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]回帰の剣",
+        "description": "A weapon forged from the memories of Kilma.\n\\C[24]Weapon Skill: \\C[0]Sword of Regression",
         "etypeId": 1,
         "traits": [
             {
@@ -6683,8 +6683,8 @@
             }
         ],
         "iconIndex": 344,
-        "name": "澱み鎮めの剣",
-        "note": "<NameColor:2>\n<dPlnText:理の主の力を受け継ぐ武器\nその片鱗を振るうことができる\n　\n罪は水底に沈み、そうして水底は澱む\nその停滞の儀、巫女たちの使命は\n浅慮に打ち砕かれることとなる\n　\nSpecial Effects:\n・攻撃に水属性付与\n・被物理魔法ダメージ10％軽減\n・困憊無効化>",
+        "name": "Sword of Stagnation",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nSin sinks to the bottom, and the water stagnates.\nDuring the ceremony, those shrine maidens\nlost their mission to thoughtlessness.\n　\nSpecial Effects:\n・Attacks gain the Water attribute\n・Physical and Magical DMG taken -10%\n・Disable Fatigue>",
         "params": [
             0,
             50,
@@ -6701,7 +6701,7 @@
     {
         "id": 187,
         "animationId": 162,
-        "description": "ルオーラの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]大結晶研磨",
+        "description": "A weapon forged from the memories of Luora.\n\\C[24]Weapon Skill: \\C[0]Crystal Polish",
         "etypeId": 1,
         "traits": [
             {
@@ -6731,8 +6731,8 @@
             }
         ],
         "iconIndex": 336,
-        "name": "殺戮の大剣",
-        "note": "<NameColor:2>\n<dPlnText:理の主の力を受け継ぐ武器\nその片鱗を振るうことができる\n　\n一対の剣には数多の傷が残されている\nそれは長きにわたる戦いの証ではなく\n誰も傷つけない、守りの痕跡である\n　\nSpecial Effects:\n・攻撃に地属性付与\n・攻撃力10％上昇\n・麻痺無効化>",
+        "name": "Sword of Slaughter",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nA pair of swords with numerous scars.\nIt is not proof of the ability to cut down everyone before it,\nbut the will to protect everyone behind it.\n　\nSpecial Effects:\n・Attacks gain the Earth attribute\n・ATK +10%\n・Disable Paralysis>",
         "params": [
             0,
             0,
@@ -6749,7 +6749,7 @@
     {
         "id": 188,
         "animationId": 91,
-        "description": "タイヴァーの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]風の守り",
+        "description": "A weapon crafted from Tyvar's memories.\n\\C[24]Weapon Skill: \\C[0]Windy Embrace",
         "etypeId": 1,
         "traits": [
             {
@@ -6779,8 +6779,8 @@
             }
         ],
         "iconIndex": 342,
-        "name": "輪廻の大渦",
-        "note": "<NameColor:2>\n<dPlnText:理の主の力を受け継ぐ武器\nその片鱗を振るうことができる\n　\n清風大陸には古くからの竜が集い\n神さびた祭殿にて、旧友を待っている\n　\nSpecial Effects:\n・攻撃に風属性付与\n・毎ターンHP10％回復\n・スタン無効化>",
+        "name": "Maelstorm of Karmic Ode",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nAncient dragons gather in the continent of Seifu,\nwaiting for an old friend in a rusty shrine.\n　\nSpecial Effects:\n・Attacks gain the Wind attribute\n・Recover 10% HP every Turn\n・Disable Stun>",
         "params": [
             0,
             0,
@@ -7208,7 +7208,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼パッシブ用",
+        "name": "▼For Passive",
         "note": "",
         "params": [
             0,
