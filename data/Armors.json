@@ -5581,7 +5581,7 @@
         ],
         "iconIndex": 154,
         "name": "Flower Dress",
-        "note": "<NameColor:23>\n<dPlnText:A gift from the fairies.\nI am filled with much appreciation.\n　\nThe scent of colorful flowers decorated with flowers\nsoothes the wearer's mind and relieves fatigue.\n　\nThis is made for women, but\nthere is no rule that said men cannot wear it.\n　\nSpecial Effects:\n・Disable Fatigue>",
+        "note": "<NameColor:23>\n<dPlnText:A gift from the fairies.\nFilled with much appreciation.\n　\nThe scent of colorful flowers decorated with flowers\nsoothes the wearer's mind and relieves fatigue.\n　\nThis is made for women, but\nthere is no rule that said men cannot wear it.\n　\nSpecial Effects:\n・Disable Fatigue>",
         "params": [
             0,
             20,
@@ -5794,7 +5794,7 @@
         ],
         "iconIndex": 137,
         "name": "Armor of Tradition",
-        "note": "<NameColor:23>\n<dPlnText:Equipments spun from memories.\nSolid performance.\n　\nGood things are memorable.\nOur enemies are also memorable,\nso we must counter them with our own strength.\n　\nSpecial Effects:\n・Physical and Magical DMG -5%>",
+        "note": "<NameColor:23>\n<dPlnText:Equipments spun from memories.\nHigh quality, and great resilience.\n　\nGood things are memorable.\nAgainst our excemplary enemy, powerful and memorable,\nwe must counter them with our own strength.\n　\nSpecial Effects:\n・Physical and Magical DMG -5%>",
         "params": [
             0,
             0,

@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼Ino's Weapon: Normal",
+        "name": "▼Ino: Normal",
         "note": "",
         "params": [
             0,
@@ -763,7 +763,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼イノの武器：レア",
+        "name": "▼Ino: Rare",
         "note": "",
         "params": [
             0,
@@ -781,7 +781,7 @@
     {
         "id": 22,
         "animationId": 6,
-        "description": "妖花が作り上げた特別な杖。\n\\C[24]Weapon Skill: \\C[0]花の癒し、花の衝撃",
+        "description": "A special cane made by a monster.\n\\C[24]Weapon Skill: \\C[0]Jasmine of Life, Lily of Death",
         "etypeId": 1,
         "traits": [
             {
@@ -816,8 +816,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "花の杖",
-        "note": "<NameColor:23>\n<dPlnText:妖花たちからの贈り物\n感謝の気持ちが込められている\n　\n飾り付けられた色とりどりの花の魔力が\n癒しと破壊の両方をもたらす\n　\nSpecial Effects:\n・消費SP10％減少>",
+        "name": "Flower Wand",
+        "note": "<NameColor:23>\n<dPlnText:A gift from the fairies.\nFilled with much appreciation.\n　\nThe magical power of the colorful\nflower begets life and death.\n　\nSpecial Effects:\n・SP Cost -10%>",
         "params": [
             0,
             0,
@@ -834,7 +834,7 @@
     {
         "id": 23,
         "animationId": 6,
-        "description": "劣化した金属製の棒。\n\\C[24]Weapon Skill: \\C[0]乱打",
+        "description": "A degraded metal bar.\n\\C[24]Weapon Skill: \\C[0]Rumble",
         "etypeId": 1,
         "traits": [
             {
@@ -864,8 +864,8 @@
             }
         ],
         "iconIndex": 113,
-        "name": "錆びついた工具",
-        "note": "<NameColor:23>\n<dPlnText:金属製の棒\n錆びつき、劣化している\n　\n元より武器ではなく、状態もよくないが\nやけに打撃力がある\n　\nSpecial Effects:\n・会心率100％低下>",
+        "name": "Rusty Tool",
+        "note": "<NameColor:23>\n<dPlnText:A metal bar.\nRusted and deteriorated.\n　\nIt's not a weapon to begin with, and it's not in\ngood condition either. Absolutely terrible impact.\n　\nSpecial Effects:\n・Critical Rate -100%>",
         "params": [
             0,
             0,
@@ -882,7 +882,7 @@
     {
         "id": 24,
         "animationId": 11,
-        "description": "手作りの釣り竿。\n\\C[24]Weapon Skill: \\C[0]引っ掛け",
+        "description": "Handmade fishing rod.\n\\C[24]Weapon Skill: \\C[0]Line and Sinker",
         "etypeId": 1,
         "traits": [
             {
@@ -912,8 +912,8 @@
             }
         ],
         "iconIndex": 100,
-        "name": "釣り竿",
-        "note": "<NameColor:23>\n<dPlnText:木の枝と蔓から作られた釣り竿\n素材のわりに、よくできている\n　\nこれはただの道具であり殺傷力はない\nそんなものを持ち、戦いに臨む暢気さが\n敵の怒りを買うかもしれない\n　\nSpecial Effects:\n・単体攻撃対象率1000％上昇>",
+        "name": "Fishing Rod",
+        "note": "<NameColor:23>\n<dPlnText:A fishing rod made from tree branches and vines.\nConsidering the material, pretty well made.\n　\nIt's just a tool, no lethal force in particular.\nThe carelessness of using this in a real battle\nmay well earn the enemy's wrath.\n　\nSpecial Effects:\n・Chance to be Targeted +1000%>",
         "params": [
             0,
             0,
@@ -930,7 +930,7 @@
     {
         "id": 25,
         "animationId": 8,
-        "description": "赤熱した刃を持つ機械の剣。\n\\C[24]Weapon Skill: \\C[0]溶断",
+        "description": "A mechanical sword with a red-hot blade.\n\\C[24]Weapon Skill: \\C[0]Meltdown",
         "etypeId": 1,
         "traits": [
             {
@@ -955,8 +955,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "電熱剣",
-        "note": "<NameColor:23>\n<dPlnText:高熱を帯びる剣\nその性質で、金属をも切断する\n　\n熱は魔力により増幅するため\n性能を引き出すには魔法の才も必要になる\n　\nSpecial Effects:\n・攻撃に炎属性付与>",
+        "name": "Electric Sword",
+        "note": "<NameColor:23>\n<dPlnText:A really hot sword.\nDue to its nature, it can also cut metal.\n　\nSince heat is amplified by magical power, a talent for\nmagic is also required to bring out its performance.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute.>",
         "params": [
             0,
             0,
@@ -973,7 +973,7 @@
     {
         "id": 26,
         "animationId": 11,
-        "description": "蟻の騎士が振るう槍。\n\\C[24]Weapon Skill: \\C[0]鋭い刺突",
+        "description": "A spear wielded by an Ant Knight.\n\\C[24]Weapon Skill: \\C[0]Sharp Thrusts",
         "etypeId": 1,
         "traits": [
             {
@@ -1003,8 +1003,8 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ジャムラヴの槍",
-        "note": "<NameColor:23>\n<BoostEX:CR, 30>\n<dPlnText:針のような刃を持つ槍\nかつて地上にあった城の騎士の得物\n　\nその昔、女王は多様な種族を従え\nタンターリの平和を守っていた\n　\nSpecial Effects:\n・会心率20％上昇\n・会心ダメージ30％上昇>",
+        "name": "Spear of Jamlav",
+        "note": "<NameColor:23>\n<BoostEX:CR, 30>\n<dPlnText:A spear with a needle-like blade. A weapon\n wielded by the castle knights, who once existed above ground.\n　\nOnce upon a time, a queen ruled over various races\nand with her command secured the piece of Tantari.\n　\nSpecial Effects:\n・Critical Rate +20%\n・Critical DMG +30%>",
         "params": [
             0,
             0,
@@ -1021,7 +1021,7 @@
     {
         "id": 27,
         "animationId": 6,
-        "description": "光を取り戻した杖。\n\\C[24]Weapon Skill: \\C[0]星龍輝耀",
+        "description": "A cane that regained its light.\n\\C[24]Weapon Skill: \\C[0]星龍輝耀",
         "etypeId": 1,
         "traits": [
             {
@@ -1046,8 +1046,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "星龍の杖",
-        "note": "<NameColor:23>\n<dPlnText:初めからイノが持っていた杖\n星の祝福を得て、輝きを取り戻した\n　\nその子は見捨てられたのではない\n解き放たれた災厄を追う希望の先達として\nアサイラムより旅立ったのだ\n　\nただ、同時に記憶を失ってしまった\n人の肉体を得たがために\n　\nSpecial Effects:\n・攻撃に光属性付与>",
+        "name": "Star Dragon",
+        "note": "<NameColor:23>\n<dPlnText:From the beginning, this staff is what Ino held.\nBlessed by the stars, it has regained its luster.\n　\nThat child was never abandoned.\nAs a forerunner of hope against the unleashed calamity,\nthey departed from Asylum in pursuit.\n　\nOnly, that he has given away his memory\nin his purpose to becoming human.\n　\nSpecial Effects:\n・Attacks gain the Light attribute>",
         "params": [
             0,
             0,
@@ -1064,7 +1064,7 @@
     {
         "id": 28,
         "animationId": 162,
-        "description": "誰かの記憶に残る武器。\n\\C[24]Weapon Skill: \\C[0]達人の一撃、迸る魔力",
+        "description": "A weapon remembered by someone.\n\\C[24]Weapon Skill: \\C[0]Master Stroke",
         "etypeId": 1,
         "traits": [
             {
@@ -1099,8 +1099,8 @@
             }
         ],
         "iconIndex": 97,
-        "name": "伝承の剣",
-        "note": "<NameColor:23>\n<dPlnText:記憶から紡がれた装備品\n上質で、扱いやすい\n　\n優れたものは記憶に残る\n敵もまた、そうであるため\nこちらもその力を以て対抗すべきだ\n　\nSpecial Effects:\n・会心率8％上昇>",
+        "name": "Sword of Tradition",
+        "note": "<NameColor:23>\n<dPlnText:Equipments spun from memories.\nHigh quality, and easy to handle.\n　\nGood things are memorable.\nAgainst our excemplary enemy, powerful and memorable,\nwe must counter them with our own strength.\n　\nSpecial Effects:\n・Critical Rate +8%>",
         "params": [
             0,
             0,
@@ -1528,7 +1528,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼イノの武器：エピック",
+        "name": "▼Ino: Epic",
         "note": "",
         "params": [
             0,
@@ -1546,7 +1546,7 @@
     {
         "id": 42,
         "animationId": 6,
-        "description": "山の如き獣の角。\n\\C[24]Weapon Skill: \\C[0]叩きつけ",
+        "description": "The horns of a mountain-like beast.\n\\C[24]Weapon Skill: \\C[0]Slam",
         "etypeId": 1,
         "traits": [
             {
@@ -1576,8 +1576,8 @@
             }
         ],
         "iconIndex": 110,
-        "name": "大角槌",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\nアウリの大峰の巨大な角\n　\n堅牢かつ重厚な、獣の王たる証\nその力を振るえば大地をも揺るがす\n　\nSpecial Effects:\n・毎ターンHP5％回復>",
+        "name": "Large Mallet",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nGiant Horns of the Great Peak of Auli.\n　\nRobust and massive, the proof of the king of beasts.\nWield its power and the earth shakes.\n　\nSpecial Effects:\n・Recover 5% HP every Turn>",
         "params": [
             0,
             0,
@@ -1594,7 +1594,7 @@
     {
         "id": 43,
         "animationId": 11,
-        "description": "複雑な色に光る針。\n\\C[24]Weapon Skill: \\C[0]虹色の邂逅",
+        "description": "Hands that glow in complex colors.\n\\C[24]Weapon Skill: \\C[0]Rainbow Encounter",
         "etypeId": 1,
         "traits": [
             {
@@ -1659,8 +1659,8 @@
             }
         ],
         "iconIndex": 120,
-        "name": "虹色の針",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n現実のものとは思えない物体\n　\n軟体の魔物は、遥か空にある海を漂い\n名状しがたい何かを見た\n　\nSpecial Effects:\n・波動を除く被属性ダメージ10％軽減>",
+        "name": "Prism Needle",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nAn object so colorful it doesn't seem real.\n　\nThe monster floated in the distant sky,\nand came upon something hard to describe.\n　\nSpecial Effects:\n・Non-Wave DMG taken -10%>",
         "params": [
             0,
             0,
@@ -2253,7 +2253,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼イノの武器：レジェンド",
+        "name": "▼Ino: Legend",
         "note": "",
         "params": [
             0,
@@ -2271,7 +2271,7 @@
     {
         "id": 62,
         "animationId": 6,
-        "description": "イノの記憶から紡がれた武器。\n\\C[24]Weapon Skill: \\C[0]星龍輝耀、神話の波動",
+        "description": "A weapon made from Ino's memory.\n\\C[24]Weapon Skill: \\C[0]Star Dragon Brilliance - Waves of Myth",
         "etypeId": 1,
         "traits": [
             {
@@ -2316,8 +2316,8 @@
             }
         ],
         "iconIndex": 101,
-        "name": "災厄と星の杖",
-        "note": "<NameColor:2>\n<dPlnText:イノが持っていた杖が変質したもの\n星の光に闇が寄り添っている\n　\n世界は幾度となく終わり、始まった\nその狭間の景色にあるものは\n二つの人影、少年と少女である\n　\nSpecial Effects:\n・攻撃に光、闇属性付与\n・毎ターンSP10％回復\n・毎ターンTP10増加>",
+        "name": "Calamity Star Staff",
+        "note": "<NameColor:2>\n<dPlnText:The staff Ino had was transformed.\nDarkness creeps up to the light of the stars.\n　\nMany times over, the world ends and begins anew.\nWhat lies in the scenery between each\nis but two figures, a boy and a girl.\n　\nSpecial Effects:\n・Attack gains the Light and Dark attribute\n・Recovers 10% SP every Turn\n・Recovers 10 TP every Turn>",
         "params": [
             0,
             0,
@@ -3240,7 +3240,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼イベント専用武器",
+        "name": "▼Weapon for Events",
         "note": "",
         "params": [
             0,
