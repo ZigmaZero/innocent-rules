@@ -3,7 +3,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 
 ## Translation Progress
 - Actors: 100%
-- Armors: 67%
+- Armors: 77%
 - Classes: 0%
 - CommonEvents: 0%
 - Enemies: 0%

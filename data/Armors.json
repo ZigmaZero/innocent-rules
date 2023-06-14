@@ -5988,7 +5988,7 @@
         ],
         "iconIndex": 138,
         "name": "Mana Mantle",
-        "note": "<NameColor:31>\n<dPlnText:Loot from battles against powerful enemies.\nThe perfect presence, a bit of Mana Lace.\n　\nThey cast off their imperfect bodies\nand cast off their impure emotions\n　\nThe remaining perfection, can no longer be understood.\n　\nSpecial Effects:\n・Counter Rate on Physical DMG +4%\n・Counter Rate on Magical DMG +4%>",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe perfect presence, a bit of Mana Lace.\n　\nThey cast off their imperfect bodies\nand cast off their impure emotions\n　\nThe remaining perfection, can no longer be understood.\n　\nSpecial Effects:\n・Counter Rate on Physical DMG +4%\n・Counter Rate on Magical DMG +4%>",
         "params": [
             500,
             50,
@@ -6020,7 +6020,7 @@
         ],
         "iconIndex": 131,
         "name": "Communicator's Helm",
-        "note": "<NameColor:31>\n<dPlnText:Loot from battles against powerful enemies.\nWhat the Communicator wore.\n　\nA cocoon exists there, in the empty sea.\n　\nThe nameless wishes for the rainbow,\nwearing that helmet as his faith.\n　\nSpecial Effects:\n・Disable Sleep and Confusion>",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nWhat the Communicator wore.\n　\nA cocoon exists there, in the empty sea.\n　\nThe nameless wishes for the rainbow,\nwearing that helmet as his faith.\n　\nSpecial Effects:\n・Disable Sleep and Confusion>",
         "params": [
             0,
             0,
@@ -8149,7 +8149,7 @@
     {
         "id": 301,
         "atypeId": 1,
-        "description": "醜い蛇女の装飾品。",
+        "description": "An ugly serpentine ornament.",
         "etypeId": 4,
         "traits": [
             {
@@ -8164,8 +8164,8 @@
             }
         ],
         "iconIndex": 147,
-        "name": "痛み止めの飾り",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\nオピソスの忌み子の耳飾り\n　\n蛇女は、仲間を大切にする\n　\n自らの毒液に蝕まれる痣だらけの忌み子の\nその両耳には、贈り物があった\n　\nSpecial Effects:\n・被物理ダメージ10％軽減\n・被回復効果25％上昇>",
+        "name": "Pain Relief Crest",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nEarring of the Abomination of Opysus.\n　\nSnake Women value their companions.\n　\nIn the ears of a child, eaten by its own venom,\nthat hated soul houses a bruised gift.\n　\nSpecial Effects:\n・Physical DMG taken -10%\n・Healing effectiveness +25%>",
         "params": [
             0,
             0,
@@ -8181,7 +8181,7 @@
     {
         "id": 302,
         "atypeId": 1,
-        "description": "脱走者の枷。",
+        "description": "Fugitive's Shackles",
         "etypeId": 4,
         "traits": [
             {
@@ -8206,8 +8206,8 @@
             }
         ],
         "iconIndex": 144,
-        "name": "鉄の絆",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\nラヴィニーの脱走者の枷\n　\nこれは、絆という名の軛である\nそこには家族があるのだから\n外れる必要もないはずだ\n　\nSpecial Effects:\n・攻撃力、魔攻力10％上昇\n・防御力、魔防力10％低下>",
+        "name": "Iron Bond",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThese shackles belong to Lavinie.\n　\nThis restraint of mine is called a bond.\nBecause I have a family there,\nthat is reason enough to stay.\n　\nSpecial Effects:\n・ATK and MAG +10%\n・DEF and MDF -10%>",
         "params": [
             0,
             0,
@@ -8223,7 +8223,7 @@
     {
         "id": 303,
         "atypeId": 1,
-        "description": "巨大なオーリバイルの体内にあったもの。",
+        "description": "What was upon the body of the giant Auribile.",
         "etypeId": 4,
         "traits": [
             {
@@ -8238,8 +8238,8 @@
             }
         ],
         "iconIndex": 134,
-        "name": "血染めの首輪",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n抱擁のオーリバイルから取り出した首輪\n　\n最後まで外を恐れたものたちは\n互いを抱き、そして一つとなった\n　\nもう安心だ。絆の掟は破られない\n　\nSpecial Effects:\n・最大HP25％上昇\n・最大SP50％低下>",
+        "name": "Bloody Collar",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe collar taken from the hugging Auribile.\n　\nThose who feared the unknown huddled,\nembraced each other, and became one.\n　\nThe rule of bonds, can never be broken.\n　\nSpecial Effects:\n・Max HP +25%\n・Max SP -50%>",
         "params": [
             0,
             0,
@@ -8255,7 +8255,7 @@
     {
         "id": 304,
         "atypeId": 1,
-        "description": "赤熱した殻。",
+        "description": "A red-hot shell.",
         "etypeId": 4,
         "traits": [
             {
@@ -8265,8 +8265,8 @@
             }
         ],
         "iconIndex": 131,
-        "name": "熱い溶岩殻",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n溶岩マイマイの殻\n　\n火竜山にいる魔物はトーリオンの古参で\nその多くは祭りの経験者である\n　\nだからこそ、真の強者を知っており\n今は山から下りようとしない\n　\nSpecial Effects:\n・防御力25％上昇>",
+        "name": "Lava Shell",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe shell of the Lava Maimai.\n　\nThe demons of the Volcano are Torrion's oldest,\nmany having been to the festival.\n　\nSo they know of which is the strongest,\nand descends not from that mountain forevermore.\n　\nSpecial Effects:\n・DEF +25%>",
         "params": [
             0,
             0,
@@ -8282,7 +8282,7 @@
     {
         "id": 305,
         "atypeId": 1,
-        "description": "宝石のように美しい物体。",
+        "description": "Something that's as beautiful as jewels.",
         "etypeId": 4,
         "traits": [
             {
@@ -8292,8 +8292,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "深海の輝石",
-        "note": "<NameColor:31>\n<dPlnText:強敵との戦いの戦利品\n深海の大怪虫の眼球\n　\n山奥にいた頃、百足は弱かった\n　\n冥い海の旅のさなか、瞳に繭を映したとき\n常軌を逸した変化があった\n　\nSpecial Effects:\n・心気30％上昇>",
+        "name": "Sea Pyroxene",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe eyeball of a deep sea monster.\n　\nIt was but a weakling when it dwelt in the mountains.\n　\nBut upon witnessing that cocoon in the sea,\nits journey takes an unexpected turn.\n　\nSpecial Effects:\n・SPR +30%>",
         "params": [
             0,
             0,
@@ -9507,7 +9507,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼技結晶（汎用）",
+        "name": "▼Crystal (Common)",
         "note": "",
         "params": [
             0,
