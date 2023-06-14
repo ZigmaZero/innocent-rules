@@ -6645,7 +6645,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼装飾品",
+        "name": "▼Ornament",
         "note": "",
         "params": [
             0,
@@ -6662,12 +6662,12 @@
     {
         "id": 251,
         "atypeId": 1,
-        "description": "樹の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a tree emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "樹の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Tree Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             100,
             0,
@@ -6683,12 +6683,12 @@
     {
         "id": 252,
         "atypeId": 1,
-        "description": "葉の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a leaf emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "葉の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Leaf Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             25,
@@ -6704,12 +6704,12 @@
     {
         "id": 253,
         "atypeId": 1,
-        "description": "牙の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a tusk emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "牙の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Tusk Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -6725,12 +6725,12 @@
     {
         "id": 254,
         "atypeId": 1,
-        "description": "鱗の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a scale emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "鱗の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Scale Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -6746,12 +6746,12 @@
     {
         "id": 255,
         "atypeId": 1,
-        "description": "泉の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a fountain emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "泉の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Fountain Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -6767,12 +6767,12 @@
     {
         "id": 256,
         "atypeId": 1,
-        "description": "波の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a wave emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "波の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Wave Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -6788,12 +6788,12 @@
     {
         "id": 257,
         "atypeId": 1,
-        "description": "羽の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with a feather emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "羽の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Feather Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -6809,12 +6809,12 @@
     {
         "id": 258,
         "atypeId": 1,
-        "description": "瞳の紋章が刻まれた飾り。",
+        "description": "Ornament inscribed with an iris emblem.",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 148,
-        "name": "瞳の飾り",
-        "note": "<dPlnText:能力値を高める装飾品\n魔物が作るものとして知られる\n　\n工芸品の類ではなく武装であるため\n実用的で、堅実な性能を持つ\n　\n特殊な効果は持たない>",
+        "name": "Iris Crest",
+        "note": "<dPlnText:An ornament that enhances abilities.\nKnown to be made by monsters.\n　\nRather than an ornament, perhaps calling it\nan armament would be more appropriate.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -6857,7 +6857,7 @@
     {
         "id": 260,
         "atypeId": 1,
-        "description": "即死から身を守るネックレス。",
+        "description": "A necklace that protects against Instant Death.",
         "etypeId": 4,
         "traits": [
             {
@@ -6867,8 +6867,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "デッドガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・即死無効化>",
+        "name": "Death Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Instant Death>",
         "params": [
             0,
             0,
@@ -6884,7 +6884,7 @@
     {
         "id": 261,
         "atypeId": 1,
-        "description": "毒から身を守るネックレス。",
+        "description": "A necklace that protects against Poison.",
         "etypeId": 4,
         "traits": [
             {
@@ -6894,8 +6894,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ポイズンガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・毒無効化>",
+        "name": "Poison Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Poison>",
         "params": [
             0,
             0,
@@ -6911,7 +6911,7 @@
     {
         "id": 262,
         "atypeId": 1,
-        "description": "困憊から身を守るネックレス。",
+        "description": "A necklace that protects against Fatigue.",
         "etypeId": 4,
         "traits": [
             {
@@ -6921,8 +6921,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "タイアードガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・困憊無効化>",
+        "name": "Tire Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Fatigue>",
         "params": [
             0,
             0,
@@ -6938,7 +6938,7 @@
     {
         "id": 263,
         "atypeId": 1,
-        "description": "暗闇から身を守るネックレス。",
+        "description": "A necklace that protects against Blindness.",
         "etypeId": 4,
         "traits": [
             {
@@ -6948,8 +6948,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ブラインドガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・暗闇無効化>",
+        "name": "Blind Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Blindness>",
         "params": [
             0,
             0,
@@ -6965,7 +6965,7 @@
     {
         "id": 264,
         "atypeId": 1,
-        "description": "忘却から身を守るネックレス。",
+        "description": "A necklace that protects against Oblivion.",
         "etypeId": 4,
         "traits": [
             {
@@ -6975,8 +6975,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "フォゲットガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・忘却無効化>",
+        "name": "Forget Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Oblivion>",
         "params": [
             0,
             0,
@@ -6992,7 +6992,7 @@
     {
         "id": 265,
         "atypeId": 1,
-        "description": "混乱から身を守るネックレス。",
+        "description": "A necklace that protects against Confusion.",
         "etypeId": 4,
         "traits": [
             {
@@ -7002,8 +7002,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "パニックガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・混乱無効化>",
+        "name": "Panic Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Confusion>",
         "params": [
             0,
             0,
@@ -7019,7 +7019,7 @@
     {
         "id": 266,
         "atypeId": 1,
-        "description": "睡眠から身を守るネックレス。",
+        "description": "A necklace that protects against Sleep.",
         "etypeId": 4,
         "traits": [
             {
@@ -7029,8 +7029,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "スリープガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・睡眠無効化>",
+        "name": "Sleep Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Sleep>",
         "params": [
             0,
             0,
@@ -7046,7 +7046,7 @@
     {
         "id": 267,
         "atypeId": 1,
-        "description": "麻痺から身を守るネックレス。",
+        "description": "A necklace that protects against Paralysis.",
         "etypeId": 4,
         "traits": [
             {
@@ -7056,8 +7056,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "パラライズガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・麻痺無効化>",
+        "name": "Paralyze Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Paralyze>",
         "params": [
             0,
             0,
@@ -7073,7 +7073,7 @@
     {
         "id": 268,
         "atypeId": 1,
-        "description": "スタンから身を守るネックレス。",
+        "description": "A necklace that protects against Stun.",
         "etypeId": 4,
         "traits": [
             {
@@ -7083,8 +7083,8 @@
             }
         ],
         "iconIndex": 146,
-        "name": "ショックガード",
-        "note": "<dPlnText:状態異常を防ぐ装飾品\n　\n戦闘における身体の異常を状態異常と呼ぶ\nそれは冒険者にとって最もありふれた死因の一つで\n故にこそ、事前に対策を講じておく必要がある\n　\nSpecial Effects:\n・スタン無効化>",
+        "name": "Shock Guard",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Stun>",
         "params": [
             0,
             0,
@@ -7100,7 +7100,7 @@
     {
         "id": 269,
         "atypeId": 1,
-        "description": "苦難の道を行く者のための装飾品。",
+        "description": "A collar for those who braves hardships.",
         "etypeId": 4,
         "traits": [
             {
@@ -7110,8 +7110,8 @@
             }
         ],
         "iconIndex": 134,
-        "name": "挑戦者の首輪",
-        "note": "<dPlnText:挑戦者のために作られた装飾品\n　\nこれには呪いが込められており\n身に着けた者の戦闘経験を否定する\n　\n弱者のままで、強者を倒す\nそういう望みもあるのだろう\n　\nSpecial Effects:\n・経験値獲得不可>",
+        "name": "Challenger's Collar",
+        "note": "<dPlnText:An ornament made for challengers.\n　\nIt contains a curse that denies the wearer\nof invaluable combat experience.\n　\nTo stay weak, yet defeat the strong,\nsuch hope may well exist for someone.\n　\nSpecial Effects:\n・Disable EXP Gain>",
         "params": [
             0,
             0,
@@ -7154,7 +7154,7 @@
     {
         "id": 271,
         "atypeId": 1,
-        "description": "炎の力を秘めた指輪。",
+        "description": "A ring that contains the power of fire.",
         "etypeId": 4,
         "traits": [
             {
@@ -7164,8 +7164,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐炎のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被炎属性ダメージ50％軽減>",
+        "name": "Fireproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Fire DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7181,7 +7181,7 @@
     {
         "id": 272,
         "atypeId": 1,
-        "description": "雷の力を秘めた指輪。",
+        "description": "A ring that contains the power of thunder.",
         "etypeId": 4,
         "traits": [
             {
@@ -7191,8 +7191,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐雷のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被雷属性ダメージ50％軽減>",
+        "name": "Thunderproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Thunder DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7208,7 +7208,7 @@
     {
         "id": 273,
         "atypeId": 1,
-        "description": "氷の力を秘めた指輪。",
+        "description": "A ring that contains the power of ice.",
         "etypeId": 4,
         "traits": [
             {
@@ -7218,8 +7218,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐氷のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被氷属性ダメージ50％軽減>",
+        "name": "Iceproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Ice DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7235,7 +7235,7 @@
     {
         "id": 274,
         "atypeId": 1,
-        "description": "水の力を秘めた指輪。",
+        "description": "A ring that contains the power of water.",
         "etypeId": 4,
         "traits": [
             {
@@ -7245,8 +7245,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐水のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被水属性ダメージ50％軽減>",
+        "name": "Waterproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Water DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7262,7 +7262,7 @@
     {
         "id": 275,
         "atypeId": 1,
-        "description": "地の力を秘めた指輪。",
+        "description": "A ring that contains the power of earth.",
         "etypeId": 4,
         "traits": [
             {
@@ -7272,8 +7272,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐地のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被地属性ダメージ50％軽減>",
+        "name": "Earthproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Earth DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7289,7 +7289,7 @@
     {
         "id": 276,
         "atypeId": 1,
-        "description": "風の力を秘めた指輪。",
+        "description": "A ring that contains the power of wind.",
         "etypeId": 4,
         "traits": [
             {
@@ -7299,8 +7299,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐風のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被風属性ダメージ50％軽減>",
+        "name": "Windproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Wind DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7316,7 +7316,7 @@
     {
         "id": 277,
         "atypeId": 1,
-        "description": "光の力を秘めた指輪。",
+        "description": "A ring that contains the power of light.",
         "etypeId": 4,
         "traits": [
             {
@@ -7326,8 +7326,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐光のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被光属性ダメージ50％軽減>",
+        "name": "Lightproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Light DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7343,7 +7343,7 @@
     {
         "id": 278,
         "atypeId": 1,
-        "description": "闇の力を秘めた指輪。",
+        "description": "A ring that contains the power of dark.",
         "etypeId": 4,
         "traits": [
             {
@@ -7353,8 +7353,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "耐闇のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・被闇属性ダメージ50％軽減>",
+        "name": "Darkproof Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Dark DMG taken -50%>",
         "params": [
             0,
             0,
@@ -7370,7 +7370,7 @@
     {
         "id": 279,
         "atypeId": 1,
-        "description": "あらゆる属性の力を秘めた指輪。",
+        "description": "A ring that contains the powers of all attributes.",
         "etypeId": 4,
         "traits": [
             {
@@ -7415,8 +7415,8 @@
             }
         ],
         "iconIndex": 145,
-        "name": "虹色のリング",
-        "note": "<NameColor:23>\n<dPlnText:属性の力を秘めた指輪\n　\nこれは自然が生み出す御宝である\n神話の時代より模造が望まれたが\n人の手では、ついにそれは成し得なかった\n　\nSpecial Effects:\n・波動以外の被属性ダメージ30％軽減>",
+        "name": "Rainbow Ring",
+        "note": "<NameColor:23>\n<dPlnText:A ring concealing an attribute within.\n \nA treasure crafted by nature itself.\nSince the Age of Myth, it has been the target of desire.\nBut in the end, man cannot imitate nature.\n　\nSpecial Effects:\n・Non-Wave DMG taken -30%>",
         "params": [
             0,
             0,
@@ -7459,7 +7459,7 @@
     {
         "id": 281,
         "atypeId": 1,
-        "description": "冒険者が持つお守り。",
+        "description": "A talisman given to adventurers.",
         "etypeId": 4,
         "traits": [
             {
@@ -7504,8 +7504,8 @@
             }
         ],
         "iconIndex": 148,
-        "name": "冒険者のお守り",
-        "note": "<NameColor:23>\n<dPlnText:冒険者によく知られるお守り\n　\nこの装飾品の歴史は古く、遥か昔\n神話の時代より冒険者へと贈られる\n人は皆、旅立つ友の無事を祈っているのだ\n　\nSpecial Effects:\n・スタン以外の基本状態異常付与率50％軽減>",
+        "name": "Adventurer's Amulet",
+        "note": "<NameColor:23>\n<dPlnText:A well-known talisman among adventurers.\n　\nIts history comes from long, long ago.\nIt was given since the Age of Myth,\nby friends praying for the departed's safety.\n　\nSpecial Effects:\n・Non-Stun Ailments -50% Inflict Rate>",
         "params": [
             0,
             0,
@@ -7521,7 +7521,7 @@
     {
         "id": 282,
         "atypeId": 1,
-        "description": "不思議な力を秘めたリボン。",
+        "description": "A ribbon with mysterious power.",
         "etypeId": 4,
         "traits": [
             {
@@ -7566,8 +7566,8 @@
             }
         ],
         "iconIndex": 149,
-        "name": "リボン",
-        "note": "<NameColor:23>\n<dPlnText:ただのリボン。見た目だけは\n　\n身につければ完全な状態となり\n多くの状態異常を無効化する\n　\nSpecial Effects:\n・スタン以外の基本状態異常無効化>",
+        "name": "Ribbon",
+        "note": "<NameColor:23>\n<dPlnText:Just a ribbon, atleast in appearance.\n　\nAlways perfectly shaped when worn.\nNullifies most Ailments.\n　\nSpecial Effects:\n・Disable non-Stun Ailments>",
         "params": [
             0,
             0,
@@ -7583,7 +7583,7 @@
     {
         "id": 283,
         "atypeId": 1,
-        "description": "戦地に身を置く者のためのベルト。",
+        "description": "A belt for those on the battlefield.",
         "etypeId": 4,
         "traits": [
             {
@@ -7673,8 +7673,8 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ソルジャーベルト",
-        "note": "<NameColor:23>\n<dPlnText:戦う者に相応しいベルト\n　\n能力値の低下、体勢を崩すこと\nいずれも戦地では致命的な結果を招く\n強者ほど驕らず、対策を怠らないものだ\n　\nSpecial Effects:\n・スタン無効化\n・能力値DOWN無効化\n・能力値大DOWN無効化>",
+        "name": "Soldier Belt",
+        "note": "<NameColor:23>\n<dPlnText:A belt worthy of a fighter.\n　\nInevitably, fights lead to waning abilities,\nand waning abilities lead to instability.\nBoth are fatal mistakes on the battlefield.\n　\nSpecial Effects:\n・Disable Stun\n・Disable Ability decreases\n・Disable Ability greatly decreases>",
         "params": [
             0,
             0,
@@ -7690,7 +7690,7 @@
     {
         "id": 284,
         "atypeId": 1,
-        "description": "生命力が滾る腕輪。",
+        "description": "A bracelet overflowing with vitality.",
         "etypeId": 4,
         "traits": [
             {
@@ -7700,8 +7700,8 @@
             }
         ],
         "iconIndex": 144,
-        "name": "リジェネバングル",
-        "note": "<NameColor:23>\n<dPlnText:マナの力を備えた腕輪\n　\n不死の理の存在を知っても\n死とは常に恐ろしいものだ\nこの手の装備品はありがたい\n　\nSpecial Effects:\n・毎ターンHP8％回復>",
+        "name": "Regen Bangle",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet with the power of Mana.\n　\nEven if you know of immortality,\ndeath is always a lingering fear.\nThis equipment is appreciated greatly.\n　\nSpecial Effects:\n・Recover 8% HP every Turn>",
         "params": [
             0,
             0,
@@ -7717,7 +7717,7 @@
     {
         "id": 285,
         "atypeId": 1,
-        "description": "気力が沸き立つ腕輪。",
+        "description": "A bracelet overflowing with spirit.",
         "etypeId": 4,
         "traits": [
             {
@@ -7727,8 +7727,8 @@
             }
         ],
         "iconIndex": 144,
-        "name": "エナジーバングル",
-        "note": "<NameColor:23>\n<dPlnText:マナの力を備えた腕輪\n　\n鍛え上げ、我がものとした魔法や技も\n気力が尽きれば意味を成さない\nこの手の装備品はありがたい\n　\nSpecial Effects:\n・毎ターンSP8％回復>",
+        "name": "Energy Bangle",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet with the power of Mana.\n　\nEven with all the techniques in the world,\nyou are useless without your energy.\nThis equipment is appreciated greatly.\n　\nSpecial Effects:\n・Recover 8% SP every Turn>",
         "params": [
             0,
             0,
@@ -7744,7 +7744,7 @@
     {
         "id": 286,
         "atypeId": 1,
-        "description": "闘気を帯びた腕輪。",
+        "description": "A bracelet overflowing with fighting spirit.",
         "etypeId": 4,
         "traits": [
             {
@@ -7754,8 +7754,8 @@
             }
         ],
         "iconIndex": 144,
-        "name": "戦神の腕輪",
-        "note": "<NameColor:23>\n<dPlnText:闘気を帯びている腕輪\n　\nこの世界に戦神と呼ばれる神などおらず\nオルドワルドにもまた、いない\n神話の時代の名残だろうか\nあるいは誰も知らぬだけか\n　\nSpecial Effects:\n・毎ターンTP5増加>",
+        "name": "War God Bangle",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet tinged with fighting spirit.\n　\nIn this world, a god of war does not exist.\nNeither does it exist in Ordwald.\nIs it a remnant of the Age of Myth?\nPerhaps no one knows after all.\n　\nSpecial Effects:\n・Recovers 5 TP every Turn>",
         "params": [
             0,
             0,
@@ -7771,7 +7771,7 @@
     {
         "id": 287,
         "atypeId": 1,
-        "description": "身軽になれる魔法の靴。",
+        "description": "Magical shoes that make you feel light.",
         "etypeId": 4,
         "traits": [
             {
@@ -7781,8 +7781,8 @@
             }
         ],
         "iconIndex": 140,
-        "name": "ドットイーター",
-        "note": "<NameColor:23>\n<dPlnText:履けば身軽になれる靴\n　\n身軽であれば、攻撃を回避できる\nそれは確かに間違いではないが\n土台となるのは、常に己の能力だろう\n　\nSpecial Effects:\n・回避率20％上昇>",
+        "name": "Dot Eater",
+        "note": "<NameColor:23>\n<dPlnText:Shoes that makes you feel light.\n　\nIf you're lighter, evading attacks are easier.\nIt's certainly not illogical, but in the end,\nyou still need to rely on your own ability.\n　\nSpecial Effects:\n・Evasion Rate +20%>",
         "params": [
             0,
             0,
@@ -7798,7 +7798,7 @@
     {
         "id": 288,
         "atypeId": 1,
-        "description": "魔力の流れを読める靴。",
+        "description": "Shoes that trace the flow of magic.",
         "etypeId": 4,
         "traits": [
             {
@@ -7808,8 +7808,8 @@
             }
         ],
         "iconIndex": 140,
-        "name": "フェアリーステップ",
-        "note": "<NameColor:23>\n<dPlnText:履けば魔力の流れを読める靴\n　\n流れを読めば、魔法を回避できる\nそれは確かに間違いではないが\n土台となるのは、常に己の能力だろう\n　\nSpecial Effects:\n・魔法回避率20％上昇>",
+        "name": "Fairy Step",
+        "note": "<NameColor:23>\n<dPlnText:Shoes that let you read the flow of magic.\n　\nIf you can see that, evading magic is easier.\nIt's certainly not illogical, but in the end,\nyou still need to rely on your own ability.\n　\nSpecial Effects:\n・Magical Evasion Rate +20%>",
         "params": [
             0,
             0,
@@ -8132,7 +8132,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "▼装飾品：エピック",
+        "name": "▼Ornament: Epic",
         "note": "",
         "params": [
             0,
