@@ -2966,7 +2966,7 @@
         "traits": [],
         "iconIndex": 142,
         "name": "Skillful Hand",
-        "note": "<DD魔法力:prev * \\V[425]>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Nightmares.\n　\nThey're sensitive to the flow of mana,\nand know how to utilize it.\n　\nSpecial Effects:\n・MAG increases equal to Mana Benefit.>",
+        "note": "<DD魔法力:prev * \\V[425]>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Nightmares.\n　\nThey're sensitive to the flow of Mana,\nand know how to utilize it.\n　\nSpecial Effects:\n・MAG increases equal to Mana Benefit.>",
         "params": [
             0,
             0,
