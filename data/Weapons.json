@@ -3258,7 +3258,7 @@
     {
         "id": 91,
         "animationId": 153,
-        "description": "冒険者ルオーラの得物。\n\\C[24]Weapon Skill: \\C[0]重剣連撃、双剣舞",
+        "description": "Adventurer Luora's Gift\n\\C[24]Weapon Skill: \\C[0]Heavy Strike - Twin Swords Dance",
         "etypeId": 1,
         "traits": [
             {
@@ -3278,8 +3278,8 @@
             }
         ],
         "iconIndex": 112,
-        "name": "剣鬼の双刃",
-        "note": "<NameColor:23>\n<dPlnText:冒険者ルオーラが振るう一対の剣\n片手で持つには大振りの武器\n　\n刀身には数多の傷が残されている\n長きにわたり、主と戦い続けたのだろう\n　\nNo special effects.>",
+        "name": "Double Edged Sword",
+        "note": "<NameColor:23>\n<dPlnText:A pair of swords wielded by the adventurer Luora.\nEach are large weapons for one hand in their own right.\n　\nThe blades are marked with numerous scars,\neach telling a tale of them and their Lord.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -3608,7 +3608,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼魔物の武器：物理系",
+        "name": "▼Monster: Physical",
         "note": "",
         "params": [
             0,
@@ -3626,7 +3626,7 @@
     {
         "id": 102,
         "animationId": 157,
-        "description": "魔物が扱う武器。\n\\C[24]Weapon Skill: \\C[0]正確な攻撃",
+        "description": "Weapons wielded by monsters.\n\\C[24]Weapon Skill: \\C[0]Precise Attack",
         "etypeId": 1,
         "traits": [
             {
@@ -3646,8 +3646,8 @@
             }
         ],
         "iconIndex": 329,
-        "name": "鋭い爪",
-        "note": "<dPlnText:鋭く研がれた爪\n魔物であれば、誰でも扱える\n　\n他の種族でも魔物の武器を持つことはできる\nしかし皆、しっくりこないと口を揃える\n　\nNo special effects.>",
+        "name": "Sharp Claws",
+        "note": "<dPlnText:Greatly sharpened claws.\nBasically anyone can use this as long as they're a monster.\n　\nHeck, even other races can use monster weapons,\nbut everyone agreed it just didn't feel right.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -3664,7 +3664,7 @@
     {
         "id": 103,
         "animationId": 162,
-        "description": "小型の蛮族が振るう短剣。\n\\C[24]Weapon Skill: \\C[0]正確な攻撃",
+        "description": "A dagger wielded by a small barbarian.\n\\C[24]Weapon Skill: \\C[0]Precise Attack",
         "etypeId": 1,
         "traits": [
             {
@@ -3684,8 +3684,8 @@
             }
         ],
         "iconIndex": 320,
-        "name": "魔物の短剣",
-        "note": "<dPlnText:とても小さな短剣\n切れ味もあまりよくない\n　\n粗末な武器であり、人の身では扱いづらい\n魔物の腕力があればこそ真価を発揮する\n　\nNo special effects.>",
+        "name": "Monster Dagger",
+        "note": "<dPlnText:A very small dagger.\nIts sharpness is also debatable.\n　\nIt's a crude weapon, and it's difficult for humans to handle.\nDemonstrates its true value only in the presence of a monster.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -3702,7 +3702,7 @@
     {
         "id": 104,
         "animationId": 183,
-        "description": "握りやすい石。\n\\C[24]Weapon Skill: \\C[0]三連撃",
+        "description": "A stone that's easy to grasp.\n\\C[24]Weapon Skill: \\C[0]Triple Attack",
         "etypeId": 1,
         "traits": [
             {
@@ -3722,8 +3722,8 @@
             }
         ],
         "iconIndex": 330,
-        "name": "石の拳",
-        "note": "<dPlnText:石の塊\n掴んで殴り、攻撃する\n　\n果たしてこれは武器なのだろうか\n打撃力だけは確か\n　\nNo special effects.>",
+        "name": "Stone Fist",
+        "note": "<dPlnText:A chunk of stone.\nPick it up, and smack with it.\n　\nIs this really a weapon? Really, it shouldn't\ncontribute much more than your own power.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -3740,7 +3740,7 @@
     {
         "id": 105,
         "animationId": 162,
-        "description": "魔物の祈りが込められた武器。\n\\C[24]Weapon Skill: \\C[0]飛ぶ斬撃",
+        "description": "A weapon imbued with a monster's prayer.\n\\C[24]Weapon Skill: \\C[0]Flying Slash",
         "etypeId": 1,
         "traits": [
             {
@@ -3760,8 +3760,8 @@
             }
         ],
         "iconIndex": 320,
-        "name": "祈りの刃",
-        "note": "<dPlnText:殺傷力の高い武器\n刃は鋭く、魔力を宿す\n　\n通常、魔物の祈りとは単純である\nこの武器も、ただ強くあれと願われた\n　\nNo special effects.>",
+        "name": "Blade of Prayer",
+        "note": "<dPlnText:Highly lethal weapon.\nThe blade is sharp and contains magic within.\n　\nThe prayers of demons are usually simple.\nThis weapon, for example, was only blessed to be powerful.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -3778,7 +3778,7 @@
     {
         "id": 106,
         "animationId": 162,
-        "description": "機械人形の標準的な装備品。\n\\C[24]Weapon Skill: \\C[0]正確な攻撃",
+        "description": "Standard equipment for mechanical dolls.\n\\C[24]Weapon Skill: \\C[0]Precise Attack",
         "etypeId": 1,
         "traits": [
             {
@@ -3798,8 +3798,8 @@
             }
         ],
         "iconIndex": 321,
-        "name": "機械人形の剣",
-        "note": "<dPlnText:機械人形の装備品\n人の身では振るえない重さ\n　\n機械人形のためにあるもので\n機械人形でない者が持つことは\n上層において規定違反となる\n　\nNo special effects.>",
+        "name": "Machine Doll Sword",
+        "note": "<dPlnText:Machine Doll accessories.\nIts weight cannot be moved by the human body.\n　\nIt's for mechanical dolls, so it's a violation if\nsomeone who isn't a mechanical doll\ngets hold of it.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -4293,7 +4293,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼魔物の武器：魔法系",
+        "name": "▼Monster: Magic",
         "note": "",
         "params": [
             0,
