@@ -5778,7 +5778,7 @@
     {
         "id": 219,
         "atypeId": 1,
-        "description": "Armor that is in someone's memory.",
+        "description": "Armor remembered by someone.",
         "etypeId": 3,
         "traits": [
             {
@@ -7674,7 +7674,7 @@
         ],
         "iconIndex": 144,
         "name": "Soldier Belt",
-        "note": "<NameColor:23>\n<dPlnText:A belt worthy of a fighter.\n　\nInevitably, fights lead to waning abilities,\nand waning abilities lead to instability.\nBoth are fatal mistakes on the battlefield.\n　\nSpecial Effects:\n・Disable Stun\n・Disable Ability decreases\n・Disable Ability greatly decreases>",
+        "note": "<NameColor:23>\n<dPlnText:A belt worthy of a fighter.\n　\nInevitably, fights lead to waning abilities,\nand waning abilities lead to instability.\nBoth are fatal mistakes on the battlefield.\n　\nSpecial Effects:\n・Disable Stun\n・Disable Ability Down\n・Disable Great Ability Down>",
         "params": [
             0,
             0,

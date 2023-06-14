@@ -4996,7 +4996,7 @@
     {
         "id": 142,
         "animationId": 187,
-        "description": "蛮族の呪術師が作り上げた書物。\n\\C[24]Weapon Skill: \\C[0]牙の呪術",
+        "description": "A book created by a shaman.\n\\C[24]Weapon Skill: \\C[0]Tusk",
         "etypeId": 1,
         "traits": [
             {
@@ -5021,8 +5021,8 @@
             }
         ],
         "iconIndex": 345,
-        "name": "蛮族の呪術書",
-        "note": "<NameColor:23>\n<dPlnText:血に塗れた忌まわしい書物\n粗暴な呪術が封じられている\n　\nロントの初期、異端の蛮族たちが山々を支配した\n凄惨な儀式により編み出された呪術の数々は\nのちに主となる者に葬られている\n　\nSpecial Effects:\n・会心率5％上昇>",
+        "name": "Barbarian Spellbook",
+        "note": "<NameColor:23>\n<dPlnText:Bloody abomination of a book.\nA brutal spell is sealed within.\n　\nIn the early days of Ront, heretical barbarians ruled the mountains.\nNumerous sorcery created through gruesome rituals\nwere later buried by their masters.\n　\nSpecial Effects:\n・Critical Rate +5%>",
         "params": [
             0,
             0,
@@ -5039,7 +5039,7 @@
     {
         "id": 143,
         "animationId": 162,
-        "description": "蛇の魔物から抜け落ちた牙。\n\\C[24]Weapon Skill: \\C[0]毒穿ち",
+        "description": "A fang that fell out from a snake monster.\n\\C[24]Weapon Skill: \\C[0]Toxic Fang",
         "etypeId": 1,
         "traits": [
             {
@@ -5069,8 +5069,8 @@
             }
         ],
         "iconIndex": 320,
-        "name": "大蛇の毒牙",
-        "note": "<NameColor:23>\n<dPlnText:抜け落ちた今もなお毒が滲み出す牙\n魔物であれば、武器として扱える\n　\n刃の鋭さは毒により保たれており\n研がずとも、常に殺意に満ちている\n　\nかつて蛇女の住処に王がいた頃\n同じ種族同士で争うことはなかったという\n　\nSpecial Effects:\n・攻撃力DOWN無効化\n・攻撃力大DOWN無効化>",
+        "name": "Venomous Fang",
+        "note": "<NameColor:23>\n<dPlnText:Fangs that still ooze poison even after falling out.\nBasically anyone can use this as long as they're a monster.\n　\nThe poison maintains its sharpness,\nand murderous intent oozes throughout.\n　\nIt is said that when there were a queen of the\nSnake Women, no infighting was seen throughout.\n　\nSpecial Effects:\n・Disable ATK Down\n・Disable Great ATK Down>",
         "params": [
             0,
             0,
@@ -5087,7 +5087,7 @@
     {
         "id": 144,
         "animationId": 215,
-        "description": "古い狩人の武器。\n\\C[24]Weapon Skill: \\C[0]氷の矢",
+        "description": "An old hunter's weapon.\n\\C[24]Weapon Skill: \\C[0]Ice Arrow",
         "etypeId": 1,
         "traits": [
             {
@@ -5112,8 +5112,8 @@
             }
         ],
         "iconIndex": 326,
-        "name": "雪狩りの弓",
-        "note": "<NameColor:23>\n<dPlnText:かつて雪狩りと呼ばれた一族の武器\n使い手を選び、魔物だけが扱える\n　\n雪狩りたちは、星を覆う冷気に立ち向かったが\n生物如きが自然の脅威に打ち勝てはしない\n　\nしかし、仲間のために生きるという志は\n今もなお継承されている\n　\nSpecial Effects:\n・暗闇無効化>",
+        "name": "Snow Hunting Bow",
+        "note": "<NameColor:23>\n<dPlnText:Weapons of the clan known as the Snow Hunters.\nThe monster who wields the weapon is chosen by it.\n　\nThe Snow Hunters confronted the cold abyss enveloping the stars,\nbut couldn't overcome the everpresent threat of nature.\n　\nHowever, the will to live for the sake of their friends\nhas been passed down upon the present.\n　\nSpecial Effects:\n・Disable Blindness>",
         "params": [
             0,
             10,
@@ -5130,7 +5130,7 @@
     {
         "id": 145,
         "animationId": 240,
-        "description": "テトラデバイスの武装。\n\\C[24]Weapon Skill: \\C[0]ビームモジュール",
+        "description": "Armament of the Tetra Device.\n\\C[24]Weapon Skill: \\C[0]Beam Module",
         "etypeId": 1,
         "traits": [
             {
@@ -5160,8 +5160,8 @@
             }
         ],
         "iconIndex": 342,
-        "name": "テトラビット",
-        "note": "<NameColor:23>\n<dPlnText:イントオーマの機械兵器\n特殊な武器で、使用には集中力を要する\n　\nテトラデバイスは天空遺跡の守衛であり\nそこから落ちた今、近づくすべてが\n侵入者に見えている\n　\nSpecial Effects:\n・毎ターンTP5減少>",
+        "name": "Tetra Bit",
+        "note": "<NameColor:23>\n<dPlnText:Int'oma's Mechanical Weapon.\nRequires special concentration to use.\n　\nTetra Devices are guardians of the Sky Ruins.\nNow that it fell down, everything seems\nto it like an intruder indeed.\n　\nSpecial Effects:\n・Remove 5 TP every Turn>",
         "params": [
             0,
             0,
@@ -5178,7 +5178,7 @@
     {
         "id": 146,
         "animationId": 178,
-        "description": "蟹の魔物の鋏。\n\\C[24]Weapon Skill: \\C[0]泡吹き",
+        "description": "Shears belonging to a crab monster.\n\\C[24]Weapon Skill: \\C[0]Bubble",
         "etypeId": 1,
         "traits": [
             {
@@ -5203,8 +5203,8 @@
             }
         ],
         "iconIndex": 329,
-        "name": "カニ鋏",
-        "note": "<NameColor:23>\n<dPlnText:状態のいい蟹の鋏\n傷一つなく、未だ瑞々しい\n　\n使い心地は鈍器に近い\nそしてまた、防具のようでもある\n　\n口ではないのに泡を吹く\n　\nSpecial Effects:\n・スタン無効化>",
+        "name": "Crab Shears",
+        "note": "<NameColor:23>\n<dPlnText:Crab shears in good condition.\nFreshly obtained without a single blemish.\n　\nFeels more like a blunt weapon.\nAnd also a little like armor.\n　\nBlows bubbles despite not being a mouth.\n　\nSpecial Effects:\n・Disable Stun>",
         "params": [
             0,
             0,
@@ -5221,7 +5221,7 @@
     {
         "id": 147,
         "animationId": 183,
-        "description": "棘だらけの鈍器。\n\\C[24]Weapon Skill: \\C[0]骨割り",
+        "description": "Bluntly, a very thorny weapon.\n\\C[24]Weapon Skill: \\C[0]Bone Splitter",
         "etypeId": 1,
         "traits": [
             {
@@ -5246,8 +5246,8 @@
             }
         ],
         "iconIndex": 334,
-        "name": "恩慰の叱責",
-        "note": "<NameColor:23>\n<dPlnText:禍々しい鈍器\n確実な痛みを与えるだろう\n　\n幾度となく振るわれた形跡がある\n破損が目立ち、棘は血で汚れている\n　\n信じないからこそ恐れを抱く\nその傷は、愛によるものだ\n　\nSpecial Effects:\n・TP増加率50％上昇>",
+        "name": "Rebuke of Grace",
+        "note": "<NameColor:23>\n<dPlnText:A sinister weapon.\nNeedless to say, this WILL hurt.\n　\nIt appears it has been wielded on numerous occasions.\nThe spines are stained with blood\n　\nWe fear them because we did not believe,\nthat those very wounds are caused by love.\n　\nSpecial Effects:\n・TP Gain Rate +50%>",
         "params": [
             0,
             0,
@@ -5264,7 +5264,7 @@
     {
         "id": 148,
         "animationId": 248,
-        "description": "機械人形の武装の一種。\n\\C[24]Weapon Skill: \\C[0]なし",
+        "description": "A type of weapon for Machine Dolls.\n\\C[24]Weapon Skill: \\C[0]-",
         "etypeId": 1,
         "traits": [
             {
@@ -5279,8 +5279,8 @@
             }
         ],
         "iconIndex": 328,
-        "name": "ミサイルシューター",
-        "note": "<NameColor:23>\n<dPlnText:機械人形の特別な武装\n小型のミサイルを発射する\n　\n機械人形の武装に決まりはなく\nそれぞれが独自に考案し、開発する\nよって稀に、このような意欲作ができる\n　\nSpecial Effects:\n・通常攻撃選択時に素早さ200上昇>",
+        "name": "Missile Shooter",
+        "note": "<NameColor:23>\n<dPlnText:Special armament for Machine Dolls.\nLaunches small missiles.\n　\nThere are no set rules for arming mechanical dolls,\nand each was invented independently.\nTherefore, such ambitious works are rare.\n　\nSpecial Effects:\n・On Normal Attack, AGI +200>",
         "params": [
             0,
             0,
@@ -5297,7 +5297,7 @@
     {
         "id": 149,
         "animationId": 162,
-        "description": "とある夜魔の護身用の武器。\n\\C[24]Weapon Skill: \\C[0]夜伽の秘技",
+        "description": "A certain Nightmare's self-defense weapon.\n\\C[24]Weapon Skill: \\C[0]Yotogi's Secret",
         "etypeId": 1,
         "traits": [
             {
@@ -5322,8 +5322,8 @@
             }
         ],
         "iconIndex": 320,
-        "name": "夜伽鬼の短刀",
-        "note": "<NameColor:23>\n<dPlnText:シキノワ風の短刀\n艶やかな装飾の鞘が特徴\n　\n東方の島国では、夜魔は夜伽鬼と呼ばれ\n他国とは異なる地位を得ている\n　\nSpecial Effects:\n・毎ターンTP4増加>",
+        "name": "Yotogi's Dagger",
+        "note": "<NameColor:23>\n<dPlnText:A Shikinoa-style dagger.\nFeatures a glossy decorative scabbard.\n　\nIn the East, Nightmares are called Yotogi,\nand they are also treated rather differently.\n　\nSpecial Effects:\n・Recover 4 TP every Turn>",
         "params": [
             0,
             0,
@@ -5340,7 +5340,7 @@
     {
         "id": 150,
         "animationId": 6,
-        "description": "かつて停滞の巫女が用いた武器。\n\\C[24]Weapon Skill: \\C[0]停滞の儀",
+        "description": "A weapon once used by a maiden of tranquility.\n\\C[24]Weapon Skill: \\C[0]Rite of Stagnation",
         "etypeId": 1,
         "traits": [
             {
@@ -5360,8 +5360,8 @@
             }
         ],
         "iconIndex": 344,
-        "name": "巫女の儀仗",
-        "note": "<BoostEX:MG, 10>\n<NameColor:23>\n<dPlnText:オルドワルドの宝\n魔力により形作られる刃を持つ\n　\n巫女はかつて、暗い水底に身を置き\n停滞の儀を以て澱みの脈動を鎮めていた\n　\nSpecial Effects:\n・魔法攻撃の威力10％上昇>",
+        "name": "Shrine Maiden's Ceremony",
+        "note": "<BoostEX:MG, 10>\n<NameColor:23>\n<dPlnText:Ordwald's treasure.\nConsists of a blade shaped by magic.\n　\nOnce, a shrine maiden casted the Rite\nto rest the pulse of stagnation.\n　\nSpecial Effects:\n・Magic attacks +10% power>",
         "params": [
             0,
             0,
@@ -5378,7 +5378,7 @@
     {
         "id": 151,
         "animationId": 162,
-        "description": "誰かの記憶に残る武器。\n\\C[24]Weapon Skill: \\C[0]達人の一撃、迸る魔力",
+        "description": "A weapon remembered by someone.\n\\C[24]Weapon Skill: \\C[0]Master Stroke",
         "etypeId": 1,
         "traits": [
             {
@@ -5413,8 +5413,8 @@
             }
         ],
         "iconIndex": 320,
-        "name": "伝承の刃",
-        "note": "<NameColor:23>\n<dPlnText:記憶から紡がれた装備品\n上質で、扱いやすい\n　\n優れたものは記憶に残る\n敵もまた、そうであるため\nこちらもその力を以て対抗すべきだ\n　\nSpecial Effects:\n・会心率8％上昇>",
+        "name": "Legendary Blade",
+        "note": "<NameColor:23>\n<dPlnText:Equipments spun from memories.\nHigh quality, and easy to handle.\n　\nGood things are memorable.\nAgainst our excemplary enemy, powerful and memorable,\nwe must counter them with our own strength.\n　\nSpecial Effects:\n・Critical Rate +8%>",
         "params": [
             0,
             0,
@@ -5743,7 +5743,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "▼魔物の武器：エピック",
+        "name": "▼Monster: Epic",
         "note": "",
         "params": [
             0,
