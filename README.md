@@ -14,7 +14,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - System: 100% (Essentials only)
 - Tilesets: 0%
 - Troops: 0%
-- Weapons: 41%
+- Weapons: 46% (Skipped Passives)
 
 ## Usage
 Replace the `/data` and `/js` folders with their respective counterparts.
