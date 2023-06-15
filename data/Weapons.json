@@ -3647,7 +3647,7 @@
         ],
         "iconIndex": 329,
         "name": "Sharp Claws",
-        "note": "<dPlnText:Greatly sharpened claws.\nBasically anyone can use this as long as they're a monster.\n　\nHeck, even other races can use monster weapons,\nbut everyone agreed it just didn't feel right.\n　\nNo special effects.>",
+        "note": "<dPlnText:Greatly sharpened claws.\nBasically any monster can use this.\n　\nHeck, even other races can use monster weapons,\nbut everyone agreed it just didn't feel right.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -4332,7 +4332,7 @@
         ],
         "iconIndex": 325,
         "name": "Magic Branch",
-        "note": "<dPlnText:A small tree branch that holds magical powers.\nBasically anyone can use this as long as they're a monster.\n　\nHeck, even other races can use monster weapons,\nbut everyone agreed it just didn't feel right.\n　\nNo special effects.>",
+        "note": "<dPlnText:A small tree branch that holds magical powers.\nBasically any monster can use this.\n　\nHeck, even other races can use monster weapons,\nbut everyone agreed it just didn't feel right.\n　\nNo special effects.>",
         "params": [
             0,
             0,
@@ -5070,7 +5070,7 @@
         ],
         "iconIndex": 320,
         "name": "Venomous Fang",
-        "note": "<NameColor:23>\n<dPlnText:Fangs that still ooze poison even after falling out.\nBasically anyone can use this as long as they're a monster.\n　\nThe poison maintains its sharpness,\nand murderous intent oozes throughout.\n　\nIt is said that when there were a queen of the\nSnake Women, no infighting was seen throughout.\n　\nSpecial Effects:\n・Disable ATK Down\n・Disable Great ATK Down>",
+        "note": "<NameColor:23>\n<dPlnText:Fangs that still ooze poison even after falling out.\nBasically any monster can use this.\n　\nThe poison maintains its sharpness,\nand murderous intent oozes throughout.\n　\nIt is said that when there were a queen of the\nSnake Women, no infighting was seen throughout.\n　\nSpecial Effects:\n・Disable ATK Down\n・Disable Great ATK Down>",
         "params": [
             0,
             0,
@@ -5113,7 +5113,7 @@
         ],
         "iconIndex": 326,
         "name": "Snow Hunting Bow",
-        "note": "<NameColor:23>\n<dPlnText:Weapons of the clan known as the Snow Hunters.\nThe monster who wields the weapon is chosen by it.\n　\nThe Snow Hunters confronted the cold abyss enveloping the stars,\nbut couldn't overcome the everpresent threat of nature.\n　\nHowever, the will to live for the sake of their friends\nhas been passed down upon the present.\n　\nSpecial Effects:\n・Disable Blindness>",
+        "note": "<NameColor:23>\n<dPlnText:Weapons of the clan known as the Snow Hunters.\nThe monster who wields the weapon is chosen by it.\n　\nThe Snow Hunters confronted the cold abyss enveloping the stars,\nbut couldn't overcome the everpresent threat of nature.\n　\nHowever, the will to live for the sake of their friends\nhas been passed down upon the present.\n　\nSpecial Effects:\n・Disable Darkness>",
         "params": [
             0,
             10,
@@ -6578,7 +6578,7 @@
         ],
         "iconIndex": 331,
         "name": "Thunder Curse Sacrifice",
-        "note": "<NameColor:2>\n<反撃拡張:雷呪の贄>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe villagers offered sacrifices\nand prayed to the tree, fearing the curse of falling thunder,\nnot knowing that it was the curse itself.\n　\nSpecial Effects:\n・Attacks gain the Thunder attribute\n・Activates [Thundershock] on Physical DMG taken\n・Disable Oblivion>",
+        "note": "<NameColor:2>\n<反撃拡張:雷呪の贄>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe villagers offered sacrifices\nand prayed to the tree, fearing the curse of falling thunder,\nnot knowing that it was the curse itself.\n　\nSpecial Effects:\n・Attacks gain the Thunder attribute\n・Activates [Thundershock] on Physical DMG taken\n・Disable Forgetful>",
         "params": [
             0,
             0,

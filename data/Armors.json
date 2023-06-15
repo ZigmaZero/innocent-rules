@@ -6938,7 +6938,7 @@
     {
         "id": 263,
         "atypeId": 1,
-        "description": "A necklace that protects against Blindness.",
+        "description": "A necklace that protects against Darkness.",
         "etypeId": 4,
         "traits": [
             {
@@ -6949,7 +6949,7 @@
         ],
         "iconIndex": 146,
         "name": "Blind Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Blindness>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Darkness>",
         "params": [
             0,
             0,
@@ -6965,7 +6965,7 @@
     {
         "id": 264,
         "atypeId": 1,
-        "description": "A necklace that protects against Oblivion.",
+        "description": "A necklace that protects against Forgetful.",
         "etypeId": 4,
         "traits": [
             {
@@ -6976,7 +6976,7 @@
         ],
         "iconIndex": 146,
         "name": "Forget Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Oblivion>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Forgetful>",
         "params": [
             0,
             0,
