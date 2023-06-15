@@ -2700,7 +2700,7 @@
         "traits": [],
         "iconIndex": 146,
         "name": "Beautiful Twinkle",
-        "note": "<addStateBeforeBattle:108>\n<StateTurn108:2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Lost Children.\n　\nAfter all, they just wanted a haven.\nIf it glitters? Even better.\n　\nSpecial Effects:\n・Apply [Grudge] at the start of battle\n・[Grudge] duration +2>",
+        "note": "<addStateBeforeBattle:108>\n<StateTurn108:2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Lost Children.\n　\nAfter all, they just wanted a haven.\nIf it glitters? Even better.\n　\nSpecial Effects:\n・Apply [Resentment] at the start of battle\n・[Resentment] duration +2>",
         "params": [
             0,
             0,
@@ -3008,7 +3008,7 @@
         "traits": [],
         "iconIndex": 138,
         "name": "Deep Winter Snow",
-        "note": "<StateTurn126:-2>\n<StateTurn127:-2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Snow Women.\n　\nThey do not have anything that can be called a bond.\nIn winter, let's slip into loneliness once more.\n　\nSpecial Effects:\n・「Demonic Energy」Duration -2>",
+        "note": "<StateTurn126:-2>\n<StateTurn127:-2>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Snow Women.\n　\nThey do not have anything that can be called a bond.\nIn winter, let's slip into loneliness once more.\n　\nSpecial Effects:\n・「Aura」Duration -2>",
         "params": [
             0,
             0,
