@@ -12,8 +12,6 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - Skills: 0%
 - States: 100% (Note: Anticipating recheck for Counter plugin interactions)
 - System: 100% (Essentials only)
-- Tilesets: 0%
-- Troops: 0%
 - Weapons: 46% (Skipped Passives)
 
 ## Usage
