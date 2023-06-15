@@ -4,11 +4,11 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 ## Translation Progress
 - Actors: 100%
 - Armors: 100%
-- Classes: 0%
+- Classes: 100%
 - CommonEvents: 0%
 - Enemies: 0%
 - Items: 0%
-- Maps: 0.2% (1/519)
+- Maps: 0.4% (2/519)
 - Skills: 0%
 - States: 100% (Note: Anticipating recheck for Counter plugin interactions)
 - System: 100% (Essentials only)
