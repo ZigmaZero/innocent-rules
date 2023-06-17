@@ -2197,14 +2197,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に物理攻撃。",
+        "description": "Power 200: Physical attack on all enemies.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "ともだちをよぶ",
+        "name": "Call a Friend",
         "note": "",
         "occasion": 1,
         "repeats": 2,
@@ -2228,14 +2228,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力380：敵単体に地属性物理攻撃。",
+        "description": "Power 380: Physical Earth attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 68,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "だいちのきば",
+        "name": "Canopy of Wisdom",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -2259,14 +2259,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "被地属性ダメージを25％軽減する。\n被水属性ダメージが25％増加する。",
+        "description": "Earth DMG taken -25%.\nWater DMG taken +25%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "獣の習性",
+        "name": "Beast's Habit",
         "note": "<passiveWeapon:278>\n<dPlnText:Traits are always in effect.>",
         "occasion": 3,
         "repeats": 1,
@@ -2414,7 +2414,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "自身に\\C[24]安全装置解除\\C[0]を付与する。\n\\C[24]安全装置解除：\\C[0]攻撃力が200％上昇し、通常攻撃を行う。",
+        "description": "自身に\\C[24]安全装置解除\\C[0]を付与する。\n\\C[24]安全装置解除: \\C[0]攻撃力が200％上昇し、通常攻撃を行う。",
         "effects": [
             {
                 "code": 21,
@@ -2576,7 +2576,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "6ターンの間、自身に\\C[24]怨恨\\C[0]を付与する。\n\\C[24]怨恨：\\C[0]攻撃力が30％上昇し、被ダメージが15％増加する。",
+        "description": "6ターンの間、自身に\\C[24]怨恨\\C[0]を付与する。\n\\C[24]怨恨: \\C[0]攻撃力が30％上昇し、被ダメージが15％増加する。",
         "effects": [
             {
                 "code": 21,
@@ -2614,7 +2614,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力320：敵単体に物理攻撃。",
+        "description": "Power 320: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -2676,7 +2676,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "通常攻撃時、対象に\\C[24]執着\\C[0]を付与する。\n\\C[24]執着：\\C[0]被物理ダメージが5％増加する。",
+        "description": "通常攻撃時、対象に\\C[24]執着\\C[0]を付与する。\n\\C[24]執着: \\C[0]被物理ダメージが5％増加する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -2769,7 +2769,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "5ターンの間、自身に\\C[24]攻勢\\C[0]を付与する。\n\\C[24]攻勢：\\C[0]攻撃力と会心率が20％上昇する。",
+        "description": "5ターンの間、自身に\\C[24]攻勢\\C[0]を付与する。\n\\C[24]攻勢: \\C[0]攻撃力と会心率が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -2807,7 +2807,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に物理攻撃。対象に\\C[24]即死\\C[0]を付与する。\n先制発動する。",
+        "description": "Power 200: 敵全体に物理攻撃。対象に\\C[24]即死\\C[0]を付与する。\n先制発動する。",
         "effects": [
             {
                 "code": 21,
@@ -2969,7 +2969,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n自身が\\C[24]悪鬼の力Ⅰ\\C[0]状態時威力600。",
+        "description": "Power 200: 敵単体に物理攻撃。\n自身が\\C[24]悪鬼の力Ⅰ\\C[0]状態時Power 600。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -3038,7 +3038,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘開始時に自身に\\C[24]悪鬼の力Ⅲ\\C[0]を付与する。\n\\C[24]悪鬼の力：\\C[0]Ⅰにつき攻撃力が8％上昇する。3ターンごとに累減する。",
+        "description": "戦闘開始時に自身に\\C[24]悪鬼の力Ⅲ\\C[0]を付与する。\n\\C[24]悪鬼の力: \\C[0]Ⅰにつき攻撃力が8％上昇する。3ターンごとに累減する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -3069,7 +3069,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "通常攻撃時、3ターンの間、対象に\\C[24]防御力DOWN\\C[0]を付与する。\n\\C[24]防御力DOWN：\\C[0]防御力が20％低下する。",
+        "description": "通常攻撃時、3ターンの間、対象に\\C[24]防御力DOWN\\C[0]を付与する。\n\\C[24]防御力DOWN: \\C[0]防御力が20％低下する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -3131,7 +3131,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n\\C[24]変化後効果：\\C[0]威力250：敵単体に会心率100％の物理攻撃。",
+        "description": "Power 200: 敵単体に物理攻撃。\n\\C[24]変化後効果: \\C[0]Power 250: 敵単体に会心率100％の物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -3162,7 +3162,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力250：敵単体に会心率100％の物理攻撃。",
+        "description": "Power 250: 敵単体に会心率100％の物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -3193,7 +3193,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "3ターンの間、自身に\\C[24]剛力\\C[0]を付与する。\n\\C[24]剛力：\\C[0]メガトンハンマーの効果が変化する。",
+        "description": "3ターンの間、自身に\\C[24]剛力\\C[0]を付与する。\n\\C[24]剛力: \\C[0]メガトンハンマーの効果が変化する。",
         "effects": [
             {
                 "code": 21,
@@ -3231,7 +3231,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘開始時に自身に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP：\\C[0]攻撃力が20％上昇する。",
+        "description": "戦闘開始時に自身に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP: \\C[0]攻撃力が20％上昇する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -3355,7 +3355,7 @@
             "type": 5,
             "variance": 5
         },
-        "description": "威力200：敵全体ランダムに2回HP吸収物理攻撃。",
+        "description": "Power 200: 敵全体ランダムに2回HP吸収物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -3386,7 +3386,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力100：敵単体に物理攻撃。\n自身が\\C[24]飢餓\\C[0]状態時威力300。",
+        "description": "Power 100: 敵単体に物理攻撃。\n自身が\\C[24]飢餓\\C[0]状態時Power 300。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -3417,7 +3417,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPが75％未満である限り\\C[24]飢餓\\C[0]状態になる。\n\\C[24]飢餓：\\C[0]攻撃力が30％上昇し、素早さが300％上昇する。",
+        "description": "HPが75％未満である限り\\C[24]飢餓\\C[0]状態になる。\n\\C[24]飢餓: \\C[0]攻撃力が30％上昇し、素早さが300％上昇する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -3541,7 +3541,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力250：敵単体に水属性物理攻撃。",
+        "description": "Power 250: 敵単体に水属性物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 67,
@@ -3572,7 +3572,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に水属性物理攻撃。8ターンの間、自身に\\C[24]水練\\C[0]を付与する。\n\\C[24]水練：\\C[0]味方全体の水属性攻撃の威力が20％上昇する。",
+        "description": "Power 200: 敵全体に水属性物理攻撃。8ターンの間、自身に\\C[24]水練\\C[0]を付与する。\n\\C[24]水練: \\C[0]味方全体の水属性攻撃のPower が20％上昇する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 67,
@@ -3603,7 +3603,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "物理攻撃を受けたとき、\\C[24]硬い鱗\\C[0]で反撃する。\n\\C[24]硬い鱗：\\C[0]威力100：防御力依存の必中攻撃。",
+        "description": "物理攻撃を受けたとき、\\C[24]硬い鱗\\C[0]で反撃する。\n\\C[24]硬い鱗: \\C[0]Power 100: 防御力依存の必中攻撃。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -3634,7 +3634,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘開始時に自身に\\C[24]攻撃力大UP\\C[0]を付与する。\n\\C[24]攻撃力大UP：\\C[0]攻撃力が40％上昇する。",
+        "description": "戦闘開始時に自身に\\C[24]攻撃力大UP\\C[0]を付与する。\n\\C[24]攻撃力大UP: \\C[0]攻撃力が40％上昇する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -3727,7 +3727,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体ランダムに2回物理攻撃。",
+        "description": "Power 150: 敵全体ランダムに2回物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -3758,7 +3758,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に炎属性物理攻撃。",
+        "description": "Power 200: 敵全体に炎属性物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 64,
@@ -3913,7 +3913,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "5ターンの間、敵単体に\\C[24]炎弱化\\C[0]を付与する。\n\\C[24]炎弱化：\\C[0]被炎属性ダメージが25％増加する。",
+        "description": "5ターンの間、敵単体に\\C[24]炎弱化\\C[0]を付与する。\n\\C[24]炎弱化: \\C[0]被炎属性ダメージが25％増加する。",
         "effects": [
             {
                 "code": 21,
@@ -3951,7 +3951,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵単体に炎属性魔法攻撃。\n対象が\\C[24]炎弱化\\C[0]状態時威力450。対象の\\C[24]炎弱化\\C[0]を解除する。",
+        "description": "Power 150: 敵単体に炎属性魔法攻撃。\n対象が\\C[24]炎弱化\\C[0]状態時Power 450。対象の\\C[24]炎弱化\\C[0]を解除する。",
         "effects": [
             {
                 "code": 22,
@@ -4120,7 +4120,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "自身に\\C[24]魔力超過\\C[0]を付与する。\n\\C[24]魔力超過：\\C[0]魔攻力が20％上昇し、消費SPが20％増加する。",
+        "description": "自身に\\C[24]魔力超過\\C[0]を付与する。\n\\C[24]魔力超過: \\C[0]魔攻力が20％上昇し、消費SPが20％増加する。",
         "effects": [
             {
                 "code": 21,
@@ -4158,7 +4158,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "自身に\\C[24]生命魔法\\C[0]を付与する。\n\\C[24]生命魔法：\\C[0]魔攻力が20％上昇し、最大HPが20％低下する。",
+        "description": "自身に\\C[24]生命魔法\\C[0]を付与する。\n\\C[24]生命魔法: \\C[0]魔攻力が20％上昇し、最大HPが20％低下する。",
         "effects": [
             {
                 "code": 21,
@@ -4320,7 +4320,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力100：敵全体に魔攻力依存の炎属性物理攻撃。\n次の行動時の炎属性攻撃の威力が50％上昇する。",
+        "description": "Power 100: 敵全体に魔攻力依存の炎属性物理攻撃。\n次の行動時の炎属性攻撃のPower が50％上昇する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 64,
@@ -4351,7 +4351,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に魔攻力依存の炎属性物理攻撃。\nターン終了時にTPが10増加する。",
+        "description": "Power 300: 敵単体に魔攻力依存の炎属性物理攻撃。\nターン終了時にTPが10増加する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 64,
@@ -4706,7 +4706,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に炎属性魔法攻撃。3ターンの間、対象に\\C[24]魅了\\C[0]を付与する。\n\\C[24]魅了：\\C[0]攻撃力と魔攻力が10％低下する。",
+        "description": "Power 200: Magic Fire attack on a single enemy. Applies \\C[24]Charm\\C[0] to the target for 3 Turns.\n\\Charm: \\C[0]ATK and MAG -10%.",
         "effects": [
             {
                 "code": 21,
@@ -4720,7 +4720,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "雅火",
+        "name": "Elegant Pursuit",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -4744,7 +4744,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "敵単体に付与された\\C[24]魅了\\C[0]が\\C[24]心酔\\C[0]に変化する。先制発動する。\n\\C[24]心酔：\\C[0]付与されたターンの間、行動不能となる。",
+        "description": "Preemptively changes a single enemy's \\C[24]Charm\\C[0] to \\C[24]Dazzle\\C[0].\n\\C[24]Dazzle: \\C[0]Cannot act for the given Turn.",
         "effects": [
             {
                 "code": 22,
@@ -4758,7 +4758,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "艶指",
+        "name": "Shiny Touch",
         "note": "<SkillPriority:1>",
         "occasion": 1,
         "repeats": 1,
@@ -4782,14 +4782,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "物理攻撃を受けたとき、攻撃した対象に\\C[24]魅了\\C[0]を付与する。\n\\C[24]魅了：\\C[0]攻撃力と魔攻力が10％低下する。",
+        "description": "When hit by a Physical attack, apply \\C[24]Charm\\C[0] to attacker.\n\\Charm: \\C[0]ATK and MAG -10%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "蠱惑",
+        "name": "Glamor",
         "note": "<passiveWeapon:317>",
         "occasion": 3,
         "repeats": 1,
@@ -4813,14 +4813,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "TPが50以上である限り\\C[24]妖艶\\C[0]状態になる。\n\\C[24]妖艶：\\C[0]毎ターン味方全体のTPが5増加する。",
+        "description": "While TP is 50 or more, apply \\C[24]Bewitch\\C[0] to self.\n\\C[24]Bewitch: \\C[0]All allies recover 5 TP each Turn.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "夜魔の神髄",
+        "name": "Nightmarish Essence",
         "note": "<passiveWeapon:318>",
         "occasion": 3,
         "repeats": 1,
@@ -4858,7 +4858,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "蠱惑",
+        "name": "Glamor",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -4913,14 +4913,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に魔攻力依存の風属性物理攻撃。\n命中するたびに自身のTPが5増加する。",
+        "description": "Power 150: MAG-scaling Physical Wind attack on all enemies.\nRecover 5 TP to self per each hit.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 69,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "砕風",
+        "name": "Broken Wind",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -4944,7 +4944,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に魔攻力依存の氷属性物理攻撃。\n自身が\\C[24]魔気\\C[0]状態でないとき、自身に\\C[24]魔気Ⅰ\\C[0]を付与する。",
+        "description": "Power 300: 敵単体に魔攻力依存の氷属性物理攻撃。\n自身が\\C[24]魔気\\C[0]状態でないとき、自身に\\C[24]魔気Ⅰ\\C[0]を付与する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 66,
@@ -5006,7 +5006,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘開始時に自身に\\C[24]魔気Ⅰ\\C[0]を付与する。\n\\C[24]魔気：\\C[0]Ⅰにつき魔攻力が10％上昇する。4ターンごとに累加する。上限はⅢ。",
+        "description": "戦闘開始時に自身に\\C[24]魔気Ⅰ\\C[0]を付与する。\n\\C[24]魔気: \\C[0]Ⅰにつき魔攻力が10％上昇する。4ターンごとに累加する。上限はⅢ。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -5099,7 +5099,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "5ターンの間、自身と味方単体に\\C[24]魔攻力大UP\\C[0]を付与する。\n\\C[24]魔攻力大UP：\\C[0]魔攻力が40％上昇する。魔攻力UPを上書きする。",
+        "description": "5ターンの間、自身と味方単体に\\C[24]魔攻力大UP\\C[0]を付与する。\n\\C[24]魔攻力大UP: \\C[0]魔攻力が40％上昇する。魔攻力UPを上書きする。",
         "effects": [
             {
                 "code": 21,
@@ -5137,7 +5137,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力400：敵単体に水属性魔法攻撃。\n自身が\\C[24]水占い\\C[0]状態時威力800。自身の\\C[24]水占い\\C[0]を解除する。",
+        "description": "Power 400: 敵単体に水属性魔法攻撃。\n自身が\\C[24]水占い\\C[0]状態時Power 800。自身の\\C[24]水占い\\C[0]を解除する。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 67,
@@ -5199,7 +5199,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘開始時に自身に\\C[24]水占い\\C[0]を付与する。\n\\C[24]水占い：\\C[0]会心時のダメージが50％上昇する。",
+        "description": "戦闘開始時に自身に\\C[24]水占い\\C[0]を付与する。\n\\C[24]水占い: \\C[0]会心時のダメージが50％上昇する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -5292,7 +5292,7 @@
             "type": 3,
             "variance": 5
         },
-        "description": "回復力100：自身のHPを回復し、5ターンの間、\\C[24]魔攻力UP\\C[0]を付与する。\nターン終了時にSPが10％減少する。",
+        "description": "Power 100: 自身のHPを回復し、5ターンの間、\\C[24]魔攻力UP\\C[0]を付与する。\nターン終了時にSPが10％減少する。",
         "effects": [
             {
                 "code": 21,
@@ -5336,7 +5336,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力600：敵全体に魔法攻撃。",
+        "description": "Power 600: 敵全体に魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -5367,7 +5367,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃を受けたとき、3ターンの間、攻撃した対象に\\C[24]魔防力DOWN\\C[0]を付与する。\n\\C[24]魔防力DOWN：\\C[0]魔防力が20％低下する。",
+        "description": "攻撃を受けたとき、3ターンの間、攻撃した対象に\\C[24]魔防力DOWN\\C[0]を付与する。\n\\C[24]魔防力DOWN: \\C[0]魔防力が20％低下する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -5398,7 +5398,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "SPが1％未満である限り\\C[24]特異点\\C[0]状態になる。\n\\C[24]特異点：\\C[0]毎ターンTPが75増加する。",
+        "description": "SPが1％未満である限り\\C[24]特異点\\C[0]状態になる。\n\\C[24]特異点: \\C[0]毎ターンTPが75増加する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -5498,7 +5498,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "5ターンの間、味方全体に\\C[24]水の守り\\C[0]を付与する。\n\\C[24]水の守り：\\C[0]被炎、水属性ダメージを20％軽減する。",
+        "description": "5ターンの間、味方全体に\\C[24]水の守り\\C[0]を付与する。\n\\C[24]水の守り: \\C[0]被炎、水属性ダメージを20％軽減する。",
         "effects": [
             {
                 "code": 21,
@@ -5904,7 +5904,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "味方単体に\\C[24]影人形\\C[0]を付与する。\n\\C[24]影人形：\\C[0]回避率と魔法回避率が30％上昇する。ダメージにより解除される。",
+        "description": "味方単体に\\C[24]影人形\\C[0]を付与する。\n\\C[24]影人形: \\C[0]回避率と魔法回避率が30％上昇する。ダメージにより解除される。",
         "effects": [
             {
                 "code": 21,
@@ -6142,7 +6142,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力450：敵単体に防御力依存の物理攻撃。",
+        "description": "Power 450: 敵単体に防御力依存の物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -6297,7 +6297,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "5ターンの間、敵全体に\\C[24]視界不良\\C[0]を付与し、自身に\\C[24]潜伏\\C[0]を付与する。\n\\C[24]視界不良：\\C[0]命中率が25％低下する。\\C[24]潜伏：\\C[0]単体攻撃の対象にならなくなる。",
+        "description": "5ターンの間、敵全体に\\C[24]視界不良\\C[0]を付与し、自身に\\C[24]潜伏\\C[0]を付与する。\n\\C[24]視界不良: \\C[0]命中率が25％低下する。\\C[24]潜伏: \\C[0]単体攻撃の対象にならなくなる。",
         "effects": [
             {
                 "code": 21,
@@ -6335,7 +6335,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に会心率100％の物理攻撃。\n自身が\\C[24]潜伏\\C[0]状態時のみ使用可能。",
+        "description": "Power 300: 敵単体に会心率100％の物理攻撃。\n自身が\\C[24]潜伏\\C[0]状態時のみ使用可能。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -6597,7 +6597,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "通常攻撃が\\C[24]癒しの手\\C[0]に変化する。\n\\C[24]癒しの手：\\C[0]回復力150：味方単体のHPを回復する。",
+        "description": "通常攻撃が\\C[24]癒しの手\\C[0]に変化する。\n\\C[24]癒しの手: \\C[0]Power 150: 味方単体のHPを回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -6628,7 +6628,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "回復力150：味方単体のHPを回復する。",
+        "description": "Power 150: 味方単体のHPを回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -6690,7 +6690,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体ランダムに4回地属性魔法攻撃。",
+        "description": "Power 200: 敵全体ランダムに4回地属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 68,
@@ -6721,7 +6721,7 @@
             "type": 3,
             "variance": 5
         },
-        "description": "回復力300：味方単体のHPを地属性で回復し、\n5ターンの間、対象に\\C[24]攻撃力大UP\\C[0]と\\C[24]魔攻力大UP\\C[0]を付与する。",
+        "description": "Power 300: 味方単体のHPを地属性で回復し、\n5ターンの間、対象に\\C[24]攻撃力大UP\\C[0]と\\C[24]魔攻力大UP\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -6927,7 +6927,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に雷属性物理攻撃。",
+        "description": "Power 200: 敵全体に雷属性物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 65,
@@ -7158,7 +7158,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘開始時に自身に\\C[24]威厳\\C[0]を付与する。\n\\C[24]威厳：\\C[0]味方全体の防御力と魔防力が20％上昇し、毎ターンHPが5％回復する。",
+        "description": "戦闘開始時に自身に\\C[24]威厳\\C[0]を付与する。\n\\C[24]威厳: \\C[0]味方全体の防御力と魔防力が20％上昇し、毎ターンHPが5％回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -7189,7 +7189,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPが80％以上である限り\\C[24]号令\\C[0]状態になる。\n\\C[24]号令：\\C[0]味方全体の攻撃力と魔攻力が20％上昇し、毎ターンSPが5％回復する。",
+        "description": "HPが80％以上である限り\\C[24]号令\\C[0]状態になる。\n\\C[24]号令: \\C[0]味方全体の攻撃力と魔攻力が20％上昇し、毎ターンSPが5％回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -7282,7 +7282,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "敵全体に\\C[24]小さな恐怖\\C[0]を付与する。\n\\C[24]小さな恐怖：\\C[0]攻撃力と魔攻力が5％低下する。",
+        "description": "敵全体に\\C[24]小さな恐怖\\C[0]を付与する。\n\\C[24]小さな恐怖: \\C[0]攻撃力と魔攻力が5％低下する。",
         "effects": [
             {
                 "code": 21,
@@ -7389,7 +7389,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPが40％未満である限り\\C[24]異常生命力\\C[0]状態になる。\n\\C[24]異常生命力：\\C[0]毎ターンHPが40％回復する。",
+        "description": "HPが40％未満である限り\\C[24]異常生命力\\C[0]状態になる。\n\\C[24]異常生命力: \\C[0]毎ターンHPが40％回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -7482,7 +7482,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力100：敵全体に氷属性魔法攻撃。\n先制発動する。",
+        "description": "Power 100: 敵全体に氷属性魔法攻撃。\n先制発動する。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -7513,7 +7513,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "敵全体に付与されている\\C[24]氷弱化\\C[0]が\\C[24]氷弱化Ⅱ\\C[0]に変化する。\n\\C[24]氷弱化Ⅱ：\\C[0]被氷属性ダメージが50％増加する。",
+        "description": "敵全体に付与されている\\C[24]氷弱化\\C[0]が\\C[24]氷弱化Ⅱ\\C[0]に変化する。\n\\C[24]氷弱化Ⅱ: \\C[0]被氷属性ダメージが50％増加する。",
         "effects": [
             {
                 "code": 22,
@@ -7582,7 +7582,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "通常攻撃時、5ターンの間、対象に\\C[24]氷弱化\\C[0]を付与する。\n\\C[24]氷弱化：\\C[0]被氷属性ダメージが25％増加する。",
+        "description": "通常攻撃時、5ターンの間、対象に\\C[24]氷弱化\\C[0]を付与する。\n\\C[24]氷弱化: \\C[0]被氷属性ダメージが25％増加する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -7675,7 +7675,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "自身に\\C[24]暗器展開\\C[0]を付与する。\n\\C[24]暗器展開：\\C[0]3種の武器スキルが使用可能になる。",
+        "description": "自身に\\C[24]暗器展開\\C[0]を付与する。\n\\C[24]暗器展開: \\C[0]3種の武器スキルが使用可能になる。",
         "effects": [
             {
                 "code": 21,
@@ -7713,7 +7713,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力400：敵単体に物理攻撃。\n\\C[24]暗器展開\\C[0]による武器スキルを使用した次のターンのみ使用可能。",
+        "description": "Power 400: 敵単体に物理攻撃。\n\\C[24]暗器展開\\C[0]による武器スキルを使用した次のターンのみ使用可能。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -7906,7 +7906,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "8ターンの間、敵単体に\\C[24]霊傷\\C[0]を付与する。\n\\C[24]霊傷：\\C[0]毎ターン付与者の魔攻力依存の威力100のダメージを受ける。",
+        "description": "8ターンの間、敵単体に\\C[24]霊傷\\C[0]を付与する。\n\\C[24]霊傷: \\C[0]毎ターン付与者の魔攻力依存のPower 100のダメージを受ける。",
         "effects": [
             {
                 "code": 21,
@@ -8161,7 +8161,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "回復力200：自身のHPを回復する。",
+        "description": "Power 200: 自身のHPを回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -8192,7 +8192,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "回復力200：味方単体のHPを回復する。",
+        "description": "Power 200: 味方単体のHPを回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -8223,7 +8223,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "回復力200：味方全体のHPを回復する。",
+        "description": "Power 200: 味方全体のHPを回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -8622,7 +8622,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "8ターンの間、味方全体に\\C[24]HP再生\\C[0]を付与する。\n\\C[24]HP再生：\\C[0]毎ターンHPが5％回復する。",
+        "description": "8ターンの間、味方全体に\\C[24]HP再生\\C[0]を付与する。\n\\C[24]HP再生: \\C[0]毎ターンHPが5％回復する。",
         "effects": [
             {
                 "code": 21,
@@ -8660,7 +8660,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "8ターンの間、味方全体に\\C[24]SP再生\\C[0]を付与する。\n\\C[24]SP再生：\\C[0]毎ターンSPが5％回復する。",
+        "description": "8ターンの間、味方全体に\\C[24]SP再生\\C[0]を付与する。\n\\C[24]SP再生: \\C[0]毎ターンSPが5％回復する。",
         "effects": [
             {
                 "code": 21,
@@ -8736,7 +8736,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]挑発\\C[0]を付与する。\n\\C[24]挑発：\\C[0]単体攻撃の対象になりやすくなる。",
+        "description": "5ターンの間、自身に\\C[24]挑発\\C[0]を付与する。\n\\C[24]挑発: \\C[0]単体攻撃の対象になりやすくなる。",
         "effects": [
             {
                 "code": 21,
@@ -8774,7 +8774,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]潜伏\\C[0]を付与する。\n\\C[24]潜伏：\\C[0]単体攻撃の対象にならなくなる。",
+        "description": "5ターンの間、自身に\\C[24]潜伏\\C[0]を付与する。\n\\C[24]潜伏: \\C[0]単体攻撃の対象にならなくなる。",
         "effects": [
             {
                 "code": 21,
@@ -8812,7 +8812,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "3ターンの間、自身に\\C[24]SP消費0\\C[0]を付与する。\n\\C[24]SP消費0：\\C[0]消費SPが0になる。",
+        "description": "3ターンの間、自身に\\C[24]SP消費0\\C[0]を付与する。\n\\C[24]SP消費0: \\C[0]消費SPが0になる。",
         "effects": [
             {
                 "code": 21,
@@ -8850,7 +8850,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]最大HPUP\\C[0]を付与する。\n\\C[24]最大HPUP：\\C[0]最大HPが20％上昇する。",
+        "description": "5ターンの間、自身に\\C[24]最大HPUP\\C[0]を付与する。\n\\C[24]最大HPUP: \\C[0]最大HPが20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -8888,7 +8888,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP：\\C[0]攻撃力が20％上昇する。",
+        "description": "5ターンの間、自身に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP: \\C[0]攻撃力が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -8926,7 +8926,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]魔攻力UP\\C[0]を付与する。\n\\C[24]魔攻力UP：\\C[0]魔攻力が20％上昇する。",
+        "description": "5ターンの間、自身に\\C[24]魔攻力UP\\C[0]を付与する。\n\\C[24]魔攻力UP: \\C[0]魔攻力が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -8964,7 +8964,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]防御力UP\\C[0]と\\C[24]魔防力UP\\C[0]を付与する。\n\\C[24]～UP：\\C[0]それぞれ能力値が20％上昇する。",
+        "description": "5ターンの間、自身に\\C[24]防御力UP\\C[0]と\\C[24]魔防力UP\\C[0]を付与する。\n\\C[24]～UP: \\C[0]それぞれ能力値が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9008,7 +9008,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP：\\C[0]攻撃力が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP: \\C[0]攻撃力が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9046,7 +9046,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]魔攻力UP\\C[0]を付与する。\n\\C[24]魔攻力UP：\\C[0]魔攻力が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]魔攻力UP\\C[0]を付与する。\n\\C[24]魔攻力UP: \\C[0]魔攻力が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9084,7 +9084,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]防御力UP\\C[0]と\\C[24]魔防力UP\\C[0]を付与する。\n\\C[24]～UP：\\C[0]それぞれ能力値が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]防御力UP\\C[0]と\\C[24]魔防力UP\\C[0]を付与する。\n\\C[24]～UP: \\C[0]それぞれ能力値が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9128,7 +9128,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]素早さUP\\C[0]を付与する。\n\\C[24]素早さUP：\\C[0]素早さが20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]素早さUP\\C[0]を付与する。\n\\C[24]素早さUP: \\C[0]素早さが20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9166,7 +9166,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]心気UP\\C[0]を付与する。\n\\C[24]心気UP：\\C[0]心気が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]心気UP\\C[0]を付与する。\n\\C[24]心気UP: \\C[0]心気が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9204,7 +9204,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]会心率UP\\C[0]を付与する。\n\\C[24]会心率UP：\\C[0]会心率が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]会心率UP\\C[0]を付与する。\n\\C[24]会心率UP: \\C[0]会心率が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9242,7 +9242,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、味方全体に\\C[24]回避率UP\\C[0]を付与する。\n\\C[24]回避率UP：\\C[0]回避率が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]回避率UP\\C[0]を付与する。\n\\C[24]回避率UP: \\C[0]回避率が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -9311,7 +9311,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "3ターンの間、敵全体に\\C[24]攻撃力DOWN\\C[0]と\\C[24]魔攻力DOWN\\C[0]を付与する。\n\\C[24]～DOWN：\\C[0]それぞれ能力値が20％低下する。",
+        "description": "3ターンの間、敵全体に\\C[24]攻撃力DOWN\\C[0]と\\C[24]魔攻力DOWN\\C[0]を付与する。\n\\C[24]～DOWN: \\C[0]それぞれ能力値が20％低下する。",
         "effects": [
             {
                 "code": 21,
@@ -9355,7 +9355,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "3ターンの間、敵全体に\\C[24]防御力DOWN\\C[0]と\\C[24]魔防力DOWN\\C[0]を付与する。\n\\C[24]～DOWN：\\C[0]それぞれ能力値が20％低下する。",
+        "description": "3ターンの間、敵全体に\\C[24]防御力DOWN\\C[0]と\\C[24]魔防力DOWN\\C[0]を付与する。\n\\C[24]～DOWN: \\C[0]それぞれ能力値が20％低下する。",
         "effects": [
             {
                 "code": 21,
@@ -9399,7 +9399,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "3ターンの間、敵全体に\\C[24]素早さ大DOWN\\C[0]を付与する。\n\\C[24]素早さ大DOWN：\\C[0]素早さが40％低下する。素早さDOWNを上書きする。",
+        "description": "3ターンの間、敵全体に\\C[24]素早さ大DOWN\\C[0]を付与する。\n\\C[24]素早さ大DOWN: \\C[0]素早さが40％低下する。素早さDOWNを上書きする。",
         "effects": [
             {
                 "code": 21,
@@ -9854,7 +9854,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に炎属性魔法攻撃。",
+        "description": "Power 200: 敵単体に炎属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -9885,7 +9885,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に炎属性魔法攻撃。",
+        "description": "Power 150: 敵全体に炎属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -9916,7 +9916,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に雷属性魔法攻撃。",
+        "description": "Power 200: 敵単体に雷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 65,
@@ -9947,7 +9947,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に雷属性魔法攻撃。",
+        "description": "Power 150: 敵全体に雷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 65,
@@ -9978,7 +9978,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に氷属性魔法攻撃。",
+        "description": "Power 200: 敵単体に氷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -10009,7 +10009,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に氷属性魔法攻撃。",
+        "description": "Power 150: 敵全体に氷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -10040,7 +10040,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に水属性魔法攻撃。",
+        "description": "Power 200: 敵単体に水属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 67,
@@ -10071,7 +10071,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に水属性魔法攻撃。",
+        "description": "Power 150: 敵全体に水属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 67,
@@ -10102,7 +10102,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に地属性魔法攻撃。",
+        "description": "Power 200: 敵単体に地属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 68,
@@ -10133,7 +10133,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に地属性魔法攻撃。",
+        "description": "Power 150: 敵全体に地属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 68,
@@ -10164,7 +10164,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に風属性魔法攻撃。",
+        "description": "Power 200: 敵単体に風属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 69,
@@ -10195,7 +10195,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に風属性魔法攻撃。",
+        "description": "Power 150: 敵全体に風属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 69,
@@ -10226,7 +10226,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に光属性魔法攻撃。",
+        "description": "Power 200: 敵単体に光属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 70,
@@ -10257,7 +10257,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に光属性魔法攻撃。",
+        "description": "Power 150: 敵全体に光属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 70,
@@ -10288,7 +10288,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に闇属性魔法攻撃。",
+        "description": "Power 200: 敵単体に闇属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 71,
@@ -10319,7 +10319,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に闇属性魔法攻撃。",
+        "description": "Power 150: 敵全体に闇属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 71,
@@ -10350,7 +10350,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に波動属性魔法攻撃。",
+        "description": "Power 200: 敵単体に波動属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
@@ -10381,7 +10381,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に波動属性魔法攻撃。",
+        "description": "Power 150: 敵全体に波動属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
@@ -10412,7 +10412,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に魔防力依存の魔法攻撃。",
+        "description": "Power 200: 敵単体に魔防力依存の魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -10443,7 +10443,7 @@
             "type": 5,
             "variance": 5
         },
-        "description": "威力150：敵単体にHP吸収魔法攻撃。",
+        "description": "Power 150: 敵単体にHP吸収魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -10505,7 +10505,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。",
+        "description": "Power 200: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10536,7 +10536,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n先制発動する。",
+        "description": "Power 200: 敵単体に物理攻撃。\n先制発動する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10567,7 +10567,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n対象の防御力の半分の値を無視する。",
+        "description": "Power 200: 敵単体に物理攻撃。\n対象の防御力の半分の値を無視する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10598,7 +10598,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n対象の防御力を無視する。",
+        "description": "Power 200: 敵単体に物理攻撃。\n対象の防御力を無視する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10629,7 +10629,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に防御力依存の物理攻撃。",
+        "description": "Power 200: 敵単体に防御力依存の物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10660,7 +10660,7 @@
             "type": 5,
             "variance": 5
         },
-        "description": "威力200：敵単体にHP吸収物理攻撃。",
+        "description": "Power 200: 敵単体にHP吸収物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10691,7 +10691,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力220：敵全体ランダムに2回物理攻撃。",
+        "description": "Power 220: 敵全体ランダムに2回物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10722,7 +10722,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力280：敵全体ランダムに4回物理攻撃。",
+        "description": "Power 280: 敵全体ランダムに4回物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10753,7 +10753,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に物理攻撃。",
+        "description": "Power 150: 敵全体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -10784,7 +10784,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に物理攻撃。\n先制発動する。",
+        "description": "Power 200: 敵全体に物理攻撃。\n先制発動する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -12210,7 +12210,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "通常攻撃が\\C[24]強攻撃\\C[0]に変化する。\n\\C[24]強攻撃：\\C[0]威力120：敵単体に物理攻撃。",
+        "description": "通常攻撃が\\C[24]強攻撃\\C[0]に変化する。\n\\C[24]強攻撃: \\C[0]Power 120: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -12365,7 +12365,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "通常攻撃が\\C[24]魔法攻撃\\C[0]に変化する。\n\\C[24]魔法攻撃：\\C[0]威力120：敵単体に魔法攻撃。",
+        "description": "通常攻撃が\\C[24]魔法攻撃\\C[0]に変化する。\n\\C[24]魔法攻撃: \\C[0]Power 120: 敵単体に魔法攻撃。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -12861,7 +12861,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に雷属性魔法攻撃。3ターンの間、対象に\\C[24]雷痕\\C[0]を付与する。\n\\C[24]雷痕：\\C[0]被雷属性ダメージが50％増加する。",
+        "description": "Power 200: 敵単体に雷属性魔法攻撃。3ターンの間、対象に\\C[24]雷痕\\C[0]を付与する。\n\\C[24]雷痕: \\C[0]被雷属性ダメージが50％増加する。",
         "effects": [
             {
                 "code": 21,
@@ -12899,7 +12899,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "4ターンの間、自身に\\C[24]雷活性\\C[0]を付与する。\n\\C[24]雷活性：\\C[0]雷属性攻撃の威力が50％上昇し、毎ターンTPが10減少する。",
+        "description": "4ターンの間、自身に\\C[24]雷活性\\C[0]を付与する。\n\\C[24]雷活性: \\C[0]雷属性攻撃のPower が50％上昇し、毎ターンTPが10減少する。",
         "effects": [
             {
                 "code": 21,
@@ -12968,7 +12968,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "雷属性攻撃の威力が25％上昇する。",
+        "description": "雷属性攻撃のPower が25％上昇する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -13030,7 +13030,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "3ターンの間、自身に\\C[24]癒し手\\C[0]を付与し、行動不能となる。\n\\C[24]癒し手：\\C[0]毎ターン味方全体のHPを50％回復する。",
+        "description": "3ターンの間、自身に\\C[24]癒し手\\C[0]を付与し、行動不能となる。\n\\C[24]癒し手: \\C[0]毎ターン味方全体のHPを50％回復する。",
         "effects": [
             {
                 "code": 21,
@@ -13074,7 +13074,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "3ターンの間、味方単体に\\C[24]絹装\\C[0]を付与し、自身は行動不能となる。\n\\C[24]絹装：\\C[0]すべての能力値が10％上昇し、行動数が1増加する。",
+        "description": "3ターンの間、味方単体に\\C[24]絹装\\C[0]を付与し、自身は行動不能となる。\n\\C[24]絹装: \\C[0]すべての能力値が10％上昇し、行動数が1増加する。",
         "effects": [
             {
                 "code": 21,
@@ -13143,7 +13143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "生存している限り\\C[24]儚い織り手\\C[0]状態になる。\n\\C[24]儚い織り手：\\C[0]味方全体の被物理魔法ダメージを10%軽減する。",
+        "description": "生存している限り\\C[24]儚い織り手\\C[0]状態になる。\n\\C[24]儚い織り手: \\C[0]味方全体の被物理魔法ダメージを10%軽減する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -13349,7 +13349,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "反撃時。\n回復力30",
+        "description": "反撃時。\nPower 30",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -13380,7 +13380,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "反撃時。\n回復力50",
+        "description": "反撃時。\nPower 50",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -13504,7 +13504,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に光属性物理攻撃。",
+        "description": "Power 200: 敵単体に光属性物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 70,
@@ -13535,7 +13535,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力280：敵単体に物理攻撃。",
+        "description": "Power 280: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -13566,7 +13566,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "5ターンの間、自身に\\C[24]会心率UP\\C[0]を付与する。\n\\C[24]会心率UP：\\C[0]会心率が20％上昇する。",
+        "description": "5ターンの間、自身に\\C[24]会心率UP\\C[0]を付与する。\n\\C[24]会心率UP: \\C[0]会心率が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -13604,7 +13604,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に物理攻撃。",
+        "description": "Power 300: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -13635,7 +13635,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に魔法攻撃。",
+        "description": "Power 200: 敵単体に魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -13666,7 +13666,7 @@
             "type": 3,
             "variance": 10
         },
-        "description": "回復力100：味方全体のHPを回復する。",
+        "description": "Power 100: 味方全体のHPを回復する。",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -13697,7 +13697,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に地属性魔法攻撃。",
+        "description": "Power 200: 敵単体に地属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 68,
@@ -13766,7 +13766,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n対象の防御力を無視する。",
+        "description": "Power 200: 敵単体に物理攻撃。\n対象の防御力を無視する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -13797,7 +13797,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力250：敵単体に攻撃力と魔攻力依存の炎属性物理攻撃。",
+        "description": "Power 250: 敵単体に攻撃力と魔攻力依存の炎属性物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 64,
@@ -13828,7 +13828,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に心気依存の物理攻撃。\n対象の心気がダメージに影響する。",
+        "description": "Power 200: 敵全体に心気依存の物理攻撃。\n対象の心気がダメージに影響する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -13859,7 +13859,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵単体に会心率100％の物理攻撃。",
+        "description": "Power 150: 敵単体に会心率100％の物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -13890,7 +13890,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "自身に\\C[24]星龍輝耀\\C[0]を付与する。\n\\C[24]星龍輝耀：\\C[0]攻撃力と防御力と魔攻力と魔防力が25％上昇する。",
+        "description": "自身に\\C[24]星龍輝耀\\C[0]を付与する。\n\\C[24]星龍輝耀: \\C[0]攻撃力と防御力と魔攻力と魔防力が25％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -13966,7 +13966,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力220：敵単体に物理攻撃。",
+        "description": "Power 220: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -13997,7 +13997,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力220：敵単体に魔法攻撃。",
+        "description": "Power 220: 敵単体に魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -14028,7 +14028,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力400：敵単体に攻撃力と魔攻力依存の魔法攻撃。",
+        "description": "Power 400: 敵単体に攻撃力と魔攻力依存の魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -14152,7 +14152,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力400：敵単体に炎属性魔法攻撃。\n5ターンの間、自身に\\C[24]魔攻力大UP\\C[0]を付与する。",
+        "description": "Power 400: 敵単体に炎属性魔法攻撃。\n5ターンの間、自身に\\C[24]魔攻力大UP\\C[0]を付与する。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -14183,7 +14183,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に雷属性物理攻撃。6ターンの間、対象に\\C[24]隷体\\C[0]を付与する。\n\\C[24]隷体：\\C[0]攻撃を受けたとき、攻撃した対象のHPを10％回復する。",
+        "description": "Power 200: 敵全体に雷属性物理攻撃。6ターンの間、対象に\\C[24]隷体\\C[0]を付与する。\n\\C[24]隷体: \\C[0]攻撃を受けたとき、攻撃した対象のHPを10％回復する。",
         "effects": [
             {
                 "code": 21,
@@ -14221,7 +14221,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体ランダムに3回氷属性物理攻撃。\n3ターンの間、対象に\\C[24]防御力大DOWN\\C[0]と\\C[24]魔防力大DOWN\\C[0]を付与する。",
+        "description": "Power 300: 敵全体ランダムに3回氷属性物理攻撃。\n3ターンの間、対象に\\C[24]防御力大DOWN\\C[0]と\\C[24]魔防力大DOWN\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -14265,7 +14265,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に物理攻撃。対象に付与された強化効果を全て解除する。\n赤枠の強化効果は解除できない。",
+        "description": "Power 300: 敵単体に物理攻撃。対象に付与された強化効果を全て解除する。\n赤枠の強化効果は解除できない。",
         "effects": [
             {
                 "code": 22,
@@ -15286,7 +15286,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵単体に物理攻撃。",
+        "description": "Power 150: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -15317,7 +15317,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力180：敵単体に魔法攻撃。",
+        "description": "Power 180: 敵単体に魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -15348,7 +15348,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に魔攻力依存の物理攻撃。",
+        "description": "Power 200: 敵単体に魔攻力依存の物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -15379,7 +15379,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力100：敵単体に物理攻撃。\n3ターンの間、対象に\\C[24]防御力DOWN\\C[0]を付与する。",
+        "description": "Power 100: 敵単体に物理攻撃。\n3ターンの間、対象に\\C[24]防御力DOWN\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -15417,7 +15417,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に波動属性物理攻撃。",
+        "description": "Power 300: 敵単体に波動属性物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 85,
@@ -15448,7 +15448,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力240：敵単体に物理攻撃。",
+        "description": "Power 240: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -15479,7 +15479,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に魔法攻撃。",
+        "description": "Power 200: 敵全体に魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -15510,7 +15510,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に氷属性物理攻撃。\n3ターンの間、対象に\\C[24]素早さ大DOWN\\C[0]を付与する。",
+        "description": "Power 200: 敵単体に氷属性物理攻撃。\n3ターンの間、対象に\\C[24]素早さ大DOWN\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -15548,7 +15548,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に攻撃力依存の魔法攻撃。",
+        "description": "Power 200: 敵単体に攻撃力依存の魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
@@ -15579,7 +15579,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に魔攻力依存の物理攻撃。\nクリティカルヒットしない。",
+        "description": "Power 200: 敵単体に魔攻力依存の物理攻撃。\nクリティカルヒットしない。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -15610,7 +15610,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "威力150：敵単体に波動属性魔法攻撃。\nクリティカルヒットしない。",
+        "description": "Power 150: 敵単体に波動属性魔法攻撃。\nクリティカルヒットしない。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
@@ -15641,7 +15641,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "威力100：敵全体に波動属性魔法攻撃。\nクリティカルヒットしない。",
+        "description": "Power 100: 敵全体に波動属性魔法攻撃。\nクリティカルヒットしない。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
@@ -15710,7 +15710,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵単体に水属性物理攻撃。\n3ターンの間、対象に\\C[24]攻撃力DOWN\\C[0]を付与する。",
+        "description": "Power 150: 敵単体に水属性物理攻撃。\n3ターンの間、対象に\\C[24]攻撃力DOWN\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -15748,7 +15748,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に炎属性魔法攻撃。\n3ターンの間、対象に\\C[24]防御力DOWN\\C[0]と\\C[24]魔防力DOWN\\C[0]を付与する。",
+        "description": "Power 150: 敵全体に炎属性魔法攻撃。\n3ターンの間、対象に\\C[24]防御力DOWN\\C[0]と\\C[24]魔防力DOWN\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -15792,7 +15792,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力250：敵単体に物理攻撃。3ターンの間、対象に\\C[24]心気DOWN\\C[0]を付与する。\n対象の心気がダメージに影響する。",
+        "description": "Power 250: 敵単体に物理攻撃。3ターンの間、対象に\\C[24]心気DOWN\\C[0]を付与する。\n対象の心気がダメージに影響する。",
         "effects": [
             {
                 "code": 21,
@@ -15830,7 +15830,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵単体に物理攻撃。\n3ターンの間、対象に\\C[24]防御力大DOWN\\C[0]を付与する。",
+        "description": "Power 200: 敵単体に物理攻撃。\n3ターンの間、対象に\\C[24]防御力大DOWN\\C[0]を付与する。",
         "effects": [
             {
                 "code": 21,
@@ -15937,7 +15937,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "敵単体に\\C[24]拘束\\C[0]を付与する。\\C[24]拘束\\C[0]付与可能数は戦闘中1回のみ。\n\\C[24]拘束：\\C[0]2回行動するまで回避率が0になり、行動不能となる。",
+        "description": "敵単体に\\C[24]拘束\\C[0]を付与する。\\C[24]拘束\\C[0]付与可能数は戦闘中1回のみ。\n\\C[24]拘束: \\C[0]2回行動するまで回避率が0になり、行動不能となる。",
         "effects": [
             {
                 "code": 21,
@@ -16137,7 +16137,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "5ターンの間、味方全体に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP：\\C[0]攻撃力が20％上昇する。",
+        "description": "5ターンの間、味方全体に\\C[24]攻撃力UP\\C[0]を付与する。\n\\C[24]攻撃力UP: \\C[0]攻撃力が20％上昇する。",
         "effects": [
             {
                 "code": 21,
@@ -16175,7 +16175,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵単体に物理攻撃。",
+        "description": "Power 300: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -16206,7 +16206,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に物理攻撃。",
+        "description": "Power 150: 敵全体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -16299,7 +16299,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力320：敵単体に物理攻撃。",
+        "description": "Power 320: 敵単体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -16330,7 +16330,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に物理攻撃。",
+        "description": "Power 200: 敵全体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
@@ -16605,7 +16605,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に炎属性魔法攻撃。",
+        "description": "Power 300: 敵全体に炎属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -16636,7 +16636,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に雷属性魔法攻撃。",
+        "description": "Power 300: 敵全体に雷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 65,
@@ -16667,7 +16667,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に氷属性魔法攻撃。",
+        "description": "Power 300: 敵全体に氷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -16698,7 +16698,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に水属性魔法攻撃。",
+        "description": "Power 300: 敵全体に水属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 67,
@@ -16729,7 +16729,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に地属性魔法攻撃。",
+        "description": "Power 300: 敵全体に地属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 68,
@@ -16760,7 +16760,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に風属性魔法攻撃。",
+        "description": "Power 300: 敵全体に風属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 69,
@@ -16791,7 +16791,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に光属性魔法攻撃。",
+        "description": "Power 300: 敵全体に光属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 70,
@@ -16822,7 +16822,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に闇属性魔法攻撃。",
+        "description": "Power 300: 敵全体に闇属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 71,
@@ -17946,7 +17946,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に炎属性魔法攻撃。\n（エネミー用）",
+        "description": "Power 300: 敵全体に炎属性魔法攻撃。\n（エネミー用）",
         "effects": [],
         "hitType": 2,
         "iconIndex": 64,
@@ -17977,7 +17977,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に雷属性魔法攻撃。\n（エネミー用）",
+        "description": "Power 300: 敵全体に雷属性魔法攻撃。\n（エネミー用）",
         "effects": [],
         "hitType": 2,
         "iconIndex": 65,
@@ -18008,7 +18008,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に氷属性魔法攻撃。",
+        "description": "Power 300: 敵全体に氷属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 66,
@@ -18039,7 +18039,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に水属性魔法攻撃。",
+        "description": "Power 300: 敵全体に水属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 67,
@@ -18101,7 +18101,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に風属性魔法攻撃。",
+        "description": "Power 300: 敵全体に風属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 69,
@@ -18132,7 +18132,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に光属性魔法攻撃。",
+        "description": "Power 300: 敵全体に光属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 70,
@@ -18163,7 +18163,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力300：敵全体に闇属性魔法攻撃。",
+        "description": "Power 300: 敵全体に闇属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 71,
@@ -18970,7 +18970,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に物理攻撃。",
+        "description": "Power 200: 敵全体に物理攻撃。",
         "effects": [
             {
                 "code": 21,
@@ -19703,7 +19703,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に物理攻撃。",
+        "description": "Power 200: 敵全体に物理攻撃。",
         "effects": [
             {
                 "code": 21,
@@ -21066,7 +21066,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力200：敵全体に心気依存の物理攻撃。\n対象の心気がダメージに影響する。",
+        "description": "Power 200: 敵全体に心気依存の物理攻撃。\n対象の心気がダメージに影響する。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 78,
@@ -22538,7 +22538,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力50：敵単体に波動属性魔法攻撃。",
+        "description": "Power 50: 敵単体に波動属性魔法攻撃。",
         "effects": [
             {
                 "code": 21,
@@ -22582,7 +22582,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力100：敵全体に波動属性魔法攻撃。",
+        "description": "Power 100: 敵全体に波動属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
@@ -23819,7 +23819,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に物理攻撃。",
+        "description": "Power 150: 敵全体に物理攻撃。",
         "effects": [],
         "hitType": 1,
         "iconIndex": 77,
@@ -23850,7 +23850,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力150：敵全体に波動属性魔法攻撃。",
+        "description": "Power 150: 敵全体に波動属性魔法攻撃。",
         "effects": [
             {
                 "code": 21,
@@ -25354,7 +25354,7 @@
             "type": 2,
             "variance": 0
         },
-        "description": "3ターンの間、敵全体に\\C[24]攻撃力DOWN\\C[0]と\\C[24]魔攻力DOWN\\C[0]を付与する。\n\\C[24]～DOWN：\\C[0]それぞれ能力値が20％低下する。",
+        "description": "3ターンの間、敵全体に\\C[24]攻撃力DOWN\\C[0]と\\C[24]魔攻力DOWN\\C[0]を付与する。\n\\C[24]～DOWN: \\C[0]それぞれ能力値が20％低下する。",
         "effects": [
             {
                 "code": 21,
@@ -25812,7 +25812,7 @@
         "message1": "%1の攻撃！",
         "message2": "",
         "mpCost": 0,
-        "name": "未使用：星座「大鉾」",
+        "name": "未使用: 星座「大鉾」",
         "note": "<SEランダム>",
         "occasion": 1,
         "repeats": 1,
@@ -25880,7 +25880,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "威力100：敵全体に波動属性魔法攻撃。",
+        "description": "Power 100: 敵全体に波動属性魔法攻撃。",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
