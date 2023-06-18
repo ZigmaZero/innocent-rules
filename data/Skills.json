@@ -5704,7 +5704,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "During this Turn, all allies' Physical DMG taken -50%.",
+        "description": "For this Turn, all allies' Physical DMG taken -50%.",
         "effects": [
             {
                 "code": 21,
@@ -5742,7 +5742,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "During this Turn, DMG taken -80%.\nSure Hit attacks ignore this effect.",
+        "description": "For this Turn, DMG taken -80%.\nSure Hit attacks ignore this effect.",
         "effects": [
             {
                 "code": 21,
@@ -5811,14 +5811,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "HPが80％以上である限り、味方への必中でない攻撃の対象を自身にする。\n必中攻撃はこの効果を無視する。",
+        "description": "When HP is 80% or more, attacks on allies hit you instead.\nSure Hit attacks ignore this effect.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "防御反応",
+        "name": "Protective Tendency",
         "note": "<passiveWeapon:333>",
         "occasion": 3,
         "repeats": 1,
@@ -5904,7 +5904,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "味方単体に\\C[24]影人形\\C[0]を付与する。\n\\C[24]影人形: \\C[0]回避率と魔法回避率が30％上昇する。ダメージにより解除される。",
+        "description": "Apply \\C[24]Shadow Doll\\C[0] to a single ally.\n\\C[24]Shadow Doll: \\C[0]Evasion and Magic Evasion Rate +30%. Removed when taking DMG.",
         "effects": [
             {
                 "code": 21,
@@ -5918,7 +5918,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 0,
-        "name": "シャドウジェミニ",
+        "name": "Shadow Gemini",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -5942,7 +5942,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "使用したターンの間、魔法攻撃を無効化する。",
+        "description": "For this Turn, Magical attacks targeting you are nullified.",
         "effects": [
             {
                 "code": 21,
@@ -5956,7 +5956,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 0,
-        "name": "シャドウホール",
+        "name": "Shadow Hole",
         "note": "<SkillPriority:3>",
         "occasion": 1,
         "repeats": 1,
@@ -5980,14 +5980,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "回避率が25％上昇し、被闇属性ダメージを15％軽減する。\n被光属性ダメージが25％増加する。",
+        "description": "Evasion Rate +25%, Dark DMG taken -15%.\nLight DMG taken +25%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "影の身体",
+        "name": "Shadow Body",
         "note": "<passiveWeapon:335>",
         "occasion": 3,
         "repeats": 1,
@@ -6011,14 +6011,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法回避率が25％上昇し、被闇属性ダメージを15％軽減する。\n被光属性ダメージが25％増加する。",
+        "description": "Magical Evasion Rate +25%, Dark DMG taken -15%.\nLight DMG taken +25%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "闇の障壁",
+        "name": "Darkness Barrier",
         "note": "<passiveWeapon:336>",
         "occasion": 3,
         "repeats": 1,
@@ -6104,7 +6104,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "使用したターンの間、敵全体の魔攻力が50％低下する。",
+        "description": "For this turn, all enemies' MAG -50%.",
         "effects": [
             {
                 "code": 21,
@@ -6118,7 +6118,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 0,
-        "name": "フライテンロア",
+        "name": "Frighten Roar",
         "note": "<SkillPriority:3>",
         "occasion": 1,
         "repeats": 1,
@@ -6142,14 +6142,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 450: 敵単体に防御力依存の物理攻撃。",
+        "description": "Power 450: DEF-scaling Physical attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "トリプルヘッド",
+        "name": "Triple Head",
         "note": "",
         "occasion": 1,
         "repeats": 3,
@@ -6173,14 +6173,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能時、それを解除しHPを50％回復する。\nこの効果は戦闘ごとに2回まで発動する。",
+        "description": "Twice per battle, when you are incapacitated,\nremove that effect and recover 50% HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "三つの魂",
+        "name": "Three Souls",
         "note": "<passiveWeapon:338>",
         "occasion": 3,
         "repeats": 1,
@@ -6204,14 +6204,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\C[24]能力値大DOWN\\C[0]を無効化する。",
+        "description": "Ignore the effects of \\C[24]Great Ability Down\\C[0] ailments.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "剛健",
+        "name": "Sturdiness",
         "note": "<passiveWeapon:339>",
         "occasion": 3,
         "repeats": 1,
@@ -6297,7 +6297,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "5ターンの間、敵全体に\\C[24]視界不良\\C[0]を付与し、自身に\\C[24]潜伏\\C[0]を付与する。\n\\C[24]視界不良: \\C[0]命中率が25％低下する。\\C[24]潜伏: \\C[0]単体攻撃の対象にならなくなる。",
+        "description": "Apply \\C[24]Poor Vision\\C[0] to all enemies, and \\C[24]Conceal\\C[0] to self for 5 Turns.\n\\C[24]Poor Vision: \\C[0]Accuracy -25%. \\C[24]Conceal: \\C[0]Cannot be targeted by single target attacks.",
         "effects": [
             {
                 "code": 21,
@@ -6311,7 +6311,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 0,
-        "name": "スモークボール",
+        "name": "Smoke Ball",
         "note": "<ステート追加: 52>",
         "occasion": 1,
         "repeats": 1,
@@ -6335,14 +6335,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 300: 敵単体に会心率100％の物理攻撃。\n自身が\\C[24]潜伏\\C[0]状態時のみ使用可能。",
+        "description": "Power 300: Can only be used when affected by \\C[24]Conceal\\C[0].\nSure Hit Physical attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "アンブッシュ",
+        "name": "Ambush",
         "note": "<checkStateAffected:52>\n<CC確率加算:100>",
         "occasion": 1,
         "repeats": 2,
@@ -6366,14 +6366,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "刻印武器を装備できる。\n刻印は装着できない。",
+        "description": "You may equip Engrave Weapons.\nYou still cannot equip Engraves.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "器用な手先",
+        "name": "Dexterous Hands",
         "note": "<passiveWeapon:341>\n<dPlnText:Traits are always in effect.>",
         "occasion": 3,
         "repeats": 1,
@@ -6397,14 +6397,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "消費SPが15％減少する。",
+        "description": "SP Cost -15%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "蛮族の知恵",
+        "name": "Barbarian Wisdom",
         "note": "<passiveWeapon:342>\n<dPlnText:Traits are always in effect.>",
         "occasion": 3,
         "repeats": 1,
@@ -6490,7 +6490,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "味方全体のHPを30％回復する。",
+        "description": "All allies recover 30% HP.",
         "effects": [
             {
                 "code": 11,
@@ -6504,7 +6504,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 0,
-        "name": "フラワーヒール",
+        "name": "Flower Heal",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -8698,7 +8698,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "使用したターンの間、味方全体へのダメージを25％軽減する。\n必中攻撃はこの効果を無視する。",
+        "description": "使用したターンの間、味方全体へのダメージを25％軽減する。\nSure Hit attacks ignore this effect.",
         "effects": [
             {
                 "code": 21,
@@ -13728,7 +13728,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "使用したターンの間、味方への必中でない攻撃の対象を自身にする。\n必中攻撃はこの効果を無視する。",
+        "description": "For this Turn, attacks on allies hit you instead.\nSure Hit attacks ignore this effect.",
         "effects": [
             {
                 "code": 21,
