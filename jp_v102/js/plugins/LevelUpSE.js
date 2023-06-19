@@ -69,7 +69,7 @@
             this._level
         );
         $gameMessage.newPage();
-        text = '\\SETVICTORYSE[0]'+ text;
+        text = '\\SETVICTORYSE'+ text;
         $gameMessage.add(text);
         for (const skill of newSkills) {
             $gameMessage.add(TextManager.obtainSkill.format(skill.name));
@@ -80,7 +80,6 @@
     Window_Base.prototype.processEscapeCharacter = function(code, textState) {
         switch (code) {
             case 'SETVICTORYSE':
-                this.obtainEscapeParam(textState);
                 AudioManager.playSe({"name":SE,"volume":volume,"pitch":pitch,"pan":pan});
             break;
             default:
