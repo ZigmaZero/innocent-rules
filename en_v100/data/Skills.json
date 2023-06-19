@@ -7975,14 +7975,14 @@
             "type": 0,
             "variance": 20
         },
-        "description": "消費SPが30%低下する。",
+        "description": "SP Cost -30%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "霊気の循環",
+        "name": "Electron Circulation",
         "note": "<passiveWeapon:366>",
         "occasion": 3,
         "repeats": 1,
@@ -8137,7 +8137,7 @@
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "▼汎用スキル",
+        "name": "▼General Skill",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8161,14 +8161,14 @@
             "type": 3,
             "variance": 10
         },
-        "description": "Power 200: 自身のHPを回復する。",
+        "description": "Power 200: Recovers your HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
         "message1": "%1は%2を使った！",
         "message2": "",
         "mpCost": 4,
-        "name": "ヒーリング",
+        "name": "Healing",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -8192,14 +8192,14 @@
             "type": 3,
             "variance": 10
         },
-        "description": "Power 200: 味方単体のHPを回復する。",
+        "description": "Power 200: Recovers the HP of a single ally.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 8,
-        "name": "キュア",
+        "name": "Cure",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8223,14 +8223,14 @@
             "type": 3,
             "variance": 10
         },
-        "description": "Power 200: 味方全体のHPを回復する。",
+        "description": "Power 200: Recovers the HP of all allies.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 90,
-        "name": "キュアオール",
+        "name": "Cure All",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8254,7 +8254,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の状態異常を解除する。\n赤枠の状態異常は解除できない。",
+        "description": "Removes status ailments from a single ally.\nRed-bordered ailments cannot be removed.",
         "effects": [
             {
                 "code": 22,
@@ -8370,7 +8370,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 4,
-        "name": "リカバリー",
+        "name": "Recovery",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8394,7 +8394,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の状態異常を解除する。\n赤枠の状態異常は解除できない。",
+        "description": "Removes status ailments from a single ally.\nRed-bordered ailments cannot be removed.",
         "effects": [
             {
                 "code": 22,
@@ -8510,7 +8510,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 50,
-        "name": "リカバリーオール",
+        "name": "Recovery All",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8534,7 +8534,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の戦闘不能を解除し、HPを20％回復する。",
+        "description": "Revives a single ally, recovering 20% HP.",
         "effects": [
             {
                 "code": 22,
@@ -8554,7 +8554,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 30,
-        "name": "レイズ",
+        "name": "Raise",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8578,7 +8578,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の戦闘不能を解除し、HPを100％回復する。",
+        "description": "Revives a single ally, recovering 100% HP.",
         "effects": [
             {
                 "code": 22,
@@ -8598,7 +8598,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 80,
-        "name": "キュアレイズ",
+        "name": "Cure Raise",
         "note": "",
         "occasion": 0,
         "repeats": 1,
@@ -8622,7 +8622,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "8ターンの間、味方全体に\\C[24]HP再生\\C[0]を付与する。\n\\C[24]HP再生: \\C[0]毎ターンHPが5％回復する。",
+        "description": "Apply \\C[24]HP Regen\\C[0] to all allies for 8 Turns.\n\\C[24]HP Regen: \\C[0]Recover 5% HP every Turn.",
         "effects": [
             {
                 "code": 21,
@@ -8636,7 +8636,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 16,
-        "name": "ライフオーラ",
+        "name": "Life Aura",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -8660,7 +8660,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "8ターンの間、味方全体に\\C[24]SP再生\\C[0]を付与する。\n\\C[24]SP再生: \\C[0]毎ターンSPが5％回復する。",
+        "description": "Apply \\C[24]SP Regen\\C[0] to all allies for 8 Turns.\n\\C[24]SP Regen: \\C[0]Recover 5% SP every Turn.",
         "effects": [
             {
                 "code": 21,
@@ -8674,7 +8674,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 16,
-        "name": "エナジーオーラ",
+        "name": "Energy Aura",
         "note": "",
         "occasion": 1,
         "repeats": 1,
