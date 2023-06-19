@@ -3284,7 +3284,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 145,
-        "name": "Queen's Dignity",
+        "name": "Queen's Majesty",
         "note": "<addStateBeforeBattle:84>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Queen Ants.\n　\nThey were born to be queens.\nThey are required to fulfill their duties.\n　\nSpecial Effects:\n・All Allies ATK and MAG +5%>",
         "params": [
             0,
