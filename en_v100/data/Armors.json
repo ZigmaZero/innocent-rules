@@ -3237,7 +3237,7 @@
         ],
         "iconIndex": 134,
         "name": "Fungal Virtues",
-        "note": "<BoostEX:EL, 6, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Mushrooms.\n　\nTheir virtue is to never move.\nThe more mushroom-like, the more noble.\n　\nSpecial Effects:\n・Earth attacks +50% power\n・Disable Stun>",
+        "note": "<BoostEX:EL, 6, 50>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Mushrooms.\n　\nTheir virtue is to never move.\nThe more mushroom-like, the more noble.\n　\nSpecial Effects:\n・Earth attacks +50% power\n・Negate Stun>",
         "params": [
             0,
             0,
@@ -5581,7 +5581,7 @@
         ],
         "iconIndex": 154,
         "name": "Flower Dress",
-        "note": "<NameColor:23>\n<dPlnText:A gift from the fairies.\nFilled with much appreciation.\n　\nThe scent of colorful flowers decorated with flowers\nsoothes the wearer's mind and relieves fatigue.\n　\nThis is made for women, but\nthere is no rule that said men cannot wear it.\n　\nSpecial Effects:\n・Disable Fatigue>",
+        "note": "<NameColor:23>\n<dPlnText:A gift from the fairies.\nFilled with much appreciation.\n　\nThe scent of colorful flowers decorated with flowers\nsoothes the wearer's mind and relieves fatigue.\n　\nThis is made for women, but\nthere is no rule that said men cannot wear it.\n　\nSpecial Effects:\n・Negate Fatigue>",
         "params": [
             0,
             20,
@@ -6020,7 +6020,7 @@
         ],
         "iconIndex": 131,
         "name": "Communicator's Helm",
-        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nWhat the Communicator wore.\n　\nA cocoon exists there, in the empty sea.\n　\nThe nameless wishes for the rainbow,\nwearing that helmet as his faith.\n　\nSpecial Effects:\n・Disable Sleep and Confusion>",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nWhat the Communicator wore.\n　\nA cocoon exists there, in the empty sea.\n　\nThe nameless wishes for the rainbow,\nwearing that helmet as his faith.\n　\nSpecial Effects:\n・Negate Sleep and Confusion>",
         "params": [
             0,
             0,
@@ -6868,7 +6868,7 @@
         ],
         "iconIndex": 146,
         "name": "Death Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Instant Death>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Instant Death>",
         "params": [
             0,
             0,
@@ -6895,7 +6895,7 @@
         ],
         "iconIndex": 146,
         "name": "Poison Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Poison>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Poison>",
         "params": [
             0,
             0,
@@ -6922,7 +6922,7 @@
         ],
         "iconIndex": 146,
         "name": "Tire Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Fatigue>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Fatigue>",
         "params": [
             0,
             0,
@@ -6949,7 +6949,7 @@
         ],
         "iconIndex": 146,
         "name": "Blind Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Darkness>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Darkness>",
         "params": [
             0,
             0,
@@ -6976,7 +6976,7 @@
         ],
         "iconIndex": 146,
         "name": "Forget Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Forgetful>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Forgetful>",
         "params": [
             0,
             0,
@@ -7003,7 +7003,7 @@
         ],
         "iconIndex": 146,
         "name": "Panic Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Confusion>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Confusion>",
         "params": [
             0,
             0,
@@ -7030,7 +7030,7 @@
         ],
         "iconIndex": 146,
         "name": "Sleep Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Sleep>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Sleep>",
         "params": [
             0,
             0,
@@ -7057,7 +7057,7 @@
         ],
         "iconIndex": 146,
         "name": "Paralyze Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Paralyze>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Paralyze>",
         "params": [
             0,
             0,
@@ -7084,7 +7084,7 @@
         ],
         "iconIndex": 146,
         "name": "Shock Guard",
-        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Disable Stun>",
+        "note": "<dPlnText:An ornament that prevents Ailments.\n　\nPhysical abnormalities in battle are called Ailments.\nIt's one of the most common deaths for adventurers.\nTherefore, countermeasures must be prepared.\n　\nSpecial Effects:\n・Negate Stun>",
         "params": [
             0,
             0,
@@ -7567,7 +7567,7 @@
         ],
         "iconIndex": 149,
         "name": "Ribbon",
-        "note": "<NameColor:23>\n<dPlnText:Just a ribbon, atleast in appearance.\n　\nAlways perfectly shaped when worn.\nNullifies most Ailments.\n　\nSpecial Effects:\n・Disable non-Stun Ailments>",
+        "note": "<NameColor:23>\n<dPlnText:Just a ribbon, atleast in appearance.\n　\nAlways perfectly shaped when worn.\nNullifies most Ailments.\n　\nSpecial Effects:\n・Negate non-Stun Ailments>",
         "params": [
             0,
             0,
@@ -7674,7 +7674,7 @@
         ],
         "iconIndex": 144,
         "name": "Soldier Belt",
-        "note": "<NameColor:23>\n<dPlnText:A belt worthy of a fighter.\n　\nInevitably, fights lead to waning abilities,\nand waning abilities lead to instability.\nBoth are fatal mistakes on the battlefield.\n　\nSpecial Effects:\n・Disable Stun\n・Disable Ability Down\n・Disable Great Ability Down>",
+        "note": "<NameColor:23>\n<dPlnText:A belt worthy of a fighter.\n　\nInevitably, fights lead to waning abilities,\nand waning abilities lead to instability.\nBoth are fatal mistakes on the battlefield.\n　\nSpecial Effects:\n・Negate Stun\n・Negate Ability Down\n・Negate Great Ability Down>",
         "params": [
             0,
             0,

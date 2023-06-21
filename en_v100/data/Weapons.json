@@ -5070,7 +5070,7 @@
         ],
         "iconIndex": 320,
         "name": "Venomous Fang",
-        "note": "<NameColor:23>\n<dPlnText:Fangs that still ooze poison even after falling out.\nBasically any monster can use this.\n　\nThe poison maintains its sharpness,\nand murderous intent oozes throughout.\n　\nIt is said that when there were a queen of the\nSnake Women, no infighting was seen throughout.\n　\nSpecial Effects:\n・Disable ATK Down\n・Disable Great ATK Down>",
+        "note": "<NameColor:23>\n<dPlnText:Fangs that still ooze poison even after falling out.\nBasically any monster can use this.\n　\nThe poison maintains its sharpness,\nand murderous intent oozes throughout.\n　\nIt is said that when there were a queen of the\nSnake Women, no infighting was seen throughout.\n　\nSpecial Effects:\n・Negate ATK Down\n・Negate Great ATK Down>",
         "params": [
             0,
             0,
@@ -5113,7 +5113,7 @@
         ],
         "iconIndex": 326,
         "name": "Snow Hunting Bow",
-        "note": "<NameColor:23>\n<dPlnText:Weapons of the clan known as the Snow Hunters.\nThe monster who wields the weapon is chosen by it.\n　\nThe Snow Hunters confronted the cold abyss enveloping the stars,\nbut couldn't overcome the everpresent threat of nature.\n　\nHowever, the will to live for the sake of their friends\nhas been passed down upon the present.\n　\nSpecial Effects:\n・Disable Darkness>",
+        "note": "<NameColor:23>\n<dPlnText:Weapons of the clan known as the Snow Hunters.\nThe monster who wields the weapon is chosen by it.\n　\nThe Snow Hunters confronted the cold abyss enveloping the stars,\nbut couldn't overcome the everpresent threat of nature.\n　\nHowever, the will to live for the sake of their friends\nhas been passed down upon the present.\n　\nSpecial Effects:\n・Negate Darkness>",
         "params": [
             0,
             10,
@@ -5204,7 +5204,7 @@
         ],
         "iconIndex": 329,
         "name": "Crab Shears",
-        "note": "<NameColor:23>\n<dPlnText:Crab shears in good condition.\nFreshly obtained without a single blemish.\n　\nFeels more like a blunt weapon.\nAnd also a little like armor.\n　\nBlows bubbles despite not being a mouth.\n　\nSpecial Effects:\n・Disable Stun>",
+        "note": "<NameColor:23>\n<dPlnText:Crab shears in good condition.\nFreshly obtained without a single blemish.\n　\nFeels more like a blunt weapon.\nAnd also a little like armor.\n　\nBlows bubbles despite not being a mouth.\n　\nSpecial Effects:\n・Negate Stun>",
         "params": [
             0,
             0,
@@ -5873,7 +5873,7 @@
         ],
         "iconIndex": 325,
         "name": "Barbarian Wand",
-        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe very cursed ritual itself.\n　\nAfter some time, rituals are governed by implements,\nand sorcerers only follow them as pawns.\n　\nSpecial Effects:\n・Disable Confusion>",
+        "note": "<NameColor:31>\n<dPlnText:Loot from battle against a powerful enemy.\nThe very cursed ritual itself.\n　\nAfter some time, rituals are governed by implements,\nand sorcerers only follow them as pawns.\n　\nSpecial Effects:\n・Negate Confusion>",
         "params": [
             0,
             0,
@@ -6535,7 +6535,7 @@
         ],
         "iconIndex": 325,
         "name": "Twisted Uneven Horns",
-        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe Nightmare's horns are irregular and\ndistorted from the influence of its own magic,\nbecoming a symbol of her power.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute\n・Recover 10 TP every Turn\n・Disable Poison>",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe Nightmare's horns are irregular and\ndistorted from the influence of its own magic,\nbecoming a symbol of her power.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute\n・Recover 10 TP every Turn\n・Negate Poison>",
         "params": [
             0,
             0,
@@ -6578,7 +6578,7 @@
         ],
         "iconIndex": 331,
         "name": "Thunder Curse Sacrifice",
-        "note": "<NameColor:2>\n<反撃拡張:雷呪の贄>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe villagers offered sacrifices\nand prayed to the tree, fearing the curse of falling thunder,\nnot knowing that it was the curse itself.\n　\nSpecial Effects:\n・Attacks gain the Thunder attribute\n・Activates [Thundershock] on Physical DMG taken\n・Disable Forgetful>",
+        "note": "<NameColor:2>\n<反撃拡張:雷呪の贄>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe villagers offered sacrifices\nand prayed to the tree, fearing the curse of falling thunder,\nnot knowing that it was the curse itself.\n　\nSpecial Effects:\n・Attacks gain the Thunder attribute\n・Activates [Thundershock] on Physical DMG taken\n・Negate Forgetful>",
         "params": [
             0,
             0,
@@ -6631,7 +6631,7 @@
         ],
         "iconIndex": 329,
         "name": "Ice Claw of the Mad Hunt",
-        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nA hunter kills prey to survive.\nBut she doesn't hunt just to stay alive,\nand therefore she succumbs to madness.\n　\nSpecial Effects:\n・Attacks gain the Ice Attribute.\n・Critical Rate and Evasion Rate +10%\n・Disable Confusion>",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nA hunter kills prey to survive.\nBut she doesn't hunt just to stay alive,\nand therefore she succumbs to madness.\n　\nSpecial Effects:\n・Attacks gain the Ice Attribute.\n・Critical Rate and Evasion Rate +10%\n・Negate Confusion>",
         "params": [
             1000,
             0,
@@ -6684,7 +6684,7 @@
         ],
         "iconIndex": 344,
         "name": "Sword of Stagnation",
-        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nSin sinks to the bottom, and the water stagnates.\nDuring the ceremony, those shrine maidens\nlost their mission to thoughtlessness.\n　\nSpecial Effects:\n・Attacks gain the Water attribute\n・Physical and Magical DMG taken -10%\n・Disable Fatigue>",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nSin sinks to the bottom, and the water stagnates.\nDuring the ceremony, those shrine maidens\nlost their mission to thoughtlessness.\n　\nSpecial Effects:\n・Attacks gain the Water attribute\n・Physical and Magical DMG taken -10%\n・Negate Fatigue>",
         "params": [
             0,
             50,
@@ -6732,7 +6732,7 @@
         ],
         "iconIndex": 336,
         "name": "Sword of Slaughter",
-        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nA pair of swords with numerous scars.\nIt is not proof of the ability to cut down everyone before it,\nbut the will to protect everyone behind it.\n　\nSpecial Effects:\n・Attacks gain the Earth attribute\n・ATK +10%\n・Disable Paralysis>",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nA pair of swords with numerous scars.\nIt is not proof of the ability to cut down everyone before it,\nbut the will to protect everyone behind it.\n　\nSpecial Effects:\n・Attacks gain the Earth attribute\n・ATK +10%\n・Negate Paralysis>",
         "params": [
             0,
             0,
@@ -6780,7 +6780,7 @@
         ],
         "iconIndex": 342,
         "name": "Maelstorm of Karmic Ode",
-        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nAncient dragons gather in the continent of Seifu,\nwaiting for an old friend in a rusty shrine.\n　\nSpecial Effects:\n・Attacks gain the Wind attribute\n・Recover 10% HP every Turn\n・Disable Stun>",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nAncient dragons gather in the continent of Seifu,\nwaiting for an old friend in a rusty shrine.\n　\nSpecial Effects:\n・Attacks gain the Wind attribute\n・Recover 10% HP every Turn\n・Negate Stun>",
         "params": [
             0,
             0,
