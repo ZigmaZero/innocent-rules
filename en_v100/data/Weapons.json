@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 6,
-        "description": "Shabby Cane\n\\C[24]Weapon Skill: \\C[0]Light Arrow",
+        "description": "Shabby Cane\n\\C[24]Weapon Skill: \\C[0]Ray of Light",
         "etypeId": 1,
         "traits": [
             {
@@ -79,7 +79,7 @@
     {
         "id": 3,
         "animationId": 6,
-        "description": "A sturdy wooden stick.\n\\C[24]Weapon Skill: \\C[0]Rumble",
+        "description": "A sturdy wooden stick.\n\\C[24]Weapon Skill: \\C[0]Batting",
         "etypeId": 1,
         "traits": [
             {
@@ -256,7 +256,7 @@
     {
         "id": 7,
         "animationId": 6,
-        "description": "A shining blue cane.\n\\C[24]Weapon Skill: \\C[0]Explosion",
+        "description": "A shining blue cane.\n\\C[24]Weapon Skill: \\C[0]Explosive Magic",
         "etypeId": 1,
         "traits": [
             {
@@ -834,7 +834,7 @@
     {
         "id": 23,
         "animationId": 6,
-        "description": "A degraded metal bar.\n\\C[24]Weapon Skill: \\C[0]Rumble",
+        "description": "A degraded metal bar.\n\\C[24]Weapon Skill: \\C[0]Batting",
         "etypeId": 1,
         "traits": [
             {
@@ -1021,7 +1021,7 @@
     {
         "id": 27,
         "animationId": 6,
-        "description": "A cane that regained its light.\n\\C[24]Weapon Skill: \\C[0]星龍輝耀",
+        "description": "A cane that regained its light.\n\\C[24]Weapon Skill: \\C[0]Star Dragon Brilliance",
         "etypeId": 1,
         "traits": [
             {
@@ -4311,7 +4311,7 @@
     {
         "id": 122,
         "animationId": 187,
-        "description": "A magical weapon wielded by monsters.\n\\C[24]Weapon Skill: \\C[0]Explosion",
+        "description": "A magical weapon wielded by monsters.\n\\C[24]Weapon Skill: \\C[0]Explosive Magic",
         "etypeId": 1,
         "traits": [
             {
@@ -4349,7 +4349,7 @@
     {
         "id": 123,
         "animationId": 187,
-        "description": "Ceremonial tool handed down to barbarians.\n\\C[24]Weapon Skill: \\C[0]Explosion",
+        "description": "Ceremonial tool handed down to barbarians.\n\\C[24]Weapon Skill: \\C[0]Explosive Magic",
         "etypeId": 1,
         "traits": [
             {
@@ -4463,7 +4463,7 @@
     {
         "id": 126,
         "animationId": 187,
-        "description": "Prototype equipment for mechanical dolls.\n\\C[24]Weapon Skill: \\C[0]Explosion",
+        "description": "Prototype equipment for mechanical dolls.\n\\C[24]Weapon Skill: \\C[0]Explosive Magic",
         "etypeId": 1,
         "traits": [
             {

@@ -1725,7 +1725,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Once per battle, when you are incapacitated,\nremove that effect and recover 100% HP.",
+        "description": "Once per battle, when you are defeated,\nremove that effect and recover 100% HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 83,
@@ -6173,7 +6173,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Twice per battle, when you are incapacitated,\nremove that effect and recover 50% HP.",
+        "description": "Twice per battle, when you are defeated,\nremove that effect and recover 50% HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -12937,7 +12937,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When you are incapacitated, remove that effect and 50 SP and recover 100% HP.\nActivates up to 5 times, as long as SP is over 50 on activation.",
+        "description": "When you are defeated, remove that effect and 50 SP and recover 100% HP.\nActivates up to 5 times, as long as SP is over 50 on activation.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -13030,7 +13030,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "Apply \\C[24]Martyr\\C[0] to self for 3 Turns and becomes incapacitated.\n\\C[24]Martyr: \\C[0]All allies recover 50% HP every Turn.",
+        "description": "Apply \\C[24]Martyr\\C[0] to self for 3 Turns and becomes Unable to Act.\n\\C[24]Martyr: \\C[0]All allies recover 50% HP every Turn.",
         "effects": [
             {
                 "code": 21,
@@ -13074,7 +13074,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "Apply \\C[24]Silky Feeling\\C[0] on a single ally and becomes incapacitated.\n\\C[24]Silky Feeling: \\C[0]All stats +10%. Number of actions +1.",
+        "description": "Apply \\C[24]Silky Feeling\\C[0] on a single ally and becomes Unable to Act.\n\\C[24]Silky Feeling: \\C[0]All stats +10%. Number of actions +1.",
         "effects": [
             {
                 "code": 21,
@@ -13143,7 +13143,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "When not incapacitated, apply \\C[24]Ephemeral Weaver\\C[0] to self.\n\\C[24]Ephemeral Weaver: \\C[0]All allies Physical DMG taken -10%.",
+        "description": "When not defeated, apply \\C[24]Ephemeral Weaver\\C[0] to self.\n\\C[24]Ephemeral Weaver: \\C[0]All allies Physical DMG taken -10%.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -13642,7 +13642,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "Magic Blade",
+        "name": "Magical Blade",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -13742,7 +13742,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "Attention Hook",
+        "name": "Line and Sinker",
         "note": "<SkillPriority:2>",
         "occasion": 1,
         "repeats": 1,
@@ -13773,7 +13773,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "Piercing Shot",
+        "name": "Penetrator",
         "note": "",
         "occasion": 1,
         "repeats": 5,
@@ -14221,7 +14221,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 300: Physical Ice attack to 3 random enemies.\nApply \\C[24]Great DEF Down\\C[0] and \\C[24]Great MDF Down\\C[0] for 3 Turns.",
+        "description": "Power 300: Physical Ice attack to 3 random enemies.\nApply \\C[24]Great DEF Down\\C[0] and \\C[24]Great MDF Down\\C[0] to target for 3 Turns.",
         "effects": [
             {
                 "code": 21,
@@ -15200,7 +15200,7 @@
         "message1": "%1の%2！",
         "message2": "",
         "mpCost": 0,
-        "name": "後の先",
+        "name": "Distant Future",
         "note": "<QuickSkill>",
         "occasion": 1,
         "repeats": 1,
@@ -15286,14 +15286,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 150: 敵単体に物理攻撃。",
+        "description": "Power 150: Physical attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "正確な攻撃",
+        "name": "Precise Attack",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15317,14 +15317,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 180: 敵単体に魔法攻撃。",
+        "description": "Power 180: Magical attack on a single enemy.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "弾ける魔力",
+        "name": "Explosive Magic",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15348,14 +15348,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 200: 敵単体に魔攻力依存の物理攻撃。",
+        "description": "Power 200: MAG-scaling Physical attack on an enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "牙の呪術",
+        "name": "Fang Magic",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15379,7 +15379,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 100: 敵単体に物理攻撃。\n3ターンの間、対象に\\C[24]防御力DOWN\\C[0]を付与する。",
+        "description": "Power 100: Physical attack on a single enemy.\nApply \\C[24]DEF Down\\C[0] to target for 3 Turns.",
         "effects": [
             {
                 "code": 21,
@@ -15393,7 +15393,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "毒穿ち",
+        "name": "Venom Pierce",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15417,14 +15417,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 300: 敵単体に波動属性物理攻撃。",
+        "description": "Power 300: Physical Wave attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 85,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "バーストショット",
+        "name": "Burst Shot",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15448,14 +15448,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 240: 敵単体に物理攻撃。",
+        "description": "Power 240: Physical attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "三連撃",
+        "name": "Triple Attack",
         "note": "",
         "occasion": 1,
         "repeats": 3,
@@ -15479,14 +15479,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 200: 敵全体に魔法攻撃。",
+        "description": "Power 200: Magical attack on all enemies.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "拡散する魔力",
+        "name": "Spread Magic",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15510,7 +15510,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 200: 敵単体に氷属性物理攻撃。\n3ターンの間、対象に\\C[24]素早さ大DOWN\\C[0]を付与する。",
+        "description": "Power 200: Physical Ice attack on a single enemy.\nApply \\C[24]Great AGI DOWN\\C[0] to target for 3 Turns.",
         "effects": [
             {
                 "code": 21,
@@ -15524,7 +15524,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "氷の矢",
+        "name": "Ice Arrow",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15548,14 +15548,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 200: 敵単体に攻撃力依存の魔法攻撃。",
+        "description": "Power 200: ATK-scaling Magical attack on a single enemy.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "飛ぶ斬撃",
+        "name": "Flying Slash",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15579,14 +15579,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 200: 敵単体に魔攻力依存の物理攻撃。\nクリティカルヒットしない。",
+        "description": "Power 200: MAT-scaling Physical attack on a single enemy.\nCannot be a Critical Hit.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "魔法殴打",
+        "name": "Magic Bludgeoning",
         "note": "",
         "occasion": 1,
         "repeats": 2,
@@ -15610,14 +15610,14 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Power 150: 敵単体に波動属性魔法攻撃。\nクリティカルヒットしない。",
+        "description": "Power 150: Magical Wave attack on a single enemy.\nCannot be a Critical Hit.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
         "message1": "%1の攻撃！",
         "message2": "",
         "mpCost": 0,
-        "name": "ビームモジュール・集中",
+        "name": "Beam Module/Focus",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15641,14 +15641,14 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Power 100: 敵全体に波動属性魔法攻撃。\nクリティカルヒットしない。",
+        "description": "Power 100: Magical Wave attack on all enemies.\nCannot be a Critical Hit.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 85,
         "message1": "%1の攻撃！",
         "message2": "",
         "mpCost": 0,
-        "name": "ビームモジュール・拡散",
+        "name": "Beam Module/Diffuse",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15672,7 +15672,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "自身のSPを25％回復する。",
+        "description": "Recovers 25% SP to self.",
         "effects": [
             {
                 "code": 12,
@@ -15686,7 +15686,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "魔力回帰",
+        "name": "Mana Return",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15710,7 +15710,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 150: 敵単体に水属性物理攻撃。\n3ターンの間、対象に\\C[24]攻撃力DOWN\\C[0]を付与する。",
+        "description": "Power 150: Physical Water attack on a single enemy.\nApply \\C[24]ATK Down\\C[0] to target for 3 Turns.",
         "effects": [
             {
                 "code": 21,
@@ -15724,7 +15724,7 @@
         "message1": "%1の攻撃！",
         "message2": "",
         "mpCost": 0,
-        "name": "泡吹き",
+        "name": "Blowing Bubbles",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15748,7 +15748,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 150: 敵全体に炎属性魔法攻撃。\n3ターンの間、対象に\\C[24]防御力DOWN\\C[0]と\\C[24]魔防力DOWN\\C[0]を付与する。",
+        "description": "Power 150: Magical Fire attack on all enemies.\nApply \\C[24]DEF Down\\C[0] and \\C[24]MDF Down\\C[0] for 3 Turns.",
         "effects": [
             {
                 "code": 21,
@@ -15768,7 +15768,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "焔の呪術",
+        "name": "Crimson Flame",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15792,7 +15792,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 250: 敵単体に物理攻撃。3ターンの間、対象に\\C[24]心気DOWN\\C[0]を付与する。\n対象の心気がダメージに影響する。",
+        "description": "Power 250: Physical attack on a single enemy, apply \\C[24]SPR Down\\C[0] for 3 Turns.\nTarget's SPR reduces this damage instead of DEF.",
         "effects": [
             {
                 "code": 21,
@@ -15806,7 +15806,7 @@
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "骨割り",
+        "name": "Bone Splitting",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15830,7 +15830,7 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 200: 敵単体に物理攻撃。\n3ターンの間、対象に\\C[24]防御力大DOWN\\C[0]を付与する。",
+        "description": "Power 200: Physical attack on a single enemy.\nApply \\C[24]Great DEF Down\\C[0] to target for 3 Turns.",
         "effects": [
             {
                 "code": 21,
@@ -15844,7 +15844,7 @@
         "message1": "%1の攻撃！",
         "message2": "",
         "mpCost": 0,
-        "name": "ドリル射出",
+        "name": "Spiral Inject",
         "note": "",
         "occasion": 1,
         "repeats": 4,
@@ -15868,14 +15868,14 @@
             "type": 1,
             "variance": 0
         },
-        "description": "敵単体に魔法攻撃。対象の魔防力を無視する。\n所有MANAに応じたダメージを与える。ダメージ上限9999。",
+        "description": "Magical attack on a single enemy. Ignores target MDF.\nInflicts DMG based on current MANA. (Max 9999)",
         "effects": [],
         "hitType": 2,
         "iconIndex": 78,
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "夜伽の秘技",
+        "name": "Yotogi's Secret",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -15899,7 +15899,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "自身の基本状態異常を解除する。\n使用したターンの間、基本状態異常を無効化する。",
+        "description": "Removes basic status ailments from self.\nFor this Turn, Negate Basic Status Ailments.",
         "effects": [
             {
                 "code": 21,
@@ -15913,7 +15913,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "停滞の儀",
+        "name": "Rite of Stagnation",
         "note": "<SkillPriority:3>",
         "occasion": 1,
         "repeats": 1,
@@ -15937,7 +15937,7 @@
             "type": 0,
             "variance": 5
         },
-        "description": "敵単体に\\C[24]拘束\\C[0]を付与する。\\C[24]拘束\\C[0]付与可能数は戦闘中1回のみ。\n\\C[24]拘束: \\C[0]2回行動するまで回避率が0になり、行動不能となる。",
+        "description": "Apply \\C[24]Restraint\\C[0] to a single enemy.\\C[24]Restraint\\C[0] can only be applied once per battle.\n\\C[24]Restraint: \\C[0]Unable to Act, and Evasion Rate becomes 0 for 2 Actions.",
         "effects": [
             {
                 "code": 21,
@@ -15951,7 +15951,7 @@
         "message1": "%1の攻撃！",
         "message2": "",
         "mpCost": 0,
-        "name": "バインディングツール",
+        "name": "Binding Tool",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -16099,7 +16099,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "味方全体のHPを25％回復する。",
+        "description": "All allies recover 25% HP.",
         "effects": [
             {
                 "code": 11,
@@ -16113,7 +16113,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "忍軟膏",
+        "name": "Shinobi Ointment",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -16137,7 +16137,7 @@
             "type": 0,
             "variance": 10
         },
-        "description": "5ターンの間、味方全体に\\C[24]ATK Up\\C[0]を付与する。\n\\C[24]ATK Up: \\C[0]ATK が20％上昇する。",
+        "description": "Apply \\C[24]ATK Up\\C[0] to all allies for 5 Turns.\n\\C[24]ATK Up: \\C[0]ATK +20%.",
         "effects": [
             {
                 "code": 21,
@@ -16151,7 +16151,7 @@
         "message1": "%1は%2を唱えた！",
         "message2": "",
         "mpCost": 0,
-        "name": "月影",
+        "name": "Moonlight",
         "note": "<ステート追加: 85>",
         "occasion": 1,
         "repeats": 1,
@@ -16175,14 +16175,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 300: 敵単体に物理攻撃。",
+        "description": "Power 300: Physical attack on a single enemy.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "影刃",
+        "name": "Shadow Blade",
         "note": "<ステート追加: 85>",
         "occasion": 1,
         "repeats": 5,
@@ -16206,14 +16206,14 @@
             "type": 1,
             "variance": 5
         },
-        "description": "Power 150: 敵全体に物理攻撃。",
+        "description": "Power 150: Physical attack on all enemies.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 76,
         "message1": "%1は%2を放った！",
         "message2": "",
         "mpCost": 0,
-        "name": "影雨",
+        "name": "Shadow Rain",
         "note": "<ステート追加: 85>",
         "occasion": 1,
         "repeats": 3,
@@ -16275,7 +16275,7 @@
         "message1": "",
         "message2": "",
         "mpCost": 0,
-        "name": "▼一時加入キャラ用",
+        "name": "▼For Temporary Characters",
         "note": "",
         "occasion": 0,
         "repeats": 1,
