@@ -2271,7 +2271,7 @@
     {
         "id": 62,
         "animationId": 6,
-        "description": "A weapon made from Ino's memory.\n\\C[24]Weapon Skill: \\C[0]Star Dragon Brilliance - Waves of Myth",
+        "description": "A weapon made from Ino's memory.\n\\C[24]Weapon Skill: \\C[0]Star Dragon Brilliance, Waves of Myth",
         "etypeId": 1,
         "traits": [
             {
@@ -6749,7 +6749,7 @@
     {
         "id": 188,
         "animationId": 91,
-        "description": "A weapon crafted from Tyvar's memories.\n\\C[24]Weapon Skill: \\C[0]Windy Embrace",
+        "description": "A weapon crafted from Tyvar's memories.\n\\C[24]Weapon Skill: \\C[0]Storm Embrace",
         "etypeId": 1,
         "traits": [
             {
