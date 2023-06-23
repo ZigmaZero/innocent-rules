@@ -16,7 +16,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼基本アイテム",
+        "name": "▼Basic Item",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -37,7 +37,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のHPを50％回復するゼリー状の薬。",
+        "description": "A jelly-like medicine that recovers 50% HP to a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -49,8 +49,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ライフゼリー",
-        "note": "<dPlnText:傷を癒す効果がある薬品\n世界的な組織、アウラム商会が作るもの\n　\n回復薬としては、今や定番である\n冒険者の必需品と言えるだろう>",
+        "name": "Life Jelly",
+        "note": "<dPlnText:Medicine that can heal wounds.\nCreated by the Aurum Company global organization.\n　\nIt has become a standard in recovery medicine.\nA must have for adventurers.>",
         "occasion": 0,
         "price": 20,
         "repeats": 1,
@@ -70,7 +70,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のHPを100％回復するゼリー状の薬。",
+        "description": "A jelly-like medicine that recovers 100% HP to a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -82,8 +82,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "超ライフゼリー",
-        "note": "<dPlnText:傷を癒す効果がある薬品\n世界的な組織、アウラム商会が作るもの\n　\n回復薬として、とても大きな効果を持つ\n同時に価格もとても大きい>",
+        "name": "Super Life Jelly",
+        "note": "<dPlnText:Medicine that can heal wounds.\nCreated by the Aurum Company global organization.\n　\nIt is extremely potent as recovery medicine,\nbut the price is also nothing to scoff at.>",
         "occasion": 0,
         "price": 100,
         "repeats": 1,
@@ -103,7 +103,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のSPを50％回復するゼリー状の薬。",
+        "description": "A jelly-like medicine that recovers 50% SP to a single ally.",
         "effects": [
             {
                 "code": 12,
@@ -115,8 +115,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エナジーゼリー",
-        "note": "<dPlnText:気力回復の効果がある薬品\n世界的な組織、アウラム商会が作るもの\n　\n技や魔法を放つには、相応の気力が必要になる\nこれはその助けとなるだろうが\n材料として多量のマナを用いるため高値がつく>",
+        "name": "Energy Jelly",
+        "note": "<dPlnText:Medicine that can restore energy.\nCreated by the Aurum Company global organization.\n　\nEnergy is always required to unleash skills and magic.\nThis jelly helps with restoring that energy,\nbut the cost for production is quite high due to its Mana component.>",
         "occasion": 0,
         "price": 100,
         "repeats": 1,
@@ -136,7 +136,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のSPを100％回復するゼリー状の薬。",
+        "description": "A jelly-like medicine that recovers 100% SP to a single ally.",
         "effects": [
             {
                 "code": 12,
@@ -148,8 +148,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "超エナジーゼリー",
-        "note": "<dPlnText:気力回復の効果がある薬品\n世界的な組織、アウラム商会が作るもの\n　\n回復薬として、とても大きな効果を持つ\n同時に価格もとても大きい>",
+        "name": "Super Energy Jelly",
+        "note": "<dPlnText:Medicine that can restore energy.\n\nCreated by the Aurum Company global organization.\n　\nIt is extremely potent as recovery medicine,\nbut the price is also nothing to scoff at.>",
         "occasion": 0,
         "price": 300,
         "repeats": 1,
@@ -169,7 +169,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の状態異常を解除するゼリー状の薬。\n赤枠の状態異常は解除できない。",
+        "description": "A jelly-like medicine that removes ailments from a single ally.\nRed-bordered ailments cannot be removed.",
         "effects": [
             {
                 "code": 22,
@@ -283,8 +283,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ヘルシーゼリー",
-        "note": "<dPlnText:身体の異常を治療する薬品\n世界的な組織、アウラム商会が作るもの\n　\nこれは、状態異常のみを治す\n外傷が癒えることはなく、体勢を立て直す力もない>",
+        "name": "Healthy Jelly",
+        "note": "<dPlnText:Medicine that treats abnormalities.\nCreated by the Aurum Company global organization.\n　\nIt heals only the physical ailment,\nand has no effect on any associated emotional trauma.>",
         "occasion": 0,
         "price": 50,
         "repeats": 1,
@@ -304,7 +304,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体の能力値DOWNを解除するゼリー状の薬。",
+        "description": "A jelly-like medicine that removes Stat Down effects from a single ally.",
         "effects": [
             {
                 "code": 22,
@@ -406,8 +406,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "パワーゼリー",
-        "note": "<dPlnText:身体の異常を治療する薬品\n世界的な組織、アウラム商会が作るもの\n　\nこれは、能力値の低下のみを治す\n外傷が癒えることはなく、体勢を立て直す力もない>",
+        "name": "Power Jelly",
+        "note": "<dPlnText:Medicine that treats abnormalities.\nCreated by the Aurum Company global organization.\n　\nIt heals only the physical ailment,\nand has no effect on any associated emotional trauma.>",
         "occasion": 0,
         "price": 50,
         "repeats": 1,
@@ -427,7 +427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体を復活させHPを25％回復するマナを宿した液体。",
+        "description": "Mana-infused liquid that revives a single ally and recovers 25% HP.",
         "effects": [
             {
                 "code": 22,
@@ -445,8 +445,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マナポット",
-        "note": "<dPlnText:戦闘不能となった者を回復させる液体\n世界的な組織、アウラム商会が作るもの\n　\n戦闘不能状態と死亡は全く異なる\n前者は、その名の通り戦闘を続けられない状態を指す>",
+        "name": "Mana Pot",
+        "note": "<dPlnText:A liquid that revives those who are Unable to Fight.\nCreated by the Aurum Company global organization.\n　\nBeing Unable to Fight and dying are completely different.\nIn a sense, the word 'revive' is false advertisement.>",
         "occasion": 0,
         "price": 100,
         "repeats": 1,
@@ -466,7 +466,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体を復活させHPを100％回復するマナを宿した液体。",
+        "description": "Mana-infused liquid that revives a single ally and recovers 100% HP.",
         "effects": [
             {
                 "code": 22,
@@ -484,8 +484,8 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "超マナポット",
-        "note": "<dPlnText:戦闘不能となった者を回復させる液体\n世界的な組織、アウラム商会が作るもの\n　\n戦闘不能状態と死亡は全く異なる\n後者を覆す薬品は存在しない>",
+        "name": "Super Mana Pot",
+        "note": "<dPlnText:A liquid that revives those who are Unable to Fight.\nCreated by the Aurum Company global organization.\n　\nBeing Unable to Fight and dying are completely different.\nIn a sense, the word 'revive' is false advertisement.>",
         "occasion": 0,
         "price": 500,
         "repeats": 1,
@@ -505,7 +505,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のHPとSPを100％回復する薬。",
+        "description": "Medicine that restores 100% HP and SP to a single ally.",
         "effects": [
             {
                 "code": 11,
@@ -523,8 +523,8 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "アルティメイト",
-        "note": "<dPlnText:一流の錬金術師が作り出す特別な薬品\n　\n早々手に入るものではない\nここぞというときに使うべきだろう>",
+        "name": "Ultimate",
+        "note": "<dPlnText:A special medicine created by a first-class alchemist.\n　\nNot exactly something you can get easily,\nso save it for when you really need it.>",
         "occasion": 0,
         "price": 1000,
         "repeats": 1,
@@ -544,7 +544,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方全体のHPとSPを100％回復する薬。",
+        "description": "Medicine that restores 100% HP and SP to all allies.",
         "effects": [
             {
                 "code": 11,
@@ -562,8 +562,8 @@
         "hitType": 0,
         "iconIndex": 179,
         "itypeId": 1,
-        "name": "超アルティメイト",
-        "note": "<dPlnText:一流の錬金術師が作り出す特別な薬品\n　\n早々手に入るものではない\nここぞというときですら、使用を惜しむ>",
+        "name": "Super Ultimate",
+        "note": "<dPlnText:A special medicine created by a first-class alchemist.\n　\nNot exactly something you can get easily,\nbut the regret of using it is also hard to reconcile with.>",
         "occasion": 0,
         "price": 3000,
         "repeats": 1,
@@ -609,13 +609,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のレベルを1上昇させる不思議な種。",
+        "description": "A mysterious seed that raises the level of a single ally by 1.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 182,
         "itypeId": 1,
-        "name": "鮮烈なマナの種",
-        "note": "<ExpIncrease:1000000>\n<levelUpStop>\n<dPlnText:驚異の成長力を秘めたもの\nこれはマナの形態の一つであり\nその見た目から種と呼ばれる\n　\n成長を促す力はマナの本質と言える\nそれが足りぬ世界は、滅びゆく定めにある>",
+        "name": "Vivid Mana Seed",
+        "note": "<ExpIncrease:1000000>\n<levelUpStop>\n<dPlnText:Something with awazing potential for growth.\nThis is but one form of mana,\ntaking on the form of a seed.\n　\nThe power to promote growth, the essence of Mana.\nWithout it, the world itself would come to collapse.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -635,7 +635,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のすべての能力値を5上昇させる果実。",
+        "description": "A fruit that increases all stats of a single ally by 5.",
         "effects": [
             {
                 "code": 42,
@@ -689,8 +689,8 @@
         "hitType": 0,
         "iconIndex": 265,
         "itypeId": 1,
-        "name": "成長の果実",
-        "note": "<dPlnText:食べると身体の基礎能力が向上する\n　\nこれはマナの果実である\n口にすれば、生物としての強さが増す\n　\n酷く不味い>",
+        "name": "Fruit of Growth",
+        "note": "<dPlnText:Eating improves the basic abilities of the body.\n　\nThis is Mana, taking the form of a fruit.\nShould you consume it, your strength will grow accordingly.\n　\nNo taste, negative texture.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -736,13 +736,13 @@
             "type": 1,
             "variance": 5
         },
-        "description": "敵単体に約500の波動属性魔法ダメージを与える爆弾。",
+        "description": "A bomb that deals ~500 Magical Wave DMG to a single enemy.",
         "effects": [],
         "hitType": 2,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "波動爆弾",
-        "note": "<dPlnText:波動の魔法を封じ込めた爆弾\n　\n波動属性は、マナそのものの力である\n故に、大抵の相手に通用するが\n魔法の耐性を無視することはできない>",
+        "name": "Wave Bomb",
+        "note": "<dPlnText:A bomb containing Wave magic.\n　\nThe Wave attribute is Mana's power in its purest form.\nIt'll work on most opponents, but due to its nature\nit cannot bypass any magical countermeasures.>",
         "occasion": 1,
         "price": 50,
         "repeats": 1,
