@@ -762,7 +762,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敵全体の強化効果を打ち消す爆弾。\n赤枠の強化効果は解除できない。",
+        "description": "A bomb that removes beneficial effects from enemies.\nRed-bordered effects cannot be removed.",
         "effects": [
             {
                 "code": 22,
@@ -894,8 +894,8 @@
         "hitType": 0,
         "iconIndex": 218,
         "itypeId": 1,
-        "name": "糞爆弾",
-        "note": "<dPlnText:魔物の糞を固めた爆弾\n　\n排泄物はマナの力を阻害する効果を持つ\nその作用により、浴びた者の強化を打ち消す\n　\n取扱いに注意すること\n暴発すれば、ただでは済まない>",
+        "name": "Shit Bomb",
+        "note": "<dPlnText:A bomb made of hardened monster excrement.\n　\nThis substance has a mana-inhibiting property,\nnegating strengthening powers of anyone coated by it.\n　\nMake sure to handle it with care.\nYou're not getting away with it lightly if it goes off.>",
         "occasion": 1,
         "price": 20,
         "repeats": 1,
@@ -993,7 +993,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "イノのマナの輝きが100増加する卵。",
+        "description": "Eggs that increase Ino's Mana Brilliance by 100.",
         "effects": [
             {
                 "code": 44,
@@ -1005,8 +1005,8 @@
         "hitType": 0,
         "iconIndex": 267,
         "itypeId": 1,
-        "name": "生命の卵",
-        "note": "<OrderId:15>\n<dPlnText:卵のような形の塊\n飲み込むとマナの強度が高まるという\n　\n味はしない>",
+        "name": "Egg of Life",
+        "note": "<OrderId:15>\n<dPlnText:An egg-shaped mass.\nSwallowing it increases the strength of Mana.\n　\nAbsolutely tasteless.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -1260,7 +1260,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のHPを100％回復する飲み物。\n戦闘中は使用できない。",
+        "description": "A drink that restores 100% HP to a single ally.\nCannot be used during battle.",
         "effects": [
             {
                 "code": 11,
@@ -1272,8 +1272,8 @@
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "乳牛ミルク",
-        "note": "<OrderId:15>\n<dPlnText:旅のさなかに見つけた特産品\nロントのマナ牧場で購入できる\n　\n乳牛の魔物のミルクは甘く美味だが\n男性が口にすると、股間が膨らむ>",
+        "name": "Dairy Milk",
+        "note": "<OrderId:15>\n<dPlnText:A specialty found during the journey.\nCan be purchased at Ront's Mana Ranch.\n　\nThe monster's milk is sweet and tasty,\nbut a man drinking it would find his crotch burning up.>",
         "occasion": 2,
         "price": 50,
         "repeats": 1,
@@ -1293,7 +1293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方全体のHPを50％回復する布。\n戦闘中は使用できない。",
+        "description": "A cloth that restores 50% HP to a single ally.\nCannot be used during battle.",
         "effects": [
             {
                 "code": 11,
@@ -1305,8 +1305,8 @@
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "心地よい布",
-        "note": "<OrderId:15>\n<dPlnText:旅のさなかに見つけた特産品\nケルタイルトの螺旋の都で購入できる\n　\nどんな場所でも、これを敷いて横になれば\n癒しのひと時を過ごせる>",
+        "name": "Cozy Cloth",
+        "note": "<OrderId:15>\n<dPlnText:A specialty found during the journey.\nCan be purchased in Certilt's Spiral City.\n　\nNo matter the time in place, just by lying on this,\nyou can be guaranteed a relaxing rest.>",
         "occasion": 2,
         "price": 500,
         "repeats": 1,
@@ -1326,7 +1326,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方単体のTPが25増加する塩漬け肉。\n戦闘中は使用できない。",
+        "description": "Salted meat that restores 25 TP to a single ally.\nCannot be used during battle.",
         "effects": [
             {
                 "code": 13,
@@ -1338,8 +1338,8 @@
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "狩人の携行食",
-        "note": "<OrderId:15>\n<dPlnText:旅のさなかに見つけた特産品\nタルヴィラルの狩人の休息地で購入できる\n　\n意外にも上質で、味もよい\n肉好きならば好物にもなり得るだろう>",
+        "name": "Hunter's Rations",
+        "note": "<OrderId:15>\n<dPlnText:A specialty found during the journey.\nCan be purchased at the Hunter's Rest in Tarvilal.\n　\nSurprisingly delicious and high quality.\nMeat lovers will most definitely enjoy this.>",
         "occasion": 2,
         "price": 250,
         "repeats": 1,
@@ -1359,13 +1359,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "歓楽街で売られているお土産。\n",
+        "description": "Souvenirs sold in the entertainment district.\n",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
         "itypeId": 1,
-        "name": "お土産",
-        "note": "<OrderId:15>\n<dPlnText:旅のさなかに見つけた特産品\nトーリオンの歓楽街で購入できる\n　\n道具としての使い道はない\n誰かに贈るとよいだろう>",
+        "name": "Souvenir",
+        "note": "<OrderId:15>\n<dPlnText:A specialty found during the journey.\nan be purchased in Torrion's Red Light District.\n　\nIt has no good personal use, so\nit might be best to give it to someone.>",
         "occasion": 3,
         "price": 5000,
         "repeats": 1,
@@ -2269,13 +2269,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "美しいが、価値は見出せない欠片。",
+        "description": "A beautiful fragment, though ultimately worthless.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 208,
         "itypeId": 1,
-        "name": "星屑",
-        "note": "<dPlnText:宇宙より零れ落ちた星屑\nパーラテスの各地で見られる\n　\nこれは燃え尽きた命、マナの残骸である\n不死の理も、世界の根源には影響しないのだ>",
+        "name": "Stardust",
+        "note": "<dPlnText:Stardust that fell from space.\nFound in various areas in Parlates.\n　\nThis is burnt out life, a remnant of Mana.\nFor the truth of immortality has no effect on the world's origin.>",
         "occasion": 3,
         "price": 10,
         "repeats": 1,

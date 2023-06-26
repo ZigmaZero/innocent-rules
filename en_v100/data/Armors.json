@@ -7701,7 +7701,7 @@
         ],
         "iconIndex": 144,
         "name": "Regen Bangle",
-        "note": "<NameColor:23>\n<dPlnText:A bracelet with the power of Mana.\n　\nEven if you know of immortality,\ndeath is always a lingering fear.\nThis equipment is appreciated greatly.\n　\nSpecial Effects:\n・Recover 8% HP every Turn>",
+        "note": "<NameColor:23>\n<dPlnText:A bracelet with the power of Mana.\n　\nEven if you know the truth of immortality,\ndeath is always a lingering fear.\nThis equipment is appreciated greatly.\n　\nSpecial Effects:\n・Recover 8% HP every Turn>",
         "params": [
             0,
             0,
