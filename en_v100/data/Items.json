@@ -2326,7 +2326,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "▼重要アイテム",
+        "name": "▼Key Items",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -2347,7 +2347,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "\\C[17]無地のアイノア\\C[0]に移動する。\n移動中に\\C[17]Ｃキー\\C[0]を入力すると直接使用できる。",
+        "description": "Immediately moves to \\C[17]無地のアイノア\\C[0].\n移動中に\\C[17]Ｃキー\\C[0]を入力すると直接使用できる。",
         "effects": [
             {
                 "code": 44,
@@ -2359,7 +2359,7 @@
         "hitType": 0,
         "iconIndex": 225,
         "itypeId": 2,
-        "name": "翼石",
+        "name": "Wing Stone",
         "note": "<dPlnText:パーラテスの中心、アイノアへ帰るための道具\n握りしめ、それを願えば叶うだろう\n　\n星々を繋ぐ翼の理とは\nその主の足跡であり、世界の歴史である>",
         "occasion": 2,
         "price": 0,
