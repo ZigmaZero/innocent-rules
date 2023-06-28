@@ -2347,7 +2347,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Immediately moves to \\C[17]無地のアイノア\\C[0].\n移動中に\\C[17]Ｃキー\\C[0]を入力すると直接使用できる。",
+        "description": "Immediately moves to \\C[17]Earthless Ainoa\\C[0].\nUse this item while exploring by pressing \\C[17]C\\C[0].",
         "effects": [
             {
                 "code": 44,
@@ -2360,7 +2360,7 @@
         "iconIndex": 225,
         "itypeId": 2,
         "name": "Wing Stone",
-        "note": "<dPlnText:パーラテスの中心、アイノアへ帰るための道具\n握りしめ、それを願えば叶うだろう\n　\n星々を繋ぐ翼の理とは\nその主の足跡であり、世界の歴史である>",
+        "note": "<dPlnText:A tool to return to Ainoa, the center of Parlates.\nWish and hold tight, and it shall come true.\n　\nThe Reason of Wings that connects the stars,\nfootprints of their Lord, the history of the world.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -2380,7 +2380,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "イベント画面を表示する。\n移動中に\\C[17]Ｄキー\\C[0]を入力すると直接使用できる。",
+        "description": "Displays the Events screen. Use this item while exploring by pressing \\C[17]D\\C[0].",
         "effects": [
             {
                 "code": 44,
@@ -2392,8 +2392,8 @@
         "hitType": 0,
         "iconIndex": 187,
         "itypeId": 2,
-        "name": "冒険者の手記",
-        "note": "<dPlnText:冒険者であれば誰もが持つ手記\nこれまでの旅と、これからの旅の全てを記す\n　\n手記を持たずに旅をする者もいるが\n彼らは冒険者ではなく放浪者と呼ばれる>",
+        "name": "Adventurer's Note",
+        "note": "<dPlnText:A memoir all adventurers possess.\nWriting down the story so far, and what is to come.\n　\nSome travel without an Adventurer's Note,\nbut those are rather known as wanderers.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -2413,7 +2413,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "味方全体のHPを50％回復させる。残り使用可能回数 \\C[24]\\V[21]\\C[0] 回。\n移動中に\\C[17]Ｖキー\\C[0]を入力すると直接使用できる。",
+        "description": "All allies recover 50% HP. Remaining uses: \\C[24]\\V[21]\\C[0].\nUse this item while exploring by pressing \\C[17]V\\C[0].",
         "effects": [
             {
                 "code": 44,
@@ -2425,8 +2425,8 @@
         "hitType": 0,
         "iconIndex": 228,
         "itypeId": 2,
-        "name": "マナの水瓶",
-        "note": "<dPlnText:マナを含む水で満たされた魔法の瓶\n谷の国アルツェット発祥の道具\n　\n冒険に役立つものとして話題になっているが\n今はまだ、あまり普及していない>",
+        "name": "Mana Bottle",
+        "note": "<dPlnText:A bottle filled with water containing Mana.\nA tool that originated in the valley country Alzet.\n　\nIt's become a widespread topic for exploration,\nbut doesn't see nearly as much actual usage.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -2524,7 +2524,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "経験値を獲得するかどうか選択できる。",
+        "description": "You may choose whether or not to gain EXP.",
         "effects": [
             {
                 "code": 44,
@@ -2536,8 +2536,8 @@
         "hitType": 0,
         "iconIndex": 222,
         "itypeId": 2,
-        "name": "挑戦者の鏡",
-        "note": "<dPlnText:奇妙な能力を秘めた手鏡\n映した者の戦闘経験を一時的に否定する\n　\n何も得られぬ努力など虚しいものだろう\nしかし、あえてその道を行く変わり種もいる>",
+        "name": "Challenger's Mirror",
+        "note": "<dPlnText:A hand mirror with strange powers.\nTemporarily deny combat experience from anyone who projects it.\n　\nEffort without reward is but futile lunacy,\nbut there are oddballs who may appreciate that.>",
         "occasion": 2,
         "price": 0,
         "repeats": 1,
@@ -2557,7 +2557,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "戦闘中に使用すると敗北する。",
+        "description": "When used in battle, become defeated.",
         "effects": [
             {
                 "code": 21,
@@ -2569,8 +2569,8 @@
         "hitType": 0,
         "iconIndex": 194,
         "itypeId": 2,
-        "name": "敗者の印",
-        "note": "<dPlnText:何にも勝てぬ者の呪い\n使用者とその仲間を敗北へと誘う\n　\nこれは罠の類であり、進んで使うものではないが\n負けてこそ得られる何かがあるのかもしれない>",
+        "name": "Symbol of Defeat",
+        "note": "<dPlnText:The curse of those who cannot win.\nThe user and his allies are invited to certain defeat.\n　\nIt's such an obvious trap nobody'd use it,\nbut there could be something to gain from losing.>",
         "occasion": 1,
         "price": 0,
         "repeats": 1,
@@ -2590,13 +2590,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "周囲を照らすランタン。",
+        "description": "A lantern that illuminates the surroundings.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 212,
         "itypeId": 2,
-        "name": "白火のランタン",
-        "note": "<dPlnText:魔法の光を灯すランタン\n暗所では欠かせない道具\n　\n視界が悪い中、手探りで進む冒険者もいるが\n熟練者ほど、闇を甘く見ないものだ>",
+        "name": "White Flame Lantern",
+        "note": "<dPlnText:A magically illuminated lantern.\nAbsolutely indispensable in dark places.\n　\nThere are adventurers who grope their way through,\nbut the experienced never underestimates the dark.>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -2616,13 +2616,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "マナの水瓶の使用可能回数が所持数分増加する。",
+        "description": "Increases the usages of Mana Bottles.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 273,
         "itypeId": 2,
-        "name": "生命瓶",
-        "note": "<dPlnText:マナを溜め置く特殊な小瓶\n頼りない量だが、水瓶の足しにはなる\n　\n生命瓶はありふれた道具で、誰もが持つが\nこれは一般的に普及するものとは少し異なる>",
+        "name": "Life Bottle",
+        "note": "<dPlnText:A special vial that stores Mana.\nUnreliable, but it does count towards being a Mana Bottle.\n　\nThe Life Bottle is a pretty common tool,\nbut this one is a little different from the norm.>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -2720,13 +2720,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "淡く輝く器。",
+        "description": "A vessel that shines faintly.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 180,
         "itypeId": 2,
-        "name": "マナの器",
-        "note": "<dPlnText:理の主に託された器\n伝説の魔女が作り出した至高の道具\n　\n星々がマナを生み、それを世界に還す\nパーラテスは、そうして成り立っている>",
+        "name": "Mana Vessel",
+        "note": "<dPlnText:A vessel entrusted to the Lord of Reason.\nThe most supreme tool, crafted by a most supreme witch.\n　\nThe stars give birth to Mana, which is returned to the world.\nThat is how Parlates was created.>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -2746,13 +2746,13 @@
             "type": 0,
             "variance": 20
         },
-        "description": "光属性を宿した灯り。",
+        "description": "A shining gleam containing the Light attribute.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 213,
         "itypeId": 2,
-        "name": "星の標",
-        "note": "<dPlnText:闇に対抗するための道具\n伝説の魔女が作り出したものの一つ\n　\n闇とは、もとより危ういものだ\nそれこそが闇の本質でもある>",
+        "name": "Star Mark",
+        "note": "<dPlnText:A tool against the darkness.\nOne of the supreme witch's great creations.\n　\nDarkness itself is inherently dangerous.\nThat, in itself, is its nature.>",
         "occasion": 3,
         "price": 0,
         "repeats": 1,

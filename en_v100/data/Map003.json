@@ -1843,7 +1843,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "It's common sense, after all--"
+                        "It's common sense, after all──"
                     ]
                 },
                 {
@@ -1861,7 +1861,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "--\\N[10], of course you know too, right?"
+                        "──\\N[10], of course you know too, right?"
                     ]
                 },
                 {
@@ -2795,7 +2795,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "Ino? What kind of Theban princess name is--"
+                        "Ino? What kind of Theban princess name is──"
                     ]
                 },
                 {
@@ -2861,7 +2861,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "--...Wait, don't tell me that"
+                        "──...Wait, don't tell me that"
                     ]
                 },
                 {
@@ -3485,7 +3485,7 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
@@ -4234,7 +4234,14 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "じゃあ、他の星に行く方法を教えるね。"
+                        "Now then, time to teach you how you can"
+                    ]
+                },
+                {
+                    "code": 401,
+                    "indent": 0,
+                    "parameters": [
+                        "go to another star."
                     ]
                 },
                 {
@@ -4245,14 +4252,14 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "そこの翼みてーな石像を調べりゃいいんだよ。"
+                        "Check out the winged stone statue over there."
                     ]
                 },
                 {
@@ -4270,14 +4277,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "あっ！"
-                    ]
-                },
-                {
-                    "code": 401,
-                    "indent": 0,
-                    "parameters": [
-                        "私の台詞が！"
+                        "Ah! That's my line!"
                     ]
                 },
                 {
@@ -4347,21 +4347,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "この石像は\\C[17]翼の理\\C[0]って言うんだ。"
+                        "Statues like this are known as the \\C[17]Reason of Wings\\C[0]."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "パーラテスにはたくさんあって、それぞれが繋がってる。"
+                        "They're all over Parlates, all of them connected."
                     ]
                 },
                 {
@@ -4379,7 +4379,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "あっあっ。"
+                        "Yep-yep."
                     ]
                 },
                 {
@@ -4390,28 +4390,28 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "翼の理を調べれば、一回でも触れた"
+                        "By touching the Reason of Wings just once,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "他の翼の理のもとに移動できる。"
+                        "you can move to it from another Reason of Wings."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "だけど、今回はロントの翼の理にも移動できる。"
+                        "But for now you can also move to Ront's with this."
                     ]
                 },
                 {
@@ -4429,14 +4429,14 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "フィ、フィーデ！"
+                        "Fi-Fiede!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "私の価値を下げないで！"
+                        "Please don't take away my kind words like this...!"
                     ]
                 },
                 {
@@ -4447,21 +4447,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "なんだよ、うるせーなあ。"
+                        "What's with you, you're causing a racket."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "こいつの手助けをしろって、タハティが言ったんだろ。"
+                        "You're the one who told me to help this guy, y'know?"
                     ]
                 },
                 {
@@ -4479,7 +4479,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ここでは私がイノくんを助けたいの！"
+                        "But I want to help Ino here, too!"
                     ]
                 },
                 {
@@ -4490,14 +4490,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "……こういうとき、どう反応すればいいのでしょう。"
+                        "...I wonder how I should react to this situation."
                     ]
                 },
                 {
@@ -4508,21 +4508,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "翼の理には他の機能もあってな。"
+                        "The Reason of Wings also has other functions."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "例えば──"
+                        "For example──"
                     ]
                 },
                 {
@@ -4549,14 +4549,14 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[17]翼の理\\C[0]についての説明を確認しますか？"
+                        "Would you like to learn about \\C[17]Reason of Wings\\C[0]?"
                     ]
                 },
                 {
@@ -4564,8 +4564,8 @@ null,
                     "indent": 1,
                     "parameters": [
                         [
-                            "確認する",
-                            "確認しない"
+                            "Yes",
+                            "No"
                         ],
                         1,
                         0,
@@ -4578,7 +4578,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         0,
-                        "確認する"
+                        "Yes"
                     ]
                 },
                 {
@@ -4596,28 +4596,28 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[17]翼の理\\C[0]は様々な場所に点在するオブジェクトです。"
+                        "\\C[17]Reason of Wings\\C[0] are objects scattered in various places."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "一度調べた翼の理のもとには、他の翼の理から"
+                        "Once interacted, you can move to one of them"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "移動できるようになります。"
+                        "from another Reason of Wings connected to it."
                     ]
                 },
                 {
@@ -4635,21 +4635,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "翼の理を調べると\\C[17]パーティ全員が全回復\\C[0]します。"
+                        "Interacting with it also \\C[17]fully recovers the entire party\\C[0]."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "また\\C[17]イノのスキルの初期化\\C[0]を行うこともできます。"
+                        "You can also \\C[17]initialize Ino's Skills\\C[0] with it."
                     ]
                 },
                 {
@@ -4667,21 +4667,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "翼の理を調べれば調べるほど移動が楽になります。"
+                        "You can move around more easily the more you interact with it."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "翼の理を見かけたときは、必ず一度は調べましょう。"
+                        "Please use the Reason of Wings at your convenience."
                     ]
                 },
                 {
@@ -4694,7 +4694,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         1,
-                        "確認しない"
+                        "No"
                     ]
                 },
                 {
@@ -4725,21 +4725,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "──みたいな感じだ。"
+                        "──Something like that."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "分かったか？"
+                        "Got that down?"
                     ]
                 },
                 {
@@ -4750,21 +4750,21 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "はい。"
+                        "Of course."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "オルドワルドにも似たようなものがありますよね。"
+                        "Ordwald also has something rather similar."
                     ]
                 },
                 {
@@ -4858,7 +4858,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "じゃあ、イノくん……これ。"
+                        "Well then, Ino... Take this."
                     ]
                 },
                 {
@@ -4916,7 +4916,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[3]翼石\\C[0]を貰った！"
+                        "Obtained \\C[3]Wing Stone\\C[0]!"
                     ]
                 },
                 {
@@ -4927,14 +4927,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "これは……？"
+                        "This is...?"
                     ]
                 },
                 {
@@ -4945,21 +4945,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ここにある翼の理に戻れる道具だ。"
+                        "A tool for returning to this place's Reason of Wings."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "遠出しても安心ってことだよ。"
+                        "You can feel safe no matter how far away you are."
                     ]
                 },
                 {
@@ -4977,7 +4977,7 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "また私の台詞を取った……"
+                        "Took my line again..."
                     ]
                 },
                 {
@@ -4988,21 +4988,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "じゃあ早速、行ってみよう。"
+                        "Alright, let's go already."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ロントってどんなところなんだろうな？"
+                        "I wonder what kind of place Ront is?"
                     ]
                 },
                 {
@@ -5013,21 +5013,21 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "タハティさんとフィーデさんって、"
+                        "Miss Tahati and Miss Fiede seems to have"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "奇妙な関係ですね……"
+                        "quite the strange relationship..."
                     ]
                 },
                 {
@@ -5080,14 +5080,14 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "イベントについての説明を確認しますか？"
+                        "Would you like to learn about Events?"
                     ]
                 },
                 {
@@ -5095,8 +5095,8 @@ null,
                     "indent": 1,
                     "parameters": [
                         [
-                            "確認する",
-                            "確認しない"
+                            "Yes",
+                            "No"
                         ],
                         1,
                         0,
@@ -5109,7 +5109,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         0,
-                        "確認する"
+                        "Yes"
                     ]
                 },
                 {
@@ -5127,21 +5127,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "無地のアイノアでイベントが発生しました。"
+                        "Events have appeared in Earthless Ainoa."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "頭上に\\I[127]が表示されているものを調べると開始できます。"
+                        "You can start one by interacting with people with \\I[127]."
                     ]
                 },
                 {
@@ -5159,21 +5159,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "開始したイベントは、\\C[3]冒険者の手記\\C[0]を使用すると表示される"
+                        "The events can then be viewed in the \\C[3]Adventurer's Note\\C[0]."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "イベント一覧の項目に自動的に追加されます。"
+                        "Started events are automatically added to the item's list."
                     ]
                 },
                 {
@@ -5191,21 +5191,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "イベント一覧からはそれぞれのイベントの詳細を確認でき、"
+                        "You can examine the details of each event in the list,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "そこに記された条件を満たすとイベント達成となります。"
+                        "and if the conditions are met, they will be completed."
                     ]
                 },
                 {
@@ -5223,21 +5223,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "イベント発生中は、それに関わるものの頭上に\\I[126]が表示されます。"
+                        "During an event, \\I[126] will appear above anyone involved."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "見つけたら積極的に調べてみましょう。"
+                        "If you find one, make sure to interact with them."
                     ]
                 },
                 {
@@ -5255,21 +5255,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "なお、イベントは今後も様々な場所で発生します。"
+                        "Also, events will pop up in various places in the future."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "また自動的に発生し一覧に追加されるものも存在します。"
+                        "Some may also be automatically added to the list immediately."
                     ]
                 },
                 {
@@ -5282,7 +5282,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         1,
-                        "確認しない"
+                        "No"
                     ]
                 },
                 {
@@ -5914,7 +5914,7 @@ null,
 },
 {
     "id": 12,
-    "name": "移動使い魔",
+    "name": "Mobile Familiar",
     "note": "<HMすり抜け禁止>",
     "pages": [
         {
@@ -5950,28 +5950,28 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "主候補よ、話を聞いていくにゃ。"
+                        "Lord Candidate, I will listen to you, meow."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "僕はとっても有能な使い魔なのにゃ。"
+                        "I am a very capable messenger, meow."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ここで生活する上で欠かせない存在……にゃ！"
+                        "An indispensable existence for living here... meow!"
                     ]
                 },
                 {
@@ -5982,14 +5982,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "いったいどんなことができるんですか？"
+                        "What kind of work can you do?"
                     ]
                 },
                 {
@@ -6000,28 +6000,28 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "よくぞ聞いてくれたにゃ。"
+                        "Well said, meow."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ふふふ……実際にやって見せるから、"
+                        "Fufufu... I'll show you what I can do,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "準備ができたら改めて声をかけるにゃ。"
+                        "so go get ready before calling me again, mrow."
                     ]
                 },
                 {
@@ -6062,14 +6062,14 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【イベント追加】\\C[0]"
+                        "\\C[16]【Event Added】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "イベント一覧に\\C[17]有能使い魔\\C[0]が追加されました。"
+                        "\\C[17]Able Familiar\\C[0] has been added to the event list."
                     ]
                 },
                 {
@@ -6138,14 +6138,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "使い魔さん、あなたの力を見せてください。"
+                        "Miss Familiar, please show me your power."
                     ]
                 },
                 {
@@ -6156,21 +6156,21 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ふっふっふ……分かったにゃ。"
+                        "Fufufu... Alright."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "それじゃあ、いくにゃ！"
+                        "Neow then, here I go!"
                     ]
                 },
                 {
@@ -6274,21 +6274,21 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "……というわけで、僕は主候補をアイノアの"
+                        "...As demonstrated, I can guide the Lord Candidate"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "いたるところに案内できるにゃ。"
+                        "all around Ainoa, meow."
                     ]
                 },
                 {
@@ -6299,14 +6299,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "さきほどの部屋以外にも行けるのでしょうか？"
+                        "Can we go to other rooms besides that one?"
                     ]
                 },
                 {
@@ -6317,14 +6317,14 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "もちろんにゃ！"
+                        "Of course, meow!"
                     ]
                 },
                 {
@@ -6335,14 +6335,14 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "なーんかしょぼいんだよなあ。"
+                        "So dull."
                     ]
                 },
                 {
@@ -6353,21 +6353,21 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "おちびのくせに失礼な……"
+                        "What a loud mouth for such a small little runt..."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "それなら次は、僕の真の力を披露するにゃ！"
+                        "Then next time, I'll show you my true power!"
                     ]
                 },
                 {
@@ -6378,14 +6378,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "おちび。"
+                        "Runt, hm."
                     ]
                 },
                 {
@@ -6396,21 +6396,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "はんっ、罵ってるつもりか？"
+                        "Hah, is that the best you can do?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "私は小さくてかわいいんだからそれは誉め言葉だ！"
+                        "I'll take it as a compliment since I'm so small and cute!"
                     ]
                 },
                 {
@@ -6451,14 +6451,14 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【イベント完了】\\C[0]"
+                        "\\C[16]【Event Complete】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[17]有能使い魔\\C[0] 達成！"
+                        "\\C[17]Able Familiar\\C[0] completed!"
                     ]
                 },
                 {
@@ -6499,14 +6499,14 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【イベント追加】\\C[0]"
+                        "\\C[16]【Event Added】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "イベント一覧に\\C[17]有能使い魔の本気\\C[0]が追加されました。"
+                        "\\C[17]Able, Serious Familiar\\C[0] has been added to the event list."
                     ]
                 },
                 {
@@ -6568,21 +6568,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "おい、お前の真の力とやらを見せてみろよ？"
+                        "Oi, you said you were gonna show me your true power, right?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "そんなものがあるんならな！"
+                        "Try it, if you even have one!"
                     ]
                 },
                 {
@@ -6593,14 +6593,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "そ、そんなに喧嘩腰にならなくても……"
+                        "Y-you didn't have to be so aggressive..."
                     ]
                 },
                 {
@@ -6611,21 +6611,21 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ふっふっふっふっふ……聞いて驚けにゃ。"
+                        "Fufufufufu... Listen and be amazed."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "僕は主候補の仲間を管理できるにゃ！"
+                        "I can manage the Lord Candidate's companions!"
                     ]
                 },
                 {
@@ -6652,14 +6652,14 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "パーティ編成についての説明を確認しますか？"
+                        "Would you like to learn about Party Setup?"
                     ]
                 },
                 {
@@ -6667,8 +6667,8 @@ null,
                     "indent": 1,
                     "parameters": [
                         [
-                            "確認する",
-                            "確認しない"
+                            "Yes",
+                            "No"
                         ],
                         1,
                         0,
@@ -6681,7 +6681,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         0,
-                        "確認する"
+                        "Yes"
                     ]
                 },
                 {
@@ -6699,21 +6699,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "無地のアイノアにいる白猫の使い魔に話しかけると、"
+                        "By talking to the white cat familiar in Earthless Ainoa,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "パーティ編成画面を表示することができます。"
+                        "you can perform party formation."
                     ]
                 },
                 {
@@ -6731,21 +6731,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "パーティ編成画面では、イノ以外のキャラクターを"
+                        "During party formation, you can add or"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "パーティに加えたり外したりすることができます。"
+                        "remove any of Ino's companions from the party."
                     ]
                 },
                 {
@@ -6763,21 +6763,21 @@ null,
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "パーティの最大人数は六人です。"
+                        "Maximum party size is 6."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "仲間の数が増えてきたら、パーティ編成を確認してみましょう。"
+                        "When you find a new companion, let's consider editing the party."
                     ]
                 },
                 {
@@ -6790,7 +6790,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         1,
-                        "確認しない"
+                        "No"
                     ]
                 },
                 {
@@ -6821,21 +6821,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "……は？"
+                        "...Hah?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "それだけか？"
+                        "That's it?"
                     ]
                 },
                 {
@@ -6846,21 +6846,21 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "それだけとはなんにゃ！"
+                        "Don't 'that's it' me, meow!"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "とっても便利なのにゃ！"
+                        "It is a very convenient ability!"
                     ]
                 },
                 {
@@ -6871,21 +6871,21 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "そんなの、お前がいなくてもできるだろ……"
+                        "We can, like, totally do that ourselves."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "なあ？"
+                        "Right?"
                     ]
                 },
                 {
@@ -6896,21 +6896,21 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "そ、そうですね……"
+                        "I-is that so..."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "でもまあ、せっかくなのでお願いします。"
+                        "Well, it is a big deal, so I'll leave that to you."
                     ]
                 },
                 {
@@ -6921,21 +6921,21 @@ null,
                         0,
                         0,
                         2,
-                        "使い魔"
+                        "Familiar"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "ふふふ。"
+                        "Fufufu. Unlike the runt,"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "主候補はおちびと違って頭がいいのにゃ。"
+                        "the Lord Candidate has reason with him."
                     ]
                 },
                 {
@@ -6946,14 +6946,14 @@ null,
                         1,
                         0,
                         2,
-                        "フィーデ"
+                        "Fiede"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "気遣ってるだけだろうがよお。"
+                        "I'm sure he's just being nice."
                     ]
                 },
                 {
@@ -6994,14 +6994,14 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【イベント完了】\\C[0]"
+                        "\\C[16]【Event Complete】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[17]有能使い魔の本気\\C[0] 達成！"
+                        "\\C[17]Able, Serious Familiar\\C[0] completed!"
                     ]
                 },
                 {
@@ -7456,14 +7456,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "つぼ。"
+                        "Jar."
                     ]
                 },
                 {
@@ -7534,14 +7534,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "つぼ。"
+                        "Jar."
                     ]
                 },
                 {
@@ -7612,14 +7612,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "たな。"
+                        "Shelf."
                     ]
                 },
                 {
@@ -7690,14 +7690,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "観葉植物です。"
+                        "It is an ornamental plant."
                     ]
                 },
                 {
@@ -7768,14 +7768,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "あかり。"
+                        "Light."
                     ]
                 },
                 {
@@ -7855,14 +7855,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "難しそうな本ばかり……"
+                        "Only difficult books around..."
                     ]
                 },
                 {
@@ -7943,14 +7943,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "オルドワルドの歴史に関する本が並んでいます。"
+                        "Books on the history of Ordwald are lined up."
                     ]
                 },
                 {
@@ -7985,7 +7985,7 @@ null,
 },
 {
     "id": 22,
-    "name": "シュウ",
+    "name": "Shu",
     "note": "<HMすり抜け禁止>",
     "pages": [
         {
@@ -8021,14 +8021,14 @@ null,
                         0,
                         0,
                         2,
-                        "シュウ"
+                        "Shu"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "…………"
+                        "..."
                     ]
                 },
                 {
@@ -8036,7 +8036,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "不具合修正"
+                            "Bug Fixes"
                         ],
                         -1,
                         -1,
@@ -8049,7 +8049,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "不具合修正"
+                        "Bug Fixes"
                     ]
                 },
                 {
@@ -8077,21 +8077,21 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【不具合修正】\\C[0]"
+                        "\\C[16]【Bug Fixes】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "先行公開された体験版からセーブデータを引き継いだときに"
+                        "You can fix problems that may occur when saving"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "生じる可能性のある不具合を修正できます。"
+                        "data from the previously released trial version."
                     ]
                 },
                 {
@@ -8099,8 +8099,8 @@ null,
                     "indent": 1,
                     "parameters": [
                         [
-                            "修正する",
-                            "修正しない"
+                            "Fix",
+                            "Do Not"
                         ],
                         -1,
                         -1,
@@ -8113,7 +8113,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         0,
-                        "修正する"
+                        "Fix"
                     ]
                 },
                 {
@@ -8161,14 +8161,14 @@ null,
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "\\C[16]【不具合修正】\\C[0]"
+                        "\\C[16]【Bug Fixes】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "修正完了。"
+                        "Correction completed."
                     ]
                 },
                 {
@@ -8217,21 +8217,21 @@ null,
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "\\C[16]【不具合修正】\\C[0]"
+                        "\\C[16]【Bug Fixes】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "セーブデータは正常です。"
+                        "Save data is normal."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 4,
                     "parameters": [
-                        "修正する必要はありません。"
+                        "No need to fix."
                     ]
                 },
                 {
@@ -8281,21 +8281,21 @@ null,
                     "code": 401,
                     "indent": 3,
                     "parameters": [
-                        "\\C[16]【不具合修正】\\C[0]"
+                        "\\C[16]【Bug Fixes】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 3,
                     "parameters": [
-                        "セーブデータは正常です。"
+                        "Save data is normal."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 3,
                     "parameters": [
-                        "修正する必要はありません。"
+                        "No need to fix."
                     ]
                 },
                 {
@@ -8318,7 +8318,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         1,
-                        "修正しない"
+                        "Do Not"
                     ]
                 },
                 {
@@ -8346,7 +8346,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "立ち去る"
+                            "Leave"
                         ],
                         0,
                         -1,
@@ -8359,7 +8359,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "立ち去る"
+                        "Leave"
                     ]
                 },
                 {
@@ -8431,14 +8431,14 @@ null,
                         0,
                         0,
                         2,
-                        "シュウ"
+                        "Shu"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "…………"
+                        "..."
                     ]
                 },
                 {
@@ -8446,7 +8446,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "不具合修正"
+                            "Bug Fixes"
                         ],
                         -1,
                         -1,
@@ -8459,7 +8459,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "不具合修正"
+                        "Bug Fixes"
                     ]
                 },
                 {
@@ -8489,14 +8489,14 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【不具合修正】\\C[0]"
+                        "\\C[16]【Bug Fixes】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "修正する必要はありません。"
+                        "No need to fix."
                     ]
                 },
                 {
@@ -8514,7 +8514,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "立ち去る"
+                            "Leave"
                         ],
                         0,
                         -1,
@@ -8527,7 +8527,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "立ち去る"
+                        "Leave"
                     ]
                 },
                 {
@@ -8572,7 +8572,7 @@ null,
 },
 {
     "id": 23,
-    "name": "迷子",
+    "name": "Lost Child",
     "note": "<HMすり抜け禁止><HM半歩禁止>",
     "pages": [
         {
@@ -9301,14 +9301,14 @@ null,
                         0,
                         0,
                         2,
-                        "イノ"
+                        "Ino"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "難しそうな本ばかり……"
+                        "Only difficult books around..."
                     ]
                 },
                 {
@@ -9567,21 +9567,21 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【シーン発生】\\C[0]"
+                        "\\C[16]【Scene Viewing】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "シーン『お馬さん公開中』を閲覧しますか？"
+                        "Would you like to view the Scene [The Horse Debuts]?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
+                        "\\C[17]※The Scene will enter Recollection regardless of choice.\\C[0]"
                     ]
                 },
                 {
@@ -9589,8 +9589,8 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "閲覧する",
-                            "閲覧しない"
+                            "View",
+                            "Do Not"
                         ],
                         1,
                         0,
@@ -9603,7 +9603,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "閲覧する"
+                        "View"
                     ]
                 },
                 {
@@ -9623,7 +9623,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         1,
-                        "閲覧しない"
+                        "Do Not"
                     ]
                 },
                 {
@@ -9816,21 +9816,21 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【シーン発生】\\C[0]"
+                        "\\C[16]【Scene Viewing】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "シーン『ちょうどいい椅子』を閲覧しますか？"
+                        "Would you like to view the Scene [Just the Right Chair]?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
+                        "\\C[17]※The Scene will enter Recollection regardless of choice.\\C[0]"
                     ]
                 },
                 {
@@ -9838,8 +9838,8 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "閲覧する",
-                            "閲覧しない"
+                            "View",
+                            "Do Not"
                         ],
                         1,
                         0,
@@ -9852,7 +9852,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "閲覧する"
+                        "View"
                     ]
                 },
                 {
@@ -9872,7 +9872,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         1,
-                        "閲覧しない"
+                        "Do Not"
                     ]
                 },
                 {
@@ -10065,21 +10065,21 @@ null,
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[16]【シーン発生】\\C[0]"
+                        "\\C[16]【Scene Viewing】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "シーン『びりびり体験』を閲覧しますか？"
+                        "Would you like to view the Scene [Rattling Experience]?"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "\\C[17]※いずれの選択でも回想に登録されます。\\C[0]"
+                        "\\C[17]※The Scene will enter Recollection regardless of choice.\\C[0]"
                     ]
                 },
                 {
@@ -10087,8 +10087,8 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "閲覧する",
-                            "閲覧しない"
+                            "View",
+                            "Do Not"
                         ],
                         1,
                         0,
@@ -10101,7 +10101,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "閲覧する"
+                        "View"
                     ]
                 },
                 {
@@ -10121,7 +10121,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         1,
-                        "閲覧しない"
+                        "Do Not"
                     ]
                 },
                 {
@@ -10279,14 +10279,14 @@ null,
                         0,
                         0,
                         2,
-                        "謎めいたマナレイス"
+                        "Mysterious Manalace"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 0,
                     "parameters": [
-                        "やあ。"
+                        "Yo."
                     ]
                 },
                 {
@@ -10294,8 +10294,8 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "時を越える",
-                            "説明を聞く"
+                            "Transcend",
+                            "Explanation"
                         ],
                         -1,
                         -1,
@@ -10308,7 +10308,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "時を越える"
+                        "Transcend"
                     ]
                 },
                 {
@@ -10319,14 +10319,14 @@ null,
                         0,
                         0,
                         2,
-                        "謎めいたマナレイス"
+                        "Mysterious Manalace"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "本当にいいのかい？"
+                        "Are you sure about this?"
                     ]
                 },
                 {
@@ -10334,8 +10334,8 @@ null,
                     "indent": 1,
                     "parameters": [
                         [
-                            "やめる",
-                            "時を越える"
+                            "Stop",
+                            "Transcend"
                         ],
                         0,
                         0,
@@ -10348,7 +10348,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         0,
-                        "やめる"
+                        "Stop"
                     ]
                 },
                 {
@@ -10361,7 +10361,7 @@ null,
                     "indent": 1,
                     "parameters": [
                         1,
-                        "時を越える"
+                        "Transcend"
                     ]
                 },
                 {
@@ -10372,21 +10372,21 @@ null,
                         0,
                         0,
                         2,
-                        "謎めいたマナレイス"
+                        "Mysterious Manalace"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "そうか。"
+                        "I see."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 2,
                     "parameters": [
-                        "では。"
+                        "Well then."
                     ]
                 },
                 {
@@ -10463,7 +10463,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         1,
-                        "説明を聞く"
+                        "Explanation"
                     ]
                 },
                 {
@@ -10481,21 +10481,21 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[17]時を越える\\C[0]と、ゲームを最初から開始します。"
+                        "To \\C[17]Transcend\\C[0] is to start over from the beginning."
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "その際に現在のデータの次の要素を引き継ぎます。"
+                        "The following data is carried over to the next run."
                     ]
                 },
                 {
@@ -10513,28 +10513,28 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[17]・キャラクターのレベル、スキル、アイテムによる強化"
+                        "\\C[17]・Character Level, Skill, Item enhancements"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "・キャラクターのマナの恩恵、マナの輝き、マナ獲得量"
+                        "・Character Mana Benefit, Brilliance, and Gain"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "・消耗品、素材、装備品、MANA、一部の貴重品\\C[0]"
+                        "・Consumables, Materials, Equipment, MANA, and some Key Items\\C[0]"
                     ]
                 },
                 {
@@ -10552,28 +10552,28 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[17]・思い出の中の各シーン、会話の解放状況"
+                        "\\C[17]・Recollection Scene and Conversation Unlocks"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "・旅の軌跡の獲得状況"
+                        "・Journey Trails Status"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "・魔物図鑑の内容\\C[0]"
+                        "・Monster Encyclopedia Contents\\C[0]"
                     ]
                 },
                 {
@@ -10591,21 +10591,21 @@ null,
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[16]【チュートリアル】\\C[0]"
+                        "\\C[16]【Tutorial】\\C[0]"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "\\C[17]観察する\\C[0]ことで確認できるイノの状態は、"
+                        "You can also choose whether or not"
                     ]
                 },
                 {
                     "code": 401,
                     "indent": 1,
                     "parameters": [
-                        "引き継ぐかどうか選択できます。"
+                        "Ino's state will be inherited."
                     ]
                 },
                 {
@@ -10623,7 +10623,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         [
-                            "立ち去る"
+                            "Leave"
                         ],
                         0,
                         -1,
@@ -10636,7 +10636,7 @@ null,
                     "indent": 0,
                     "parameters": [
                         0,
-                        "立ち去る"
+                        "Leave"
                     ]
                 },
                 {
