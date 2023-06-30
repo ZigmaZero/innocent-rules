@@ -7,7 +7,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - Classes: Done
 - CommonEvents: 0/350
 - Enemies: 0/400
-- Items: 114/230
+- Items: Done
 - Maps: 3/519
 - Skills: Done
 - States: Anticipating recheck for Counter plugin interactions.
