@@ -5297,7 +5297,7 @@
     {
         "id": 149,
         "animationId": 162,
-        "description": "A certain Nightmare's self-defense weapon.\n\\C[24]Weapon Skill: \\C[0]Yotogi's Secret",
+        "description": "A certain Demon's self-defense weapon.\n\\C[24]Weapon Skill: \\C[0]Yotogi's Secret",
         "etypeId": 1,
         "traits": [
             {
@@ -5323,7 +5323,7 @@
         ],
         "iconIndex": 320,
         "name": "Yotogi's Dagger",
-        "note": "<NameColor:23>\n<dPlnText:A Shikinoa-style dagger.\nFeatures a glossy decorative scabbard.\n　\nIn the East, Nightmares are called Yotogi,\nand they are also treated rather differently.\n　\nSpecial Effects:\n・Recover 4 TP every Turn>",
+        "note": "<NameColor:23>\n<dPlnText:A Shikinoa-style dagger.\nFeatures a glossy decorative scabbard.\n　\nIn the East, Demons are called Yotogi,\nand they are also treated rather differently.\n　\nSpecial Effects:\n・Recover 4 TP every Turn>",
         "params": [
             0,
             0,
@@ -5804,7 +5804,7 @@
     {
         "id": 163,
         "animationId": 6,
-        "description": "Fiery hair of a Nightmare, bends like a whip.\n\\C[24]Weapon Skill: \\C[0]Magic Return",
+        "description": "Fiery hair of a Demon, bends like a whip.\n\\C[24]Weapon Skill: \\C[0]Magic Return",
         "etypeId": 1,
         "traits": [
             {
@@ -6535,7 +6535,7 @@
         ],
         "iconIndex": 325,
         "name": "Twisted Uneven Horns",
-        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe Nightmare's horns are irregular and\ndistorted from the influence of its own magic,\nbecoming a symbol of her power.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute\n・Recover 10 TP every Turn\n・Negate Poison>",
+        "note": "<NameColor:2>\n<dPlnText:A weapon that inherits the Lord of Reason's legacy.\nYou can wield but a glimpse of that power.\n　\nThe Demon's horns are irregular and\ndistorted from the influence of its own magic,\nbecoming a symbol of her power.\n　\nSpecial Effects:\n・Attacks gain the Fire attribute\n・Recover 10 TP every Turn\n・Negate Poison>",
         "params": [
             0,
             0,

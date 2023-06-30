@@ -2961,12 +2961,12 @@
     {
         "id": 113,
         "atypeId": 17,
-        "description": "Dedicated to a specific Race.\n\\C[24]Nightmare exclusive equipment.\\C[0]",
+        "description": "Dedicated to a specific Race.\n\\C[24]Demon exclusive equipment.\\C[0]",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 142,
         "name": "Skillful Hand",
-        "note": "<DD魔法力:prev * \\V[425]>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Nightmares.\n　\nThey're sensitive to the flow of Mana,\nand know how to utilize it.\n　\nSpecial Effects:\n・MAG increases equal to Mana Benefit.>",
+        "note": "<DD魔法力:prev * \\V[425]>\n<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Demons.\n　\nThey're sensitive to the flow of Mana,\nand know how to utilize it.\n　\nSpecial Effects:\n・MAG increases equal to Mana Benefit.>",
         "params": [
             0,
             0,
@@ -3209,7 +3209,7 @@
         "etypeId": 4,
         "traits": [],
         "iconIndex": 134,
-        "name": "Healing of Dana",
+        "name": "Healing of Dahna",
         "note": "<OrderId:349>\n<NameColor:2>\n<dPlnText:Special items adorned by monsters.\nThese are held by Fairies.\n　\nThey simply seek growth,\nand return the gained power to the earth.\n　\nSpecial Effects:\n・[Healing Hands] power becomes 50\n・[Healing Hands] target becomes All Allies>",
         "params": [
             0,
@@ -5624,7 +5624,7 @@
     {
         "id": 214,
         "atypeId": 1,
-        "description": "A worn-out Nightmare costume.",
+        "description": "A worn-out Demon costume.",
         "etypeId": 3,
         "traits": [
             {
@@ -5634,7 +5634,7 @@
             }
         ],
         "iconIndex": 154,
-        "name": "Nightmare Outfit",
+        "name": "Demon Outfit",
         "note": "<NameColor:23>\n<dPlnText:A radical costume worn by night demons.\nLooks like underwear but functions as armor.\n　\nSeems to have been used for a long time.\nThe magical power remains along with the scent.\n　\nSpecial Effects:\n・Recover 10% SP every Turn>",
         "params": [
             0,
