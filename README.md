@@ -11,8 +11,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Earthless Ainoa: 5/18
     - Ront:
         - Mountains of Auli: 9/9
-        - Mountain Camp: 3/12
-        - Stagnant Basin: 0/4
+        - Mountain Camp: 12/12
+        - Stagnant Basin: 4/4
         - Auli Village: 0/10
         - Tantali of Departure: 0/14
         - Mana Ranch: 0/7
