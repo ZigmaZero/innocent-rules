@@ -5533,7 +5533,7 @@ Window_EnemyBook.prototype.drawResistDebuff = function(list, enemy, x, y, width)
 Window_EnemyBook.prototype.dropItems = function(list, enemy, x, y, width) {
   this.contentsFontSize(list);
   this.changeTextColor(this.getColorCode(list.NameColor));
-  const nameText = list.paramName ? list.paramName : "ドロップアイテム";
+  const nameText = list.paramName ? list.paramName : "Dropped Items";
   this.drawText(nameText, x, y);
   const lineHeight = this.lineHeight();
   let cols = 1;
@@ -5644,7 +5644,7 @@ Window_EnemyBook.prototype.condDropItems = function(list, enemy, x, y, width) {
   }
   this.contentsFontSize(list);
   this.changeTextColor(this.getColorCode(list.NameColor));
-  const nameText = list.paramName ? list.paramName : "条件ドロップアイテム";
+  const nameText = list.paramName ? list.paramName : "Special Dropped Items";
   this.drawText(nameText, x, y);
   const lineHeight = this.lineHeight();
   let cols = 1;

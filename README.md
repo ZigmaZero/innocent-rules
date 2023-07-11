@@ -13,7 +13,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Mountains of Auli: 9/9
         - Mountain Camp: 12/12
         - Stagnant Basin: 4/4
-        - Auli Village: 0/10
+        - Auli Village: 10/10
         - Tantali of Departure: 0/14
         - Mana Ranch: 0/7
         - Centipede Road: 0/3
