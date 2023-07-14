@@ -20,9 +20,9 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Underground Castle: 0/3
         - Tower of Bushes: 0/5
     - Certilt
-        - Spirit Forest: 0/7
+        - Spirit Forest: 7/7
         - Lavenderie: 0/20
-        - Ophistorie Habitat: 0/10
+        - Opystri Habitat: 0/10
         - Forest Outskirts: 0/3
         - Spiral City: 0/11
         - Mushroom Village Cieni: 0/7
