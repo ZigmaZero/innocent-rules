@@ -22,7 +22,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Certilt
         - Spirit Forest: 7/7
         - Lavenderie: 0/20
-        - Opysitri Habitat: 0/10
+        - Opysitri Habitat: 9/10
         - Forest Outskirts: 0/3
         - Spiral City: 0/11
         - Mushroom Village Cieni: 0/7
