@@ -21,7 +21,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Tower of Bushes: 0/5
     - Certilt
         - Spirit Forest: 7/7
-        - Lavenderie: 0/20
+        - Lavenderie: 15/20
         - Opysitri Habitat: 9/10
         - Forest Outskirts: 0/3
         - Spiral City: 0/11
