@@ -3,7 +3,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 
 ## Translation Progress
 - CommonEvents: 1/350
-- Enemies: 15/400
+- Enemies: Names translated, descriptions not
 - Maps: 
     - Opening: 4/4
     - Event-specific Maps: 5/14
@@ -21,9 +21,9 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Tower of Bushes: 0/5
     - Certilt
         - Spirit Forest: 7/7
-        - Lavenderie: 15/20
-        - Opysitri Habitat: 9/10
-        - Forest Outskirts: 0/3
+        - Lavenderie: 20/20
+        - Opysitri Habitat: 10/10
+        - Forest Outskirts: 3/3
         - Spiral City: 0/11
         - Mushroom Village Cieni: 0/7
         - Thunder Tree's Shade: 0/5
