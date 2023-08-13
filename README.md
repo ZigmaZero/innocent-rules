@@ -28,17 +28,17 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Mushroom Village Cieni: 0/7
         - Thunder Tree's Shade: 0/5
     - Tarvilal
-        - Hunter's Rest: 0/6
-        - Locked Fortress: 0/2
-        - Snowy Hunting Ground: 0/16
-        - Alien Ruins: 0/5
-        - Tower of Knowledge: 0/12
-        - Lavigny of Bondings: 0/6
+        - Hunter's Rest: 6/6
+        - Locked Fortress: 2/2
+        - Snowy Hunting Ground: 16/16
+        - Alien Ruins: 5/5
+        - Tower of Knowledge: 12/12
+        - Lavigny of Bondings: 2/6
         - Lavigny Barricade Prison: 0/18
         - House of Lavigny: 0/3
     - Torion
-        - Fire Cemetery: 0/11
-        - Entertainment District Int'oma: 0/30
+        - Fire Cemetery: 10/11
+        - Entertainment District Int'oma: 4/30
         - Hersteide: 0/6
         - Oppoteide: 0/4
         - Abandoned Dream: 0/3
