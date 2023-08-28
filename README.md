@@ -40,7 +40,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Fire Cemetery: 11/11
         - Entertainment District Int'oma: 23/30
         - Hersteide: 1/6
-        - Oppoteide: 0/4
+        - Oppoteide: 4/4
         - Abandoned Dream: 0/3
         - Fire Dragon's Cave: 0/6
         - Secret Hot Spring: 0/1
