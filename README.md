@@ -37,9 +37,9 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Lavigny Barricade Prison: 0/18
         - House of Lavigny: 0/3
     - Torion
-        - Fire Cemetery: 10/11
-        - Entertainment District Int'oma: 4/30
-        - Hersteide: 0/6
+        - Fire Cemetery: 11/11
+        - Entertainment District Int'oma: 23/30
+        - Hersteide: 1/6
         - Oppoteide: 0/4
         - Abandoned Dream: 0/3
         - Fire Dragon's Cave: 0/6
