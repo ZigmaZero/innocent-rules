@@ -38,8 +38,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - House of Lavigny: 0/3
     - Torion
         - Fire Cemetery: 11/11
-        - Entertainment District Int'oma: 23/30
-        - Hersteide: 1/6
+        - Entertainment District Int'oma: 30/30
+        - Hersteide: 4/6
         - Oppoteide: 4/4
         - Abandoned Dream: 0/3
         - Fire Dragon's Cave: 0/6
@@ -79,8 +79,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Sea of Rainbows - Memories of the Breeze: 0/2
         - Confluence of Memories: 0/2
         - Caunis Merri: 0/14
-    - Other Areas: 0/5
-    - Ending: 0/8
+    - Other Areas: 5/5
+    - Ending: 7/8
 
 ## Version Support
 - v1.0.0: In Progress
