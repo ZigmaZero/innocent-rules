@@ -39,22 +39,22 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Torion
         - Fire Cemetery: 11/11
         - Entertainment District Int'oma: 30/30
-        - Hersteide: 4/6
+        - Hersteide: 6/6
         - Oppoteide: 4/4
-        - Abandoned Dream: 0/3
-        - Fire Dragon's Cave: 0/6
-        - Secret Hot Spring: 0/1
-        - Fire Dragon's Peak: 0/2
+        - Abandoned Dream: 3/3
+        - Fire Dragon's Cave: 6/6
+        - Secret Hot Spring: 1/1
+        - Fire Dragon's Peak: 2/2
     - Signine
-        - Shoeba Sea: 0/21
+        - Shuva Ocean: 0/21
         - Solitary Island: 0/8
         - Taun: 0/4
         - Taunver: 0/3
         - Floating Debris: 0/10
         - ????: 0/4
-        - Sous Shoeba: 0/7
+        - Sous Shuva: 0/7
         - Hidden Island: 0/4
-        - Shoeba Hollow: 0/4
+        - Shuva Hollow: 0/4
         - Deep Shrine: 0/5
     - Virea
         - Sky Ruins: 0/9
