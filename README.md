@@ -6,7 +6,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - Enemies: Names translated, descriptions not
 - Maps: 
     - Opening: 4/4
-    - Event-specific Maps: 5/14
+    - Event-specific Maps: 9/14
     - H-scene Maps: 0/20
     - Earthless Ainoa: 5/18
     - Ront:
@@ -46,16 +46,16 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Secret Hot Spring: 1/1
         - Fire Dragon's Peak: 2/2
     - Signine
-        - Shuva Ocean: 0/21
-        - Solitary Island: 0/8
-        - Taun: 0/4
-        - Taunver: 0/3
-        - Floating Debris: 0/10
-        - ????: 0/4
+        - Shuva Ocean: 21/21
+        - Solitary Island: 8/8
+        - Taun: 4/4
+        - Mantion: 3/3
+        - Floating Ruins: 10/10
+        - ????: 4/4
         - Sous Shuva: 0/7
         - Hidden Island: 0/4
         - Shuva Hollow: 0/4
-        - Deep Shrine: 0/5
+        - Shrine of Depths: 5/5
     - Virea
         - Sky Ruins: 0/9
         - Town of Machine Dolls: 0/4
