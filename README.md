@@ -18,7 +18,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Mana Ranch: 0/7
         - Centipede Road: 0/3
         - Underground Castle: 0/3
-        - Tower of Bushes: 0/5
+        - Thicket Tower: 0/5
     - Certilt
         - Spirit Forest: 7/7
         - Lavenderie: 20/20
@@ -52,8 +52,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Mantion: 3/3
         - Floating Ruins: 10/10
         - ????: 4/4
-        - Sous Shuva: 0/7
-        - Hidden Island: 0/4
+        - Sous Shuva: 7/7
+        - Hidden Island: 4/4
         - Shuva Hollow: 0/4
         - Shrine of Depths: 5/5
     - Virea
