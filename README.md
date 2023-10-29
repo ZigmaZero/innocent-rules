@@ -14,26 +14,26 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Mountain Camp: 12/12
         - Stagnant Basin: 4/4
         - Auli Village: 10/10
-        - Tantali of Departure: 0/14
-        - Mana Ranch: 0/7
-        - Centipede Road: 0/3
-        - Underground Castle: 0/3
-        - Thicket Tower: 0/5
+        - Tantali of Departure: 14/14
+        - Mana Ranch: 7/7
+        - Centipede Road: 3/3
+        - Underground Castle: 3/3
+        - Thicket Tower: 5/5
     - Certilt
         - Spirit Forest: 7/7
         - Lavenderie: 20/20
         - Opysitri Habitat: 10/10
         - Forest Outskirts: 3/3
-        - Spiral City: 0/11
-        - Mushroom Village Cieni: 0/7
-        - Thunder Tree's Shade: 0/5
+        - Spiral City: 11/11
+        - Mushroom Village Cieni: 7/7
+        - Thunder Tree's Shade: 5/5
     - Tarvilal
         - Hunter's Rest: 6/6
         - Locked Fortress: 2/2
         - Snowy Hunting Ground: 16/16
         - Alien Ruins: 5/5
         - Tower of Knowledge: 12/12
-        - Lavigny of Bondings: 2/6
+        - Lavigny of Bondings: 6/6
         - Lavigny Barricade Prison: 0/18
         - House of Lavigny: 0/3
     - Torion
