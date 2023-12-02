@@ -34,8 +34,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Alien Ruins: 5/5
         - Tower of Knowledge: 12/12
         - Lavigny of Bondings: 6/6
-        - Lavigny Barricade Prison: 0/18
-        - House of Lavigny: 0/3
+        - Lavigny Barricade Prison: 18/18
+        - Lavigny: 3/3
     - Torion
         - Fire Cemetery: 11/11
         - Entertainment District Int'oma: 30/30
@@ -54,7 +54,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - ????: 4/4
         - Sous Shuva: 7/7
         - Hidden Island: 4/4
-        - Shuva Hollow: 0/4
+        - Shuva Hollow: 4/4
         - Shrine of Depths: 5/5
     - Virea
         - Sky Ruins: 0/9
