@@ -2,11 +2,12 @@
 Translation project for Leaf Geometry's INNOCENT RULES.
 
 ## Translation Progress
+(Version 1.0.0 only, for those who were wondering.)
 - CommonEvents: 1/350
 - Enemies: Names translated, descriptions not
 - Maps: 
     - Opening: 4/4
-    - Event-specific Maps: 9/14
+    - Event-specific Maps: 13/14
     - H-scene Maps: 0/20
     - Earthless Ainoa: 5/18
     - Ront:
@@ -57,12 +58,12 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Shuva Hollow: 4/4
         - Shrine of Depths: 5/5
     - Virea
-        - Sky Ruins: 0/9
-        - Town of Machine Dolls: 0/4
-        - Machine Doll Hangar: 0/3
-        - Sky Ruins Lower Layer: 0/5
-        - Ruins Treasury: 0/2
-        - Storm Furnace: 0/2
+        - Sky Ruins: 9/9
+        - Machine Doll Town: 4/4
+        - Machine Doll Hangar: 3/3
+        - Sky Ruins Lower Layer: 5/5
+        - Ruins Treasury: 2/2
+        - Wind Furnace: 2/2
         - Landfill: 0/5
         - Hybrid Lab: 0/4
     - Ainoa's Shadow
