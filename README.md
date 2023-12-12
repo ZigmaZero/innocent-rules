@@ -64,13 +64,13 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Sky Ruins Lower Layer: 5/5
         - Ruins Treasury: 2/2
         - Wind Furnace: 2/2
-        - Landfill: 0/5
-        - Hybrid Lab: 0/4
+        - Landfill: 5/5
+        - Hybrid Lab: 4/4
     - Ainoa's Shadow
-        - Star Corpse: 0/7
-        - Seat of Creation: 0/7
-        - Lost World Ordmarr: 0/7
-        - Astral Cocoon: 0/8
+        - Star Corpse: 7/7
+        - Seat of Creation: 7/7
+        - The Lost Ordmarr: 7/7
+        - Astral Cocoon: 8/8
     - Memory Space
         - Sea of Rainbows - Memories of Solitude: 0/4
         - Sea of Rainbows - Memories of Sacrifice: 0/4
@@ -81,7 +81,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - Confluence of Memories: 0/2
         - Caunis Merri: 0/14
     - Other Areas: 5/5
-    - Ending: 7/8
+    - Ending: 8/8
 
 ## Version Support
 - v1.0.0: In Progress
