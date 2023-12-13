@@ -72,9 +72,9 @@ Translation project for Leaf Geometry's INNOCENT RULES.
         - The Lost Ordmarr: 7/7
         - Astral Cocoon: 8/8
     - Memory Space
-        - Sea of Rainbows - Memories of Solitude: 0/4
-        - Sea of Rainbows - Memories of Sacrifice: 0/4
-        - Sea of Rainbows - Memories of Loss: 0/4
+        - Sea of Rainbows - Memories of Solitude: 4/4
+        - Sea of Rainbows - Memories of Sacrifice: 4/4
+        - Sea of Rainbows - Memories of Loss: 4/4
         - Sea of Rainbows - Memories of Disappointment: 0/4
         - Sea of Rainbows - Memories of Melancholy: 0/4
         - Sea of Rainbows - Memories of the Breeze: 0/2
