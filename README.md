@@ -9,7 +9,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Equipment: 100%
 - Dialogue
     - Main Story: 100%
-        - Postgame: 33%
+        - Postgame: 66%
     - Talk Events: 0%
     - H-Events: 0%
     - Ally Conversations: 0%
