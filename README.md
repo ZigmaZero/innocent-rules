@@ -15,12 +15,14 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Ally Conversations: 0%
 
 ## Version Support
-- v1.0.0: In Progress
-- v1.0.1: Not Started
-- v1.0.2: Not Started
+- All versions abandoned until updooted to v.1.1.2
+- v.1.1.2: Not started
 
 ## Usage
-Replace the `/data` and `/js` folders with their respective counterparts.
+Replace the `/data`, `/img` and `/js` folders with their respective counterparts.
+
+# Translator's Notes
+By the way, UFO stands for Unidentified Fucking Object.
 
 ## Credits
 INNOCENT RULES by Leaf Geometry.
