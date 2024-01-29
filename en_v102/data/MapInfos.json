@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Test Map","order":2,"parentId":2,"scrollX":1391,"scrollY":792},
 {"id":2,"expanded":true,"name":"■イベントマップ","order":1,"parentId":0,"scrollX":616,"scrollY":340},
-{"id":3,"expanded":true,"name":"●Earthless Ainoa","order":37,"parentId":0,"scrollX":952,"scrollY":720},
+{"id":3,"expanded":true,"name":"●Earthless Ainoa","order":37,"parentId":0,"scrollX":944,"scrollY":712},
 {"id":4,"expanded":false,"name":"■Opening","order":56,"parentId":0,"scrollX":669.5,"scrollY":753},
 {"id":5,"expanded":true,"name":"■Ront","order":61,"parentId":0,"scrollX":616,"scrollY":340},
 {"id":6,"expanded":true,"name":"■Certilt","order":131,"parentId":0,"scrollX":616,"scrollY":340},
