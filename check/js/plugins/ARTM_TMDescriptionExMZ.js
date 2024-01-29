@@ -623,17 +623,17 @@ TMPlugin.DescriptionEx.PassiveStateText = TMPlugin.DescriptionEx.Parameters["pas
     // Window_Message
     //
     
-    Window_Message.prototype.setDescriptionExWindow = function(descriptionExWindow) {
-        this._descriptionExWindow = descriptionExWindow;
-    };
+    // Window_Message.prototype.setDescriptionExWindow = function(descriptionExWindow) {
+    //     this._descriptionExWindow = descriptionExWindow;
+    // };
 
-    const _Window_Message_isAnySubWindowActive = Window_Message.prototype.isAnySubWindowActive;
-    Window_Message.prototype.isAnySubWindowActive = function() {
-        return (
-            _Window_Message_isAnySubWindowActive.call(this) ||
-            this._descriptionExWindow.active
-        );
-    };
+    // const _Window_Message_isAnySubWindowActive = Window_Message.prototype.isAnySubWindowActive;
+    // Window_Message.prototype.isAnySubWindowActive = function() {
+    //     return (
+    //         _Window_Message_isAnySubWindowActive.call(this) ||
+    //         this._descriptionExWindow.active
+    //     );
+    // };
 
     //-----------------------------------------------------------------------------
     // Window_DescriptionEx
@@ -1250,36 +1250,36 @@ TMPlugin.DescriptionEx.PassiveStateText = TMPlugin.DescriptionEx.Parameters["pas
     //-----------------------------------------------------------------------------
     // Scene_Message
     //
-    const _Scene_Message_createEventItemWindow = Scene_Message.prototype.createEventItemWindow;
-    Scene_Message.prototype.createEventItemWindow = function() {
-        _Scene_Message_createEventItemWindow.call(this);
-        this._eventItemWindow.setHandler("description", this.descriptionOpen.bind(this));
-        this.createDescriptionExWindow();
-        this._messageWindow.setDescriptionExWindow(this._descriptionExWindow);
-    };
+    // const _Scene_Message_createEventItemWindow = Scene_Message.prototype.createEventItemWindow;
+    // Scene_Message.prototype.createEventItemWindow = function() {
+    //     _Scene_Message_createEventItemWindow.call(this);
+    //     this._eventItemWindow.setHandler("description", this.descriptionOpen.bind(this));
+    //     this.createDescriptionExWindow();
+    //     this._messageWindow.setDescriptionExWindow(this._descriptionExWindow);
+    // };
 
-    Scene_Message.prototype.descriptionOpen = function(mainWindow) {
-        Scene_Base.prototype.descriptionOpen.call(this, mainWindow);
-        this.moveMenuButton(true);
-    };
+    // Scene_Message.prototype.descriptionOpen = function(mainWindow) {
+    //     Scene_Base.prototype.descriptionOpen.call(this, mainWindow);
+    //     this.moveMenuButton(true);
+    // };
     
-    Scene_Message.prototype.descriptionClose = function() {
-        Scene_Base.prototype.descriptionClose.call(this);
-        this.moveMenuButton(false);
-    };
+    // Scene_Message.prototype.descriptionClose = function() {
+    //     Scene_Base.prototype.descriptionClose.call(this);
+    //     this.moveMenuButton(false);
+    // };
 
-    Scene_Message.prototype.moveMenuButton = function(flag) {
-        const descriptionExWindow = this._descriptionExWindow;
-        const h1 = descriptionExWindow.lineHeight();
-        const h2 = TMPlugin.DescriptionEx.HorzLineHeight;
-        if (flag) {
-            this._saveButtonY = this._cancelButton.y;
-            this._cancelButton.y = h1 + h2 - 1 ;
-        } else {
-            this._cancelButton.y = this._saveButtonY;
-            this._saveButtonY = undefined;
-        }
-    };
+    // Scene_Message.prototype.moveMenuButton = function(flag) {
+    //     const descriptionExWindow = this._descriptionExWindow;
+    //     const h1 = descriptionExWindow.lineHeight();
+    //     const h2 = TMPlugin.DescriptionEx.HorzLineHeight;
+    //     if (flag) {
+    //         this._saveButtonY = this._cancelButton.y;
+    //         this._cancelButton.y = h1 + h2 - 1 ;
+    //     } else {
+    //         this._cancelButton.y = this._saveButtonY;
+    //         this._saveButtonY = undefined;
+    //     }
+    // };
 
     //-----------------------------------------------------------------------------
     // Scene_MenuBase
