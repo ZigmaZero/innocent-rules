@@ -2,14 +2,15 @@
 Translation project for Leaf Geometry's INNOCENT RULES.
 
 ## Translation Progress
-(Version 1.0.0 only, for those who were wondering.)
+(Updated as of Version 1.10)
 - Descriptions (in need of review later)
-    - Items: 100%
-    - Enemies: 50% (detailed descriptions not translated)
-    - Equipment: 100%
+    - Items: 70%
+    - Enemies: 70% (detailed descriptions not translated)
+    - Equipment: 70%
 - Dialogue
-    - Main Story: 100%
-        - Postgame: 66%
+    - Main Scenario: 100%
+        - Memory of Myth: 100%
+        - ???: 0%
     - Talk Events: 0%
     - H-Events: 0%
     - Ally Conversations: 0%
