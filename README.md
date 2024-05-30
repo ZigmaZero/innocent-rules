@@ -11,10 +11,9 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Main Scenario: Complete
         - Oppoteide: I haven't looked (probably in Common Events somewhere)
     - Postgame: Complete
-        - Base of Travels: 5% (there's so damn much jesus)
+        - Base of Travels: 80% (talk to base members & visitors remaining)
     - Talk Events: 0%
     - H-Events: 5/123
-    - Ally Conversations: 100%
 
 ## Version Support
 - All versions abandoned until updooted to v.1.1.2
