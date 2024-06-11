@@ -6,12 +6,11 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - Descriptions
     - Items: 100%
     - Enemies: Detailed descriptions not translated
-    - Equipment: Detailed descriptions not translated
+    - Weapons: Detailed descriptions not translated
+    - Armors: Detailed descriptions not translated
 - Dialogue
     - Main Scenario: Complete
-        - Oppoteide: I haven't looked (probably in Common Events somewhere)
     - Postgame: Complete
-        - Base of Travels: 80% (talk to base members & visitors remaining)
     - Talk Events: 0%
     - H-Events: 5/123
 
