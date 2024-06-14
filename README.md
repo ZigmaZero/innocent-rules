@@ -2,12 +2,12 @@
 Translation project for Leaf Geometry's INNOCENT RULES.
 
 ## Translation Progress
-(Updated as of Version 1.10)
+(Updated as of Version 1.12)
 - Descriptions
     - Items: 100%
-    - Enemies: Detailed descriptions not translated
+    - Enemies: 17.25%
     - Weapons: 100%
-    - Armors: Detailed descriptions not translated
+    - Armors: 100%
 - Dialogue
     - Main Scenario: Complete
     - Postgame: Complete
@@ -15,8 +15,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - H-Events: 5/123
 
 ## Version Support
-- All versions abandoned until updooted to v.1.1.2
-- v.1.1.2: Not started
+- v1.12: Partial translation complete
 
 ## Usage
 Replace the `/data`, `/img` and `/js` folders with their respective counterparts.
