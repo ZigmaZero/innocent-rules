@@ -5,7 +5,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 (Updated as of Version 1.12)
 - Descriptions
     - Items: 100%
-    - Enemies: 36.25%
+    - Enemies: 54%
     - Weapons: 100%
     - Armors: 100%
 - Dialogue
