@@ -5,13 +5,13 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 (Updated as of Version 1.12)
 - Descriptions
     - Items: 100%
-    - Enemies: 78.75%
+    - Enemies: 100%
     - Weapons: 100%
     - Armors: 100%
 - Dialogue
     - Main Scenario: Complete
     - Postgame: Complete
-    - Talk Events: 0%
+    - Talk Events: 0/71
     - H-Events: 5/123
 
 ## Version Support
