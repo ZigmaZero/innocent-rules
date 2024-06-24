@@ -11,7 +11,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
 - Dialogue
     - Main Scenario: Complete
     - Postgame: Complete
-    - Talk Events: 26/71
+    - Talk Events: 33/89
+        - Base of Travels Ally Conversations: 0/32
     - H-Events: 5/123
 
 ## Version Support
