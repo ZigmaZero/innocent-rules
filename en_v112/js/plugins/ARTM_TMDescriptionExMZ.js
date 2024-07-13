@@ -877,7 +877,7 @@ TMPlugin.DescriptionEx.PassiveStateText = TMPlugin.DescriptionEx.Parameters["pas
         } else if (this._item.requiredWtypeId2 > 0) {
             text = $dataSystem.weaponTypes[this._item.requiredWtypeId2];
         } else {
-            text = "なし";
+            text = "None";
         }
         return text;
     };
