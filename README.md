@@ -2,7 +2,7 @@
 Translation project for Leaf Geometry's INNOCENT RULES.
 
 ## Translation Progress
-(Updated as of Version 1.12)
+(Version 1.12 / English Translation Version 0.2)
 - Descriptions
     - Items: 100%
     - Enemies: 100%
@@ -12,8 +12,8 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Main Scenario: Complete
     - Postgame: Complete
     - Talk Events: 89/89
-        - Earthless Ainoa (Taking a Break): 10/18
-    - H-Events: 5/123
+        - Earthless Ainoa (Taking a Break): 18/18
+    - H-Events: 6/123
 
 ## Version Support
 - v1.12: Partial translation complete
