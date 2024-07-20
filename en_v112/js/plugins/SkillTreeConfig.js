@@ -118,272 +118,272 @@ skillTreeTypes: [
     {
         actorId: 1,
         types: [
-            ["イノ", "Offense", "Acquire offensive skills."],
-            ["イノ２", "Support", "Acquire support skills."],
+            ["イノ", "攻撃系スキル", "攻撃系スキルを習得します。"],
+            ["イノ２", "補助系スキル", "補助系スキルを習得します。"],
         ]
     },
 
     {
         actorId: 2,
         types: [
-            ["フィーデ", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["フィーデ", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 11,
         types: [
-            ["犬人", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["犬人", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 12,
         types: [
-            ["廃棄人形", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["廃棄人形", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 13,
         types: [
-            ["迷子", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["迷子", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 14,
         types: [
-            ["殺人少女", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["殺人少女", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 15,
         types: [
-            ["悪鬼", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["悪鬼", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 16,
         types: [
-            ["乳牛", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["乳牛", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 17,
         types: [
-            ["正体不明", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["正体不明", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 18,
         types: [
-            ["大鮫", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["大鮫", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 19,
         types: [
-            ["ドラゴン", "Skill", "Acquire Skills."],
-            ["力特性", "Force", "Acquire Traits."],
+            ["ドラゴン", "スキル", "スキルを習得します。"],
+            ["力特性", "力特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 20,
         types: [
-            ["オイル", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["オイル", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 21,
         types: [
-            ["魔法使い", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["魔法使い", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 22,
         types: [
-            ["炎霊", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["炎霊", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 23,
         types: [
-            ["夜魔", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["夜魔", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 24,
         types: [
-            ["和夜魔", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["和夜魔", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 25,
         types: [
-            ["雪女", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["雪女", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 26,
         types: [
-            ["犬蛸", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["犬蛸", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 27,
         types: [
-            ["キマイラ", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["キマイラ", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 28,
         types: [
-            ["スライム", "Skill", "Acquire Skills."],
-            ["防御特性", "Guardian", "Acquire Traits."],
+            ["スライム", "スキル", "スキルを習得します。"],
+            ["防御特性", "防御特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 29,
         types: [
-            ["機械人形", "Skill", "Acquire Skills."],
-            ["防御特性", "Guardian", "Acquire Traits."],
+            ["機械人形", "スキル", "スキルを習得します。"],
+            ["防御特性", "防御特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 30,
         types: [
-            ["影", "Skill", "Acquire Skills."],
-            ["防御特性", "Guardian", "Acquire Traits."],
+            ["影", "スキル", "スキルを習得します。"],
+            ["防御特性", "防御特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 31,
         types: [
-            ["魔犬", "Skill", "Acquire Skills."],
-            ["防御特性", "Guardian", "Acquire Traits."],
+            ["魔犬", "スキル", "スキルを習得します。"],
+            ["防御特性", "防御特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 32,
         types: [
-            ["小型蛮族", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["小型蛮族", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 33,
         types: [
-            ["妖花", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["妖花", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 34,
         types: [
-            ["妖茸", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["妖茸", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 35,
         types: [
-            ["鳥人", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["鳥人", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 36,
         types: [
-            ["女王蟻", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["女王蟻", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 37,
         types: [
-            ["宿敵", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["宿敵", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 38,
         types: [
-            ["蛇女", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["蛇女", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 39,
         types: [
-            ["忍梟", "Skill", "Acquire Skills."],
-            ["補助特性", "Support", "Acquire Traits."],
+            ["忍梟", "スキル", "スキルを習得します。"],
+            ["補助特性", "補助特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 40,
         types: [
-            ["幽霊", "Skill", "Acquire Skills."],
-            ["補助特性", "Mystics", "Acquire Traits."],
+            ["幽霊", "スキル", "スキルを習得します。"],
+            ["補助特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 41,
         types: [
-            ["グーラ", "Skill", "Acquire Skills."],
-            ["魔法特性", "Mystics", "Acquire Traits."],
+            ["グーラ", "スキル", "スキルを習得します。"],
+            ["魔法特性", "魔法特性", "特性を習得します。"],
         ]
     },
 
     {
         actorId: 42,
         types: [
-            ["紡ぎ虫", "Skill", "Acquire Skills."],
-            ["防御特性", "Guardian", "Acquire Traits."],
+            ["紡ぎ虫", "スキル", "スキルを習得します。"],
+            ["防御特性", "防御特性", "特性を習得します。"],
         ]
     },
 ],

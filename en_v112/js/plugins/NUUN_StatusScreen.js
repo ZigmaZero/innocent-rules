@@ -1747,11 +1747,11 @@ Window_Status.prototype.paramNameShow = function(list, actor, params) {
     case 11:
       return TextManager.param(params - 2);
     case 12:
-      return "会心率";
+      return "Crit Rate";
     case 13:
       return "会心回避率";
     case 14:
-      return "魔法回避率";
+      return "Mag. Evade";
     case 15:
       return "魔法反射率";
     case 16:
