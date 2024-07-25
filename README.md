@@ -13,7 +13,7 @@ Translation project for Leaf Geometry's INNOCENT RULES.
     - Postgame: Complete
     - Talk Events: 89/89
         - Earthless Ainoa (Taking a Break): 18/18
-    - H-Events: 7/123
+    - H-Events: 8/123
 
 ## Version Support
 - v1.12: Partial translation complete
