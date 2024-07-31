@@ -1,26 +1,177 @@
 # innocent-rules
 Translation project for Leaf Geometry's INNOCENT RULES.
 
-## Translation Progress
-(Version 1.12 / English Translation Version 0.22)
-- Descriptions
-    - Items: 100%
-    - Enemies: 100%
-    - Weapons: 100%
-    - Armors: 100%
-- Dialogue
-    - Main Scenario: Complete
-    - Postgame: Complete
-    - Talk Events: 89/89
-        - Earthless Ainoa (Taking a Break): 18/18
-    - H-Events: 8/123
-
-## Version Support
-- v1.12: Partial translation complete
-
 ## Usage
 Replace the `/data`, `/img` and `/js` folders with their respective counterparts.
 
 ## Credits
 INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
+
+## Translation Progress
+(Version 1.12 / English Translation Version 0.23)
+H-Events: 9/123
+- Magician
+    - [ ] Mana Benefit Event
+    - [ ] Conclusion: Pervert
+    - [ ] Just the Right Chair
+- Oil
+    - [ ] Mana Benefit Event
+    - [ ] Wah?
+    - [ ] Wah!
+- Discarded Doll
+    - [ ] Mana Benefit Event
+    - [ ] Broken
+    - [ ] Souls of the Landfill
+- Snake Woman
+    - [ ] Mana Benefit Event
+    - [ ] Snake Tongue
+    - [ ] Snake Venom
+- Flower
+    - [ ] Mana Benefit Event
+    - [ ] Invitation
+    - [ ] Illness
+- Dog
+    - [ ] Mana Benefit Event
+    - [ ] Sprout
+    - [ ] That Which is Born With
+- Slime
+    - [ ] Mana Benefit Event
+    - [ ] Melty
+    - [ ] Slime Bath
+- Little Barbarian
+    - [ ] Mana Benefit Event
+    - [ ] Mating Master
+    - [ ] Consumable
+- Mushroom
+    - [ ] Mana Benefit Event
+    - [ ] Mushrooms Don't Move
+    - [ ] Over in a Blink
+- Spinner
+    - [ ] Mana Benefit Event
+    - [ ] Pure-White Bond
+    - [ ] The Monster That Ruins Man
+- Ghoula
+    - [ ] Mana Benefit Event
+    - [ ] Energized Corpse Girl
+    - [ ] Man-Eater
+- Snow Woman
+    - [ ] Mana Benefit Event
+    - [ ] Coldness Like Snow
+    - [ ] That Eventually Melts
+- Elder Succubus
+    - [ ] Mana Benefit Event
+    - [ ] Exceptional
+    - [ ] That Day
+- Ninja Owl
+    - [ ] Mana Benefit Event
+    - [ ] Mission Complete
+    - [ ] Special Training
+- Harpy
+    - [ ] Mana Benefit Event
+    - [ ] Father
+    - [ ] Shocking Experience
+- Machine Doll
+    - [ ] Mana Benefit Event
+    - [ ] Mana Resupplying
+    - [ ] Supply Officer Ino
+- Ant Queen
+    - [ ] Mana Benefit Event
+    - [ ] Queen's Pardon
+    - [ ] Queen's Blessing
+- Cow
+    - [ ] Mana Benefit Event
+    - [ ] Mana Extraction Course
+    - [ ] In the Ranch's Basement
+- Ghost
+    - [ ] Mana Benefit Event
+    - [ ] Terror of the Gap
+    - [ ] Terror in the Walls
+- Fiend
+    - [ ] Mana Benefit Event
+    - [ ] Talented
+    - [ ] Why is This Happening?
+- Murder Maiden
+    - [ ] Forbidden Promise
+    - [ ] Marvelous Day
+- Succubus
+    - [ ] Mana Benefit Event
+    - [ ] Negligence
+    - [ ] Senior's Gentle Guidance
+- Flame Spirit
+    - [ ] Mana Benefit Event
+    - [ ] Butt Monster
+    - [ ] Butt Lover
+- Shadow
+    - [ ] Mana Benefit Event
+    - [ ] Shadow Milking
+    - [ ] Shadowjob
+- Archenemy
+    - [ ] Mana Benefit Event
+    - [ ] The Hated One Knows of Love
+    - [ ] That Thing's Habitat
+- Lost Child
+    - [ ] Mana Benefit Event
+    - [ ] Not What is Expected
+    - [ ] The Horse Debuts
+- Unidentified
+    - [ ] Mana Benefit Event
+    - [ ] Mana Devourer
+    - [ ] Wet Dream?
+- Demon Dog
+    - [ ] Mana Benefit Event
+    - [ ] Demon Dog's Trial
+    - [ ] Like-Minded Exchange
+- Scylla
+    - [ ] Mana Benefit Event
+    - [ ] Serious Girl
+    - [ ] Mad Girl's Hope
+- Shark
+    - [x] Mana Benefit Event
+    - [x] Big Shark's Care
+    - [x] In Your Head
+- Chimera
+    - [ ] Mana Benefit Event
+    - [ ] TXlIb2xl
+    - [ ] Understanding All of You
+- Dragon
+    - [ ] Mana Benefit Event
+    - [ ] Dragon's Embrace
+    - [ ] Dragon Therapy (I want to call this "Dragon Slurpee" just for kicks. Let me know later if you'd prefer this.)
+- Fiede
+    - [x] Mana Benefit Event
+    - [x] The Star Chases the Dark
+    - [x] The Star Attracted by the Dark
+    - [x] The Star Goes Mad in the Dark
+    - [ ] The Star Within the Dark
+- Tahati
+    - [ ] Wanna Rub my Boobs?
+    - [ ] The Witch Chose Innocence
+    - [ ] The Witch Toys with the Budding Shoot
+    - [ ] A Very Great Witch
+- Ino
+    - [ ] "Touch" options
+    - [ ] Colorful Star
+    - [ ] Swamp
+    - [ ] Innocent Temptation
+    - [ ] Our Secret Only
+    - [ ] When Dots Became Lines
+    - [ ] The Star's Behind
+- Luora
+    - [x] At the Warehouse
+    - [x] At the Warehouse, Again
+- Muracca
+    - [ ] For the Future
+    - [ ] For the Future, Probably
+- Kann
+    - [ ] Lord of the Red Light City
+    - [ ] Mama of the Red Light City
+- Kilma
+    - [ ] The Shrine Maiden Alone in the Sea
+    - [ ] The Shrine Maiden Accompanied
+- Kaamos
+    - [ ] Temptation of Darkness
+    - [ ] Your Light Untainted
+- Base of Travels
+    - [ ] Succubi's Warning
+    - [ ] Succubi's Punishment
