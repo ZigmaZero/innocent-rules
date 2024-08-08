@@ -1775,9 +1775,9 @@ Window_Status.prototype.paramNameShow = function(list, actor, params) {
     case 25:
       return "TPチャージ率";
     case 26:
-      return "物理ダメージ率";
+      return "Physical DMG";
     case 27:
-      return "魔法ダメージ率";
+      return "Magical DMG";
     case 28:
       return "床ダメージ率";
     case 29:

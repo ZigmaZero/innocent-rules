@@ -101,13 +101,13 @@
     wd_fix_switch2[6] = 8; //8番のスイッチがONの時、6番のアクターは除籍不可。
 
     //除籍時のコマンドの記載テキスト
-    var wd_eliminate_text = "除籍する"; 
+    var wd_eliminate_text = "Remove"; 
 
     //テキストウィンドウ1に表示するテキスト
-    var wd_text1_mess = "現在のパーティ" ;
+    var wd_text1_mess = "Current Party" ;
 
     //テキストウィンドウ2に表示するテキスト
-    var wd_text2_mess = "控えキャラクター";
+    var wd_text2_mess = "Reserve Characters";
 
     //パーティから外すのみの処理を可能にする場合はtrue。falseの場合追加と交代のみ。
     var wd_remove_only = true;

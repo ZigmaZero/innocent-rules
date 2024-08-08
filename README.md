@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.23)
-H-Events: 9/123
+(Version 1.12 / English Translation Version 0.24)
+H-Events: 10/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -32,7 +32,7 @@ H-Events: 9/123
     - [ ] Invitation
     - [ ] Illness
 - Dog
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [ ] Sprout
     - [ ] That Which is Born With
 - Slime
