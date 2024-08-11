@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 10/123
+H-Events: 11/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -143,7 +143,7 @@ H-Events: 10/123
     - [x] The Star Chases the Dark
     - [x] The Star Attracted by the Dark
     - [x] The Star Goes Mad in the Dark
-    - [ ] The Star Within the Dark
+    - [x] The Star Within the Dark
 - Tahati
     - [ ] Wanna Rub my Boobs?
     - [ ] The Witch Chose Innocence
