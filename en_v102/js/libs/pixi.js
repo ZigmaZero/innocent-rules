@@ -25754,10 +25754,10 @@ var PIXI = (function (exports) {
 
 	    /**
 	     * Fetches an attribute buffer from `this._aBuffers` that
-	     * can hold atleast `size` floats.
+	     * can hold at least `size` floats.
 	     *
 	     * @param {number} size - minimum capacity required
-	     * @return {ViewableBuffer} - buffer than can hold atleast `size` floats
+	     * @return {ViewableBuffer} - buffer than can hold at least `size` floats
 	     * @private
 	     */
 	    AbstractBatchRenderer.prototype.getAttributeBuffer = function getAttributeBuffer (size)
@@ -25784,7 +25784,7 @@ var PIXI = (function (exports) {
 
 	    /**
 	     * Fetches an index buffer from `this._iBuffers` that can
-	     * has atleast `size` capacity.
+	     * has at least `size` capacity.
 	     *
 	     * @param {number} size - minimum required capacity
 	     * @return {Uint16Array} - buffer that can fit `size`

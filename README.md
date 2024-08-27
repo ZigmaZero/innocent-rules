@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 11/123
+H-Events: 12/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -41,7 +41,7 @@ H-Events: 11/123
     - [ ] Slime Bath
 - Little Barbarian
     - [ ] Mana Benefit Event
-    - [ ] Mating Master
+    - [x] Mating Master
     - [ ] Consumable
 - Mushroom
     - [ ] Mana Benefit Event
