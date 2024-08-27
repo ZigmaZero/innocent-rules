@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 12/123
+H-Events: 13/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -37,7 +37,7 @@ H-Events: 12/123
     - [ ] That Which is Born With
 - Slime
     - [ ] Mana Benefit Event
-    - [ ] Melty
+    - [x] Melty
     - [ ] Slime Bath
 - Little Barbarian
     - [ ] Mana Benefit Event
