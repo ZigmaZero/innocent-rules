@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 16/123
+H-Events: 17/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -25,7 +25,7 @@ H-Events: 16/123
     - [ ] Souls of the Landfill
 - Snake Woman
     - [ ] Mana Benefit Event
-    - [ ] Snake Tongue
+    - [x] Snake Tongue
     - [ ] Snake Venom
 - Flower
     - [ ] Mana Benefit Event
