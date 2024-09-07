@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 20/123
+H-Events: 21/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -34,7 +34,7 @@ H-Events: 20/123
 - Dog
     - [x] Mana Benefit Event
     - [ ] Sprout
-    - [ ] That Which is Born With
+    - [ ] What One is Born With
 - Slime
     - [x] Mana Benefit Event
     - [x] Melty
@@ -167,8 +167,8 @@ H-Events: 20/123
     - [ ] Lord of the Red Light City
     - [ ] Mama of the Red Light City
 - Kilma
-    - [x] The Shrine Maiden Alone in the Sea
-    - [ ] The Shrine Maiden Accompanied
+    - [x] Alone Under the Sea
+    - [x] Together Under the Sea
 - Kaamos
     - [ ] Temptation of Darkness
     - [ ] Your Light Untainted
