@@ -116,7 +116,7 @@ H-Events: 17/123
     - [ ] The Horse Debuts
 - Unidentified
     - [ ] Mana Benefit Event
-    - [ ] Mana Devourer
+    - [x] Mana Devourer
     - [ ] Wet Dream?
 - Demon Dog
     - [ ] Mana Benefit Event
