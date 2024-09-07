@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 17/123
+H-Events: 19/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -167,7 +167,7 @@ H-Events: 17/123
     - [ ] Lord of the Red Light City
     - [ ] Mama of the Red Light City
 - Kilma
-    - [ ] The Shrine Maiden Alone in the Sea
+    - [x] The Shrine Maiden Alone in the Sea
     - [ ] The Shrine Maiden Accompanied
 - Kaamos
     - [ ] Temptation of Darkness
