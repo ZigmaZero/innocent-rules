@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 19/123
+H-Events: 20/123
 - Magician
     - [ ] Mana Benefit Event
     - [ ] Conclusion: Pervert
@@ -125,7 +125,7 @@ H-Events: 19/123
 - Scylla
     - [ ] Mana Benefit Event
     - [ ] Serious Girl
-    - [ ] Mad Girl's Hope
+    - [x] Mad Girl's Hope
 - Shark
     - [x] Mana Benefit Event
     - [x] Big Shark's Care
