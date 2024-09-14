@@ -12,8 +12,8 @@ Translation by Summation.
 (Version 1.12 / English Translation Version 0.24)
 H-Events: 21/123
 - Magician
-    - [ ] Mana Benefit Event
-    - [ ] Conclusion: Pervert
+    - [x] Mana Benefit Event
+    - [x] Conclusion: Pervert
     - [ ] Just the Right Chair
 - Oil
     - [ ] Mana Benefit Event
