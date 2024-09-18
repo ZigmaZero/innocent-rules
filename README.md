@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 25/124
+H-Events: 26/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -40,7 +40,7 @@ H-Events: 25/124
     - [x] Melty
     - [x] Slime Bath
 - Little Barbarian
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Mating Master
     - [ ] Consumable
 - Mushroom
