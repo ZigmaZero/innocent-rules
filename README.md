@@ -10,11 +10,11 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 24/124
+H-Events: 25/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
-    - [ ] Just the Right Chair
+    - [x] Just the Right Chair
 - Oil
     - [ ] Mana Benefit Event
     - [ ] Wah?
