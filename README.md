@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 26/124
+H-Events: 27/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -33,7 +33,7 @@ H-Events: 26/124
     - [ ] Illness
 - Dog
     - [x] Mana Benefit Event
-    - [ ] Sprout
+    - [x] Sprout
     - [ ] What One is Born With
 - Slime
     - [x] Mana Benefit Event
