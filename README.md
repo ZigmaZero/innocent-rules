@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.24)
-H-Events: 27/124
+H-Events: 28/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -152,7 +152,7 @@ H-Events: 27/124
     - [ ] A Very Great Witch
 - Ino
     - [ ] "Touch" options
-    - [ ] Colorful Star
+    - [x] Colorful Star
     - [ ] Swamp
     - [ ] Innocent Temptation
     - [ ] Our Secret Only
