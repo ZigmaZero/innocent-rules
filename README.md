@@ -9,16 +9,16 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.24)
-H-Events: 28/124
+(Version 1.12 / English Translation Version 0.27)
+H-Events: 32/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
     - [x] Just the Right Chair
 - Oil
-    - [ ] Mana Benefit Event
-    - [ ] Wah?
-    - [ ] Wah!
+    - [x] Mana Benefit Event
+    - [x] Wah?
+    - [x] Wah!
 - Discarded Doll
     - [ ] Mana Benefit Event
     - [ ] Broken
@@ -116,7 +116,7 @@ H-Events: 28/124
     - [ ] Not What is Expected
     - [ ] The Horse Debuts
 - Unidentified
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Mana Devourer
     - [ ] Wet Dream?
 - Demon Dog
