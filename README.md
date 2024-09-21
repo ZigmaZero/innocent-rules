@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 34/124
+H-Events: 35/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -146,10 +146,10 @@ H-Events: 34/124
     - [x] The Star Goes Mad in the Dark
     - [x] The Star Within the Dark
 - Tahati
-    - [ ] Wanna Rub my Boobs?
+    - [x] Wanna Rub Them?
     - [ ] The Witch Chose Innocence
     - [ ] The Witch Toys with the Budding Shoot
-    - [ ] A Very Great Witch
+    - [ ] A Very Amazing Witch
 - Ino
     - [ ] "Touch" options
     - [x] Colorful Star
