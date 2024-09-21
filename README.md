@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 35/124
+H-Events: 36/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -148,8 +148,9 @@ H-Events: 35/124
 - Tahati
     - [x] Wanna Rub Them?
     - [ ] The Witch Chose Innocence
-    - [ ] The Witch Toys with the Budding Shoot
+    - [ ] The Witch Toys with the Young Bud
     - [ ] A Very Amazing Witch
+    - [x] "Touch" options
 - Ino
     - [ ] "Touch" options
     - [x] Colorful Star
