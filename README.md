@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.27)
-H-Events: 32/124
+(Version 1.12 / English Translation Version 0.28)
+H-Events: 34/124
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -24,9 +24,9 @@ H-Events: 32/124
     - [ ] Broken
     - [ ] Souls of the Landfill
 - Snake Woman
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Snake Tongue
-    - [ ] Snake Venom
+    - [x] Snake Venom
 - Flower
     - [ ] Mana Benefit Event
     - [ ] Invitation
