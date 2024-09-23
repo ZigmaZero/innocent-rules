@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 36/125
+H-Events: 37/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -175,5 +175,5 @@ H-Events: 36/125
     - [ ] Temptation of Darkness
     - [ ] Your Light Untainted
 - Base of Travels
-    - [ ] Succubi's Warning
+    - [x] Succubi's Warning
     - [ ] Succubi's Punishment
