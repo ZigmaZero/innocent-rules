@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 38/125
+H-Events: 39/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -164,7 +164,7 @@ H-Events: 38/125
     - [x] At the Warehouse, Again
 - Muracca
     - [x] For the Future
-    - [ ] For the Future, Probably
+    - [x] For the Future, Probably
 - Kann
     - [ ] Lord of the Red Light City
     - [ ] Mama of the Red Light City
