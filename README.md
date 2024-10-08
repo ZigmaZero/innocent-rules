@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 41/125
+H-Events: 43/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -28,8 +28,8 @@ H-Events: 41/125
     - [x] Snake Tongue
     - [x] Snake Venom
 - Flower
-    - [ ] Mana Benefit Event
-    - [ ] Invitation
+    - [x] Mana Benefit Event
+    - [x] Invite
     - [ ] Illness
 - Dog
     - [x] Mana Benefit Event
