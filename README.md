@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 45/125
+H-Events: 46/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -30,7 +30,7 @@ H-Events: 45/125
 - Flower
     - [x] Mana Benefit Event
     - [x] Invite
-    - [ ] Illness
+    - [x] Illness
 - Dog
     - [x] Mana Benefit Event
     - [x] Sprout
