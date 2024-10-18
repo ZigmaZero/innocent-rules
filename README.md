@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 46/125
+H-Events: 49/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -20,9 +20,9 @@ H-Events: 46/125
     - [x] Wah?
     - [x] Wah!
 - Discarded Doll
-    - [ ] Mana Benefit Event
-    - [ ] Broken
-    - [ ] Souls of the Landfill
+    - [x] Mana Benefit Event
+    - [x] Broken
+    - [x] Souls of the Landfill
 - Snake Woman
     - [x] Mana Benefit Event
     - [x] Snake Tongue
@@ -30,7 +30,7 @@ H-Events: 46/125
 - Flower
     - [x] Mana Benefit Event
     - [x] Invite
-    - [x] Illness
+    - [x] Of Ill Health
 - Dog
     - [x] Mana Benefit Event
     - [x] Sprout
