@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 52/125
+H-Events: 54/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -48,8 +48,8 @@ H-Events: 52/125
     - [ ] Mushrooms Don't Move
     - [ ] Over in a Blink
 - Spinner
-    - [ ] Mana Benefit Event
-    - [ ] Pure-White Bond
+    - [x] Mana Benefit Event
+    - [x] Pure-White Thread
     - [ ] The Monster That Ruins Man
 - Ghoula
     - [ ] Mana Benefit Event
