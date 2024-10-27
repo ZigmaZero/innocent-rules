@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 49/125
+H-Events: 52/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -56,9 +56,9 @@ H-Events: 49/125
     - [ ] Energized Corpse Girl
     - [ ] Man-Eater
 - Snow Woman
-    - [ ] Mana Benefit Event
-    - [ ] Coldness Like Snow
-    - [ ] That Eventually Melts
+    - [x] Mana Benefit Event
+    - [x] Coldness Like Snow
+    - [x] That Eventually Melts
 - Elder Succubus
     - [ ] Mana Benefit Event
     - [ ] Exceptional
