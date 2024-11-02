@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 54/125
+H-Events: 55/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -50,7 +50,7 @@ H-Events: 54/125
 - Spinner
     - [x] Mana Benefit Event
     - [x] Pure-White Thread
-    - [ ] The Monster That Ruins Man
+    - [x] The Monster That Ruins Man
 - Ghoula
     - [ ] Mana Benefit Event
     - [ ] Energized Corpse Girl
