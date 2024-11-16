@@ -72,8 +72,8 @@ H-Events: 55/125
     - [ ] Father
     - [ ] Shocking Experience
 - Machine Doll
-    - [ ] Mana Benefit Event
-    - [ ] Mana Resupplying
+    - [x] Mana Benefit Event
+    - [x] Mana Resupplying
     - [ ] Supply Officer Ino
 - Ant Queen
     - [ ] Mana Benefit Event
