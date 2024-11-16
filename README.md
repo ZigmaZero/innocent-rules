@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 55/125
+H-Events: 58/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -74,7 +74,7 @@ H-Events: 55/125
 - Machine Doll
     - [x] Mana Benefit Event
     - [x] Mana Resupplying
-    - [ ] Supply Officer Ino
+    - [x] Supply Officer Ino
 - Ant Queen
     - [ ] Mana Benefit Event
     - [ ] Queen's Pardon
