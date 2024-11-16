@@ -124,7 +124,7 @@ H-Events: 61/125
     - [ ] Demon Dog's Trial
     - [ ] Like-Minded Exchange
 - Scylla
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Serious Kid
     - [x] Mad Girl's Hope
 - Shark
