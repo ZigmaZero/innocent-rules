@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 58/125
+H-Events: 60/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -125,14 +125,14 @@ H-Events: 58/125
     - [ ] Like-Minded Exchange
 - Scylla
     - [ ] Mana Benefit Event
-    - [ ] Serious Girl
+    - [x] Serious Kid
     - [x] Mad Girl's Hope
 - Shark
     - [x] Mana Benefit Event
     - [x] Big Shark's Care
     - [x] In Your Head
 - Chimera
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] TXlIb2xl
     - [x] You Understand Everything
 - Dragon
