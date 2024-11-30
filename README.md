@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 65/125
+H-Events: 67/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -44,9 +44,9 @@ H-Events: 65/125
     - [x] Mating Master
     - [x] Consumable
 - Mushroom
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Mushrooms Don't Move
-    - [ ] Over in a Blink
+    - [x] Over at a Glance
 - Spinner
     - [x] Mana Benefit Event
     - [x] Pure-White Thread
