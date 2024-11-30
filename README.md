@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 64/125
+H-Events: 65/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -45,7 +45,7 @@ H-Events: 64/125
     - [x] Consumable
 - Mushroom
     - [ ] Mana Benefit Event
-    - [ ] Mushrooms Don't Move
+    - [x] Mushrooms Don't Move
     - [ ] Over in a Blink
 - Spinner
     - [x] Mana Benefit Event
