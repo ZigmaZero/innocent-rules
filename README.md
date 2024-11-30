@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 63/125
+H-Events: 64/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -42,7 +42,7 @@ H-Events: 63/125
 - Little Barbarian
     - [x] Mana Benefit Event
     - [x] Mating Master
-    - [ ] Consumable
+    - [x] Consumable
 - Mushroom
     - [ ] Mana Benefit Event
     - [ ] Mushrooms Don't Move
