@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.28)
-H-Events: 68/125
+H-Events: 69/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -149,7 +149,7 @@ H-Events: 68/125
     - [x] Wanna Rub Them?
     - [x] The Witch Plucks Upon Innocence
     - [x] The Witch Toys With Adolescence
-    - [ ] A Very Amazing Witch
+    - [x] A Very Amazing Witch
     - [x] "Touch" options
 - Ino
     - [ ] "Touch" options
