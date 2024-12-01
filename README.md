@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.29)
-H-Events: 71/125
+H-Events: 73/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -64,8 +64,8 @@ H-Events: 71/125
     - [ ] Exceptional
     - [ ] That Day
 - Ninja Owl
-    - [ ] Mana Benefit Event
-    - [ ] Mission Complete
+    - [x] Mana Benefit Event
+    - [x] Mission Complete
     - [x] Special Training
 - Harpy
     - [ ] Mana Benefit Event
