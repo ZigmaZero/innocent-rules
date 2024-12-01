@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.28)
-H-Events: 69/125
+(Version 1.12 / English Translation Version 0.29)
+H-Events: 70/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -155,7 +155,7 @@ H-Events: 69/125
     - [ ] "Touch" options
     - [x] Colorful Star
     - [ ] Swamp
-    - [ ] Innocent Temptation
+    - [x] Innocent Temptation
     - [ ] Our Secret Only
     - [ ] When Dots Became Lines
     - [ ] The Star's Behind
