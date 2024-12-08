@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 74/125
+H-Events: 75/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -92,7 +92,7 @@ H-Events: 74/125
     - [ ] Talented
     - [ ] Why is This Happening?
 - Murder Maiden
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Forbidden Promise
     - [x] Marvelous Day
 - Succubus
