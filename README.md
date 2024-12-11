@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 76/125
+H-Events: 80/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -96,7 +96,7 @@ H-Events: 76/125
     - [x] Forbidden Promise
     - [x] Marvelous Day
 - Succubus
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Negligence
     - [ ] Senior's Gentle Guidance
 - Flame Spirit
@@ -104,9 +104,9 @@ H-Events: 76/125
     - [ ] Butt Monster
     - [ ] Butt Lover
 - Shadow
-    - [ ] Mana Benefit Event
-    - [ ] Shadow Milking
-    - [ ] Shadowjob
+    - [x] Mana Benefit Event
+    - [x] Shadow Milking
+    - [x] Shadowjob
 - Archenemy
     - [ ] Mana Benefit Event
     - [ ] The Hated One Knows of Love
