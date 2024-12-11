@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 80/125
+H-Events: 81/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -98,7 +98,7 @@ H-Events: 80/125
 - Succubus
     - [x] Mana Benefit Event
     - [x] Negligence
-    - [ ] Senior's Gentle Guidance
+    - [x] Senpai's Guidance (+ Senpai MiniScn)
 - Flame Spirit
     - [ ] Mana Benefit Event
     - [ ] Butt Monster
