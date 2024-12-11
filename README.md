@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 75/125
+H-Events: 76/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -97,7 +97,7 @@ H-Events: 75/125
     - [x] Marvelous Day
 - Succubus
     - [ ] Mana Benefit Event
-    - [ ] Negligence
+    - [x] Negligence
     - [ ] Senior's Gentle Guidance
 - Flame Spirit
     - [ ] Mana Benefit Event
