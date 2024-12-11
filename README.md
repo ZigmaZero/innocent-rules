@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 81/125
+H-Events: 82/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -172,7 +172,7 @@ H-Events: 81/125
     - [x] Alone Under the Sea
     - [x] Together Under the Sea
 - Kaamos
-    - [ ] Temptation of Darkness
+    - [x] Temptation of Darkness
     - [ ] Your Light Untainted
 - Base of Travels
     - [x] Succubi's Warning
