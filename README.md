@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 82/125
+H-Events: 83/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -137,7 +137,7 @@ H-Events: 82/125
     - [x] You Understand Everything
 - Dragon
     - [ ] Mana Benefit Event
-    - [ ] Dragon's Embrace
+    - [x] Dragon's Embrace
     - [ ] Dragon Therapy (I want to call this "Dragon Slurpee" just for kicks. Let me know later if you'd prefer this.)
 - Fiede
     - [x] Mana Benefit Event
