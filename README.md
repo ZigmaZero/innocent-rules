@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 86/125
+H-Events: 87/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -114,7 +114,7 @@ H-Events: 86/125
 - Lost Child
     - [ ] Mana Benefit Event
     - [x] This can't be happening!
-    - [ ] The Horse Debuts
+    - [x] The Horse Debuts
 - Unidentified
     - [x] Mana Benefit Event
     - [x] Mana Devourer
