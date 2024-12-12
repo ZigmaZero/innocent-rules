@@ -136,9 +136,9 @@ H-Events: 83/125
     - [x] TXlIb2xl
     - [x] You Understand Everything
 - Dragon
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Dragon's Embrace
-    - [ ] Dragon Therapy (I want to call this "Dragon Slurpee" just for kicks. Let me know later if you'd prefer this.)
+    - [x] Dragon Therapy (Okay, "Therapy" was accurate.)
 - Fiede
     - [x] Mana Benefit Event
     - [x] The Star Chases the Dark
