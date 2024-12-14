@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 87/125
+H-Events: 91/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -76,7 +76,7 @@ H-Events: 87/125
     - [x] Mana Resupplying
     - [x] Supply Officer Ino
 - Ant Queen
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [ ] Queen's Pardon
     - [ ] Queen's Blessing
 - Cow
@@ -85,8 +85,8 @@ H-Events: 87/125
     - [ ] In the Ranch's Basement
 - Ghost
     - [ ] Mana Benefit Event
-    - [ ] Terror of the Gap
-    - [ ] Terror in the Walls
+    - [x] Terror of the Gap
+    - [x] Terror in the Walls
 - Fiend
     - [ ] Mana Benefit Event
     - [ ] Talented
@@ -118,7 +118,7 @@ H-Events: 87/125
 - Unidentified
     - [x] Mana Benefit Event
     - [x] Mana Devourer
-    - [ ] Wet Dream?
+    - [x] Wet Dream?
 - Demon Dog
     - [ ] Mana Benefit Event
     - [ ] Demon Dog's Trial
