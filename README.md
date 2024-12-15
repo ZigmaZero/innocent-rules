@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 94/125
+H-Events: 95/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -90,7 +90,7 @@ H-Events: 94/125
 - Fiend
     - [x] Mana Benefit Event
     - [x] Talented
-    - [ ] Why is This Happening?
+    - [x] Why Am I So
 - Murder Maiden
     - [x] Mana Benefit Event
     - [x] Forbidden Promise
