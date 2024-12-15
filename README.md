@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.31)
-H-Events: 95/125
+H-Events: 97/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -60,8 +60,8 @@ H-Events: 95/125
     - [x] Coldness Like Snow
     - [x] That Eventually Melts
 - Elder Succubus
-    - [ ] Mana Benefit Event
-    - [ ] Exceptional
+    - [x] Mana Benefit Event
+    - [x] Exceptional
     - [ ] That Day
 - Ninja Owl
     - [x] Mana Benefit Event
