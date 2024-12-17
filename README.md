@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.4.0)
-H-Events: 100/125
+H-Events: 102/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -62,7 +62,7 @@ H-Events: 100/125
 - Elder Succubus
     - [x] Mana Benefit Event
     - [x] Exceptional
-    - [ ] That Day
+    - [x] That Day
 - Ninja Owl
     - [x] Mana Benefit Event
     - [x] Mission Complete
@@ -112,7 +112,7 @@ H-Events: 100/125
     - [ ] The Hated One Knows of Love
     - [ ] That Thing's Habitat
 - Lost Child
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] This can't be happening!
     - [x] The Horse Debuts
 - Unidentified
