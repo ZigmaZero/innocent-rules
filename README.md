@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.4.0)
-H-Events: 102/125
+H-Events: 103/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -53,7 +53,7 @@ H-Events: 102/125
     - [x] The Monster That Ruins Man
 - Ghoula
     - [x] Mana Benefit Event
-    - [ ] Energized Corpse Girl
+    - [x] Energized Corpse Girl
     - [ ] Man-Eater
 - Snow Woman
     - [x] Mana Benefit Event
