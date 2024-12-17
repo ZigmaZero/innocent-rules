@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.31)
-H-Events: 97/125
+(Version 1.12 / English Translation Version 0.4.0)
+H-Events: 100/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -100,9 +100,9 @@ H-Events: 97/125
     - [x] Negligence
     - [x] Senpai's Guidance (+ Senpai MiniScn)
 - Flame Spirit
-    - [ ] Mana Benefit Event
-    - [ ] Butt Monster
-    - [ ] Butt Lover
+    - [x] Mana Benefit Event
+    - [x] Butt Monster
+    - [x] Butt Lover
 - Shadow
     - [x] Mana Benefit Event
     - [x] Shadow Milking
