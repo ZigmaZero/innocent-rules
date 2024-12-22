@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.4.6)
-H-Events: 113/125
+H-Events: 114/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -69,7 +69,7 @@ H-Events: 113/125
     - [x] Special Training
 - Harpy
     - [ ] Mana Benefit Event
-    - [ ] Father
+    - [x] Daddy
     - [ ] Shocking Experience
 - Machine Doll
     - [x] Mana Benefit Event
