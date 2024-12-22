@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.4.6)
-H-Events: 114/125
+(Version 1.12 / English Translation Version 0.4.7)
+H-Events: 115/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -68,7 +68,7 @@ H-Events: 114/125
     - [x] Mission Complete
     - [x] Special Training
 - Harpy
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Daddy
     - [ ] Shocking Experience
 - Machine Doll
