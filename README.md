@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.4.5)
-H-Events: 111/125
+(Version 1.12 / English Translation Version 0.4.6)
+H-Events: 113/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -108,8 +108,8 @@ H-Events: 111/125
     - [x] Shadow Milking
     - [x] Shadowjob
 - Archenemy
-    - [ ] Mana Benefit Event
-    - [ ] The Hated One Knows of Love
+    - [x] Mana Benefit Event
+    - [x] The Hated One Learns of Love
     - [x] That Thing's Habitat
 - Lost Child
     - [x] Mana Benefit Event
