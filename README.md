@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.4.2)
-H-Events: 105/125
+(Version 1.12 / English Translation Version 0.4.3)
+H-Events: 106/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -77,7 +77,7 @@ H-Events: 105/125
     - [x] Supply Officer Ino
 - Ant Queen
     - [x] Mana Benefit Event
-    - [ ] Queen's Pardon
+    - [x] Queen's Pardon
     - [ ] Queen's Blessing
 - Cow
     - [x] Mana Benefit Event
