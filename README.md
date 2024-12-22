@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.4.1)
-H-Events: 104/125
+(Version 1.12 / English Translation Version 0.4.2)
+H-Events: 105/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -80,7 +80,7 @@ H-Events: 104/125
     - [ ] Queen's Pardon
     - [ ] Queen's Blessing
 - Cow
-    - [ ] Mana Benefit Event
+    - [x] Mana Benefit Event
     - [x] Mana Extraction Course
     - [ ] In the Ranch's Basement
 - Ghost
@@ -166,7 +166,7 @@ H-Events: 104/125
     - [x] For the Future
     - [x] For the Future, Probably
 - Kann
-    - [ ] Lord of the Red Light City
+    - [x] Lord of the Red Light City
     - [ ] Mama of the Red Light City
 - Kilma
     - [x] Alone Under the Sea
