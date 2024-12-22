@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.4.0)
-H-Events: 103/125
+(Version 1.12 / English Translation Version 0.4.1)
+H-Events: 104/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -81,7 +81,7 @@ H-Events: 103/125
     - [ ] Queen's Blessing
 - Cow
     - [ ] Mana Benefit Event
-    - [ ] Mana Extraction Course
+    - [x] Mana Extraction Course
     - [ ] In the Ranch's Basement
 - Ghost
     - [x] Mana Benefit Event
