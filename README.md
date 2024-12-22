@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.4.3)
-H-Events: 106/125
+H-Events: 108/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -78,7 +78,7 @@ H-Events: 106/125
 - Ant Queen
     - [x] Mana Benefit Event
     - [x] Queen's Pardon
-    - [ ] Queen's Blessing
+    - [x] Queen's Blessing
 - Cow
     - [x] Mana Benefit Event
     - [x] Mana Extraction Course
@@ -173,7 +173,7 @@ H-Events: 106/125
     - [x] Together Under the Sea
 - Kaamos
     - [x] Temptation of Darkness
-    - [ ] Your Light Untainted
+    - [x] Your Light Is Untainted
 - Base of Travels
     - [x] Succubi's Warning
     - [x] Succubi's Punishment
