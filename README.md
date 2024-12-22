@@ -10,7 +10,7 @@ Translation by Summation.
 
 ## Translation Progress
 (Version 1.12 / English Translation Version 0.4.3)
-H-Events: 108/125
+H-Events: 109/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -82,7 +82,7 @@ H-Events: 108/125
 - Cow
     - [x] Mana Benefit Event
     - [x] Mana Extraction Course
-    - [ ] In the Ranch's Basement
+    - [x] In the Ranch's Basement
 - Ghost
     - [x] Mana Benefit Event
     - [x] Terror of the Gap
