@@ -9,8 +9,8 @@ INNOCENT RULES by Leaf Geometry.
 Translation by Summation.
 
 ## Translation Progress
-(Version 1.12 / English Translation Version 0.4.3)
-H-Events: 109/125
+(Version 1.12 / English Translation Version 0.4.4)
+H-Events: 110/125
 - Magician
     - [x] Mana Benefit Event
     - [x] Conclusion: Pervert
@@ -54,7 +54,7 @@ H-Events: 109/125
 - Ghoula
     - [x] Mana Benefit Event
     - [x] Energized Corpse Girl
-    - [ ] Man-Eater
+    - [x] Man-Eater
 - Snow Woman
     - [x] Mana Benefit Event
     - [x] Coldness Like Snow
